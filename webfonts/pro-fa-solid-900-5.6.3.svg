@@ -1,12 +1,8 @@
 <?xml version="1.0" standalone="no"?>
-<!--
-Font Awesome Pro 5.14.0 by @fontawesome - https://fontawesome.com
-License - https://fontawesome.com/license (Commercial License)
--->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20200314 at Wed Jul 15 12:01:07 2020
+Created by FontForge 20200314 at Mon Sep 28 13:17:29 2020
  By Robert Madole
 Copyright (c) Font Awesome
 </metadata>
@@ -32,3 +28,8 @@ c16.6406 20.3799 35.4199 40.6699 56.2197 59.9697zM304.09 56.1504c49.2402 34.4492
 c-48.4805 -58.1201 -72.79 -92.1396 -72.79 -130.75c0 -77.5098 58.71 -125.25 130.86 -125.25c28.8594 0 55.5693 8.99023 77.2295 24.1504z" />
   </font>
 </defs></svg>
+
+<!--
+Font Awesome Pro 5.15.0 by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license (Commercial License)
+-->

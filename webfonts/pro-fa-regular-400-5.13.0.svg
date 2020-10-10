@@ -1,12 +1,8 @@
 <?xml version="1.0" standalone="no"?>
-<!--
-Font Awesome Pro 5.14.0 by @fontawesome - https://fontawesome.com
-License - https://fontawesome.com/license (Commercial License)
--->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20200314 at Wed Jul 15 12:01:17 2020
+Created by FontForge 20200314 at Mon Sep 28 13:17:37 2020
  By Robert Madole
 Copyright (c) Font Awesome
 </metadata>
@@ -35,3 +31,8 @@ c3.2002 4.30078 8 6.40039 12.7998 6.40039s9.59961 -2.09961 12.7998 -6.40039c26.1
 s48 20.5996 48 46c-0.5 10 -14 41.2998 -48 91.0996z" />
   </font>
 </defs></svg>
+
+<!--
+Font Awesome Pro 5.15.0 by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license (Commercial License)
+-->
