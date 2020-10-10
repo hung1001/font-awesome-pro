@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 5.15.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 5.15.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 
@@ -9506,7 +9506,7 @@ readers do not read off random characters that represent icons */
   font-display: block;
   src: url("../webfonts/pro-fa-brands-400-5.0.0.eot");
   src: url("../webfonts/pro-fa-brands-400-5.0.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-brands-400-5.0.0.woff2") format("woff2"), url("../webfonts/pro-fa-brands-400-5.0.0.woff") format("woff"), url("../webfonts/pro-fa-brands-400-5.0.0.ttf") format("truetype"), url("../webfonts/pro-fa-brands-400-5.0.0.svg#fontawesome") format("svg");
-  unicode-range: U+F081,U+F08C,U+F092,U+F099,U+F09B,U+F0D2-F0D5,U+F113,U+F136,U+F13B-F13C,U+F15A,U+F167-F169,U+F16C-F16E,U+F170,U+F173-F174,U+F17A,U+F17C-F17E,U+F180,U+F184,U+F189-F18C,U+F194,U+F19A-F19B,U+F1A0-F1A4,U+F1A6-F1A7,U+F1A9-F1AA,U+F1B4,U+F1B6-F1B7,U+F1BC-F1BE,U+F1CA-F1CC,U+F1D0-F1D1,U+F1D4-F1D6,U+F1E7,U+F1ED-F1EE,U+F1F0-F1F2,U+F1F4-F1F5,U+F202,U+F208-F209,U+F20D-F20E,U+F211-F213,U+F215,U+F231-F232,U+F237,U+F23A-F23B,U+F23D-F23E,U+F24B-F24C,U+F260-F261,U+F263-F266,U+F268,U+F26A-F26B,U+F26D-F26E,U+F270,U+F27D-F27E,U+F280-F281,U+F284-F285,U+F287-F28A,U+F293-F294,U+F297-F299,U+F2A5-F2A6,U+F2A9,U+F2AB-F2AD,U+F2B0,U+F2B2,U+F2B4,U+F2B8,U+F2C4,U+F2C6,U+F2D6-F2DA,U+F2DD-F2DE,U+F2E0,U+F35C,U+F368-F374,U+F378-F37D,U+F37F-F380,U+F383-F385,U+F388,U+F38B-F38F,U+F392,U+F394-F397,U+F399-F39A,U+F3A1-F3A4,U+F3A6-F3B2,U+F3B4-F3B8,U+F3BA-F3BC,U+F3C0,U+F3C3-F3C4,U+F3C6-F3C8,U+F3CA,U+F3CC,U+F3D0,U+F3D2,U+F3D4,U+F3D6-F3D7,U+F3DA-F3DB,U+F3DF,U+F3E1-F3E3,U+F3E6-F3E7,U+F3E9-F3EC,U+F3EE-F3EF,U+F3F5-F3F6,U+F3F8-F3F9,U+F3FE,U+F402-F405,U+F407-F408,U+F40A-F40D,U+F411-F417,U+F419,U+F41B-F41D,U+F41F,U+F421,U+F426;
+  unicode-range: U+F081,U+F08C,U+F092,U+F099,U+F09B,U+F0D2-F0D5,U+F113,U+F136,U+F13B-F13C,U+F15A,U+F167-F169,U+F16C-F16E,U+F170,U+F173-F174,U+F17A,U+F17C-F17E,U+F180,U+F184,U+F189-F18C,U+F194,U+F19A-F19B,U+F1A0-F1A4,U+F1A6-F1A7,U+F1A9-F1AA,U+F1B4,U+F1B6-F1B7,U+F1BC-F1BE,U+F1CA-F1CC,U+F1D0-F1D1,U+F1D4-F1D6,U+F1E7,U+F1ED-F1EE,U+F1F0-F1F2,U+F1F4-F1F5,U+F202,U+F208-F209,U+F20D-F20E,U+F211-F213,U+F215,U+F231-F232,U+F237,U+F23A-F23B,U+F23D-F23E,U+F24B-F24C,U+F260-F261,U+F263-F266,U+F268,U+F26A-F26B,U+F26D-F26E,U+F270,U+F27D-F27E,U+F280-F281,U+F284-F285,U+F287-F28A,U+F293-F294,U+F297-F299,U+F2A5-F2A6,U+F2A9,U+F2AB-F2AD,U+F2B0,U+F2B2,U+F2B4,U+F2B8,U+F2C4,U+F2C6,U+F2D6-F2D8,U+F2DA,U+F2DD-F2DE,U+F2E0,U+F35C,U+F368-F374,U+F378-F37D,U+F37F-F380,U+F383-F385,U+F388,U+F38B-F38F,U+F392,U+F394-F397,U+F399-F39A,U+F3A1-F3A4,U+F3A6-F3B2,U+F3B4-F3B8,U+F3BA-F3BC,U+F3C0,U+F3C3-F3C4,U+F3C6-F3C8,U+F3CA,U+F3CC,U+F3D0,U+F3D2,U+F3D4,U+F3D6-F3D7,U+F3DA-F3DB,U+F3DF,U+F3E1-F3E3,U+F3E6-F3E7,U+F3E9-F3EC,U+F3EE-F3EF,U+F3F5-F3F6,U+F3F8-F3F9,U+F3FE,U+F402-F405,U+F407-F408,U+F40A-F40D,U+F411-F417,U+F419,U+F41B-F41D,U+F41F,U+F421,U+F426;
 }
 
 @font-face {
@@ -9776,7 +9776,7 @@ readers do not read off random characters that represent icons */
   font-display: block;
   src: url("../webfonts/pro-fa-brands-400-5.15.0.eot");
   src: url("../webfonts/pro-fa-brands-400-5.15.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-brands-400-5.15.0.woff2") format("woff2"), url("../webfonts/pro-fa-brands-400-5.15.0.woff") format("woff"), url("../webfonts/pro-fa-brands-400-5.15.0.ttf") format("truetype"), url("../webfonts/pro-fa-brands-400-5.15.0.svg#fontawesome") format("svg");
-  unicode-range: U+E07D-E084,U+E087-E088,U+F3D5,U+F3E8;
+  unicode-range: U+E07D-E084,U+E087-E088,U+F2D9,U+F3D5,U+F3E8;
 }
 
 .fab {
