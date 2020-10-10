@@ -1,12 +1,12 @@
 <?xml version="1.0" standalone="no"?>
 <!--
-Font Awesome Pro 5.13.0 by @fontawesome - https://fontawesome.com
+Font Awesome Pro 5.13.1 by @fontawesome - https://fontawesome.com
 License - https://fontawesome.com/license (Commercial License)
 -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Mon Mar 23 10:47:12 2020
+Created by FontForge 20190801 at Thu Jun 18 14:53:44 2020
  By Robert Madole
 Copyright (c) Font Awesome
 </metadata>
@@ -23,15 +23,12 @@ Copyright (c) Font Awesome
     bbox="-0.00751023 -64.1018 640.027 448"
     underline-thickness="25"
     underline-position="-50"
-    unicode-range="U+0020-F957"
+    unicode-range="U+0020-F97C"
   />
     <missing-glyph />
     <glyph glyph-name="stack-exchange" unicode="&#xf18d;" 
 d="M17.7002 115.7h412.7v-22c0 -37.7002 -29.3008 -68 -65.3008 -68h-19l-86.7998 -89.7002v89.7002h-176.3c-36 0 -65.2998 30.2998 -65.2998 68v22zM17.7002 139.3v85h412.7v-85h-412.7zM17.7002 248.7v85h412.7v-85h-412.7zM365 448
 c36 0 65.2998 -30.2998 65.4004 -67.7002v-22.2998h-412.7v22.2998c0 37.4004 29.2998 67.7002 65.2998 67.7002h282z" />
-    <glyph glyph-name="yahoo" unicode="&#xf19e;" 
-d="M252 156l4 -220c-12.7002 2.2002 -23.5 3.90039 -32.2998 3.90039c-8.40039 0 -19.2002 -1.7002 -32.2998 -3.90039l4 220c-55 94.7998 -110.4 196.8 -174 292c11.8994 -3.09961 23 -3.90039 33.1992 -3.90039c9 0 20.4004 0.800781 34.1006 3.90039
-c40.8994 -72.2002 82.0996 -138.7 135 -225.5c37.2998 61.5996 91.0996 144.1 134.899 225.5c11.1006 -2.90039 22 -3.90039 32.9004 -3.90039c11.5 0 23.2002 1 35 3.90039c-34.4004 -47.9004 -131.6 -216.9 -174.5 -292z" />
     <glyph glyph-name="behance-square" unicode="&#xf1b5;" 
 d="M186.5 155c0 -19.2998 -14 -25.4004 -31.2002 -25.4004h-45.0996v52.9004h46c18.5996 -0.0996094 30.2998 -7.7998 30.2998 -27.5zM178.8 237.3c0 -16.2998 -10.7002 -22.8994 -25.7998 -22.8994h-42.7002v44.7998h39.6006c15.1992 0 28.8994 -4.2002 28.8994 -21.9004z
 M311.1 214.1c19.2002 0 28.8008 -11.1992 30.5 -29.6992h-62.1992c1.19922 18.2998 13.3994 29.6992 31.6992 29.6992zM448 368v-352c0 -26.5 -21.5 -48 -48 -48h-352c-26.5 0 -48 21.5 -48 48v352c0 26.5 21.5 48 48 48h352c26.5 0 48 -21.5 48 -48zM271.7 263h77.7998
