@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 5.11.2 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 5.12.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 
@@ -294,6 +294,10 @@ readers do not read off random characters that represent icons */
   content: "\f36b";
 }
 
+.fa-air-conditioner:before {
+  content: "\f8f4";
+}
+
 .fa-air-freshener:before {
   content: "\f5d0";
 }
@@ -332,6 +336,14 @@ readers do not read off random characters that represent icons */
 
 .fa-alicorn:before {
   content: "\f6b0";
+}
+
+.fa-alien:before {
+  content: "\f8f5";
+}
+
+.fa-alien-monster:before {
+  content: "\f8f6";
 }
 
 .fa-align-center:before {
@@ -798,6 +810,10 @@ readers do not read off random characters that represent icons */
   content: "\f847";
 }
 
+.fa-bahai:before {
+  content: "\f666";
+}
+
 .fa-balance-scale:before {
   content: "\f24e";
 }
@@ -918,6 +934,18 @@ readers do not read off random characters that represent icons */
   content: "\f236";
 }
 
+.fa-bed-alt:before {
+  content: "\f8f7";
+}
+
+.fa-bed-bunk:before {
+  content: "\f8f8";
+}
+
+.fa-bed-empty:before {
+  content: "\f8f9";
+}
+
 .fa-beer:before {
   content: "\f0fc";
 }
@@ -936,6 +964,10 @@ readers do not read off random characters that represent icons */
 
 .fa-bell-exclamation:before {
   content: "\f848";
+}
+
+.fa-bell-on:before {
+  content: "\f8fa";
 }
 
 .fa-bell-plus:before {
@@ -1032,6 +1064,18 @@ readers do not read off random characters that represent icons */
 
 .fa-blind:before {
   content: "\f29d";
+}
+
+.fa-blinds:before {
+  content: "\f8fb";
+}
+
+.fa-blinds-open:before {
+  content: "\f8fc";
+}
+
+.fa-blinds-raised:before {
+  content: "\f8fd";
 }
 
 .fa-blog:before {
@@ -1454,6 +1498,10 @@ readers do not read off random characters that represent icons */
   content: "\f332";
 }
 
+.fa-camera-home:before {
+  content: "\f8fe";
+}
+
 .fa-camera-movie:before {
   content: "\f8a9";
 }
@@ -1546,6 +1594,14 @@ readers do not read off random characters that represent icons */
   content: "\f5e6";
 }
 
+.fa-caravan:before {
+  content: "\f8ff";
+}
+
+.fa-caravan-alt:before {
+  content: "\f900";
+}
+
 .fa-caret-circle-down:before {
   content: "\f32d";
 }
@@ -1620,6 +1676,10 @@ readers do not read off random characters that represent icons */
 
 .fa-cat:before {
   content: "\f6be";
+}
+
+.fa-cat-space:before {
+  content: "\f901";
 }
 
 .fa-cauldron:before {
@@ -2110,6 +2170,10 @@ readers do not read off random characters that represent icons */
   content: "\f0f4";
 }
 
+.fa-coffee-pot:before {
+  content: "\f902";
+}
+
 .fa-coffee-togo:before {
   content: "\f6c5";
 }
@@ -2136,6 +2200,10 @@ readers do not read off random characters that represent icons */
 
 .fa-columns:before {
   content: "\f0db";
+}
+
+.fa-comet:before {
+  content: "\f903";
 }
 
 .fa-comment:before {
@@ -3126,6 +3194,10 @@ readers do not read off random characters that represent icons */
   content: "\f863";
 }
 
+.fa-fan-table:before {
+  content: "\f904";
+}
+
 .fa-fantasy-flight-games:before {
   content: "\f6dc";
 }
@@ -3140,6 +3212,14 @@ readers do not read off random characters that represent icons */
 
 .fa-fast-forward:before {
   content: "\f050";
+}
+
+.fa-faucet:before {
+  content: "\f905";
+}
+
+.fa-faucet-drip:before {
+  content: "\f906";
 }
 
 .fa-fax:before {
@@ -3372,6 +3452,10 @@ readers do not read off random characters that represent icons */
 
 .fa-firefox:before {
   content: "\f269";
+}
+
+.fa-firefox-browser:before {
+  content: "\f907";
 }
 
 .fa-fireplace:before {
@@ -3630,6 +3714,10 @@ readers do not read off random characters that represent icons */
   content: "\f50d";
 }
 
+.fa-galaxy:before {
+  content: "\f908";
+}
+
 .fa-game-board:before {
   content: "\f867";
 }
@@ -3648,6 +3736,18 @@ readers do not read off random characters that represent icons */
 
 .fa-gamepad-alt:before {
   content: "\f8bc";
+}
+
+.fa-garage:before {
+  content: "\f909";
+}
+
+.fa-garage-car:before {
+  content: "\f90a";
+}
+
+.fa-garage-open:before {
+  content: "\f90b";
 }
 
 .fa-gas-pump:before {
@@ -4182,10 +4282,6 @@ readers do not read off random characters that represent icons */
   content: "\f6e8";
 }
 
-.fa-haykal:before {
-  content: "\f666";
-}
-
 .fa-hdd:before {
   content: "\f0a0";
 }
@@ -4248,6 +4344,10 @@ readers do not read off random characters that represent icons */
 
 .fa-heartbeat:before {
   content: "\f21e";
+}
+
+.fa-heat:before {
+  content: "\f90c";
 }
 
 .fa-helicopter:before {
@@ -4402,12 +4502,36 @@ readers do not read off random characters that represent icons */
   content: "\f251";
 }
 
+.fa-house:before {
+  content: "\f90d";
+}
+
 .fa-house-damage:before {
   content: "\f6f1";
 }
 
+.fa-house-day:before {
+  content: "\f90e";
+}
+
 .fa-house-flood:before {
   content: "\f74f";
+}
+
+.fa-house-leave:before {
+  content: "\f90f";
+}
+
+.fa-house-night:before {
+  content: "\f910";
+}
+
+.fa-house-return:before {
+  content: "\f911";
+}
+
+.fa-house-signal:before {
+  content: "\f912";
 }
 
 .fa-houzz:before {
@@ -4468,6 +4592,10 @@ readers do not read off random characters that represent icons */
 
 .fa-id-card-alt:before {
   content: "\f47f";
+}
+
+.fa-ideal:before {
+  content: "\f913";
 }
 
 .fa-igloo:before {
@@ -4738,6 +4866,14 @@ readers do not read off random characters that represent icons */
   content: "\f4ca";
 }
 
+.fa-lamp-desk:before {
+  content: "\f914";
+}
+
+.fa-lamp-floor:before {
+  content: "\f915";
+}
+
 .fa-landmark:before {
   content: "\f66f";
 }
@@ -4860,6 +4996,22 @@ readers do not read off random characters that represent icons */
 
 .fa-life-ring:before {
   content: "\f1cd";
+}
+
+.fa-light-ceiling:before {
+  content: "\f916";
+}
+
+.fa-light-switch:before {
+  content: "\f917";
+}
+
+.fa-light-switch-off:before {
+  content: "\f918";
+}
+
+.fa-light-switch-on:before {
+  content: "\f919";
 }
 
 .fa-lightbulb:before {
@@ -5258,6 +5410,10 @@ readers do not read off random characters that represent icons */
   content: "\f753";
 }
 
+.fa-microblog:before {
+  content: "\f91a";
+}
+
 .fa-microchip:before {
   content: "\f2db";
 }
@@ -5288,6 +5444,10 @@ readers do not read off random characters that represent icons */
 
 .fa-microsoft:before {
   content: "\f3ca";
+}
+
+.fa-microwave:before {
+  content: "\f91b";
 }
 
 .fa-mind-share:before {
@@ -5614,6 +5774,14 @@ readers do not read off random characters that represent icons */
   content: "\f03b";
 }
 
+.fa-outlet:before {
+  content: "\f91c";
+}
+
+.fa-oven:before {
+  content: "\f91d";
+}
+
 .fa-overline:before {
   content: "\f876";
 }
@@ -5922,6 +6090,10 @@ readers do not read off random characters that represent icons */
   content: "\f1a7";
 }
 
+.fa-pied-piper-square:before {
+  content: "\f91e";
+}
+
 .fa-pig:before {
   content: "\f706";
 }
@@ -5974,6 +6146,14 @@ readers do not read off random characters that represent icons */
   content: "\f5b0";
 }
 
+.fa-planet-moon:before {
+  content: "\f91f";
+}
+
+.fa-planet-ringed:before {
+  content: "\f920";
+}
+
 .fa-play:before {
   content: "\f04b";
 }
@@ -6022,6 +6202,10 @@ readers do not read off random characters that represent icons */
   content: "\f758";
 }
 
+.fa-police-box:before {
+  content: "\f921";
+}
+
 .fa-poll:before {
   content: "\f681";
 }
@@ -6048,6 +6232,14 @@ readers do not read off random characters that represent icons */
 
 .fa-popcorn:before {
   content: "\f819";
+}
+
+.fa-portal-enter:before {
+  content: "\f922";
+}
+
+.fa-portal-exit:before {
+  content: "\f923";
 }
 
 .fa-portrait:before {
@@ -6190,6 +6382,10 @@ readers do not read off random characters that represent icons */
   content: "\f45a";
 }
 
+.fa-radar:before {
+  content: "\f924";
+}
+
 .fa-radiation:before {
   content: "\f7b9";
 }
@@ -6232,6 +6428,10 @@ readers do not read off random characters that represent icons */
 
 .fa-ravelry:before {
   content: "\f2d9";
+}
+
+.fa-raygun:before {
+  content: "\f925";
 }
 
 .fa-react:before {
@@ -6300,6 +6500,10 @@ readers do not read off random characters that represent icons */
 
 .fa-redo-alt:before {
   content: "\f2f9";
+}
+
+.fa-refrigerator:before {
+  content: "\f926";
 }
 
 .fa-registered:before {
@@ -6392,6 +6596,10 @@ readers do not read off random characters that represent icons */
 
 .fa-rocket:before {
   content: "\f135";
+}
+
+.fa-rocket-launch:before {
+  content: "\f927";
 }
 
 .fa-rocketchat:before {
@@ -6634,6 +6842,26 @@ readers do not read off random characters that represent icons */
   content: "\f87f";
 }
 
+.fa-sensor:before {
+  content: "\f928";
+}
+
+.fa-sensor-alert:before {
+  content: "\f929";
+}
+
+.fa-sensor-fire:before {
+  content: "\f92a";
+}
+
+.fa-sensor-on:before {
+  content: "\f92b";
+}
+
+.fa-sensor-smoke:before {
+  content: "\f92c";
+}
+
 .fa-server:before {
   content: "\f233";
 }
@@ -6846,6 +7074,14 @@ readers do not read off random characters that represent icons */
   content: "\f215";
 }
 
+.fa-siren:before {
+  content: "\f92d";
+}
+
+.fa-siren-on:before {
+  content: "\f92e";
+}
+
 .fa-sistrix:before {
   content: "\f3ee";
 }
@@ -7038,6 +7274,10 @@ readers do not read off random characters that represent icons */
   content: "\f5ba";
 }
 
+.fa-solar-system:before {
+  content: "\f92f";
+}
+
 .fa-sort:before {
   content: "\f0dc";
 }
@@ -7076,6 +7316,18 @@ readers do not read off random characters that represent icons */
 
 .fa-sort-amount-up-alt:before {
   content: "\f885";
+}
+
+.fa-sort-circle:before {
+  content: "\f930";
+}
+
+.fa-sort-circle-down:before {
+  content: "\f931";
+}
+
+.fa-sort-circle-up:before {
+  content: "\f932";
 }
 
 .fa-sort-down:before {
@@ -7154,6 +7406,14 @@ readers do not read off random characters that represent icons */
   content: "\f197";
 }
 
+.fa-space-station-moon:before {
+  content: "\f933";
+}
+
+.fa-space-station-moon-alt:before {
+  content: "\f934";
+}
+
 .fa-spade:before {
   content: "\f2f4";
 }
@@ -7212,6 +7472,10 @@ readers do not read off random characters that represent icons */
 
 .fa-spray-can:before {
   content: "\f5bd";
+}
+
+.fa-sprinkler:before {
+  content: "\f935";
 }
 
 .fa-square:before {
@@ -7290,8 +7554,28 @@ readers do not read off random characters that represent icons */
   content: "\f621";
 }
 
+.fa-star-shooting:before {
+  content: "\f936";
+}
+
+.fa-starfighter:before {
+  content: "\f937";
+}
+
+.fa-starfighter-alt:before {
+  content: "\f938";
+}
+
 .fa-stars:before {
   content: "\f762";
+}
+
+.fa-starship:before {
+  content: "\f939";
+}
+
+.fa-starship-freighter:before {
+  content: "\f93a";
 }
 
 .fa-staylinked:before {
@@ -7494,8 +7778,20 @@ readers do not read off random characters that represent icons */
   content: "\f71c";
 }
 
+.fa-sword-laser:before {
+  content: "\f93b";
+}
+
+.fa-sword-laser-alt:before {
+  content: "\f93c";
+}
+
 .fa-swords:before {
   content: "\f71d";
+}
+
+.fa-swords-laser:before {
+  content: "\f93d";
 }
 
 .fa-symfony:before {
@@ -7654,6 +7950,14 @@ readers do not read off random characters that represent icons */
   content: "\f3fe";
 }
 
+.fa-telescope:before {
+  content: "\f93e";
+}
+
+.fa-temperature-down:before {
+  content: "\f93f";
+}
+
 .fa-temperature-frigid:before {
   content: "\f768";
 }
@@ -7668,6 +7972,10 @@ readers do not read off random characters that represent icons */
 
 .fa-temperature-low:before {
   content: "\f76b";
+}
+
+.fa-temperature-up:before {
+  content: "\f940";
 }
 
 .fa-tencent-weibo:before {
@@ -7934,6 +8242,10 @@ readers do not read off random characters that represent icons */
   content: "\f63a";
 }
 
+.fa-trailer:before {
+  content: "\f941";
+}
+
 .fa-train:before {
   content: "\f238";
 }
@@ -7948,6 +8260,26 @@ readers do not read off random characters that represent icons */
 
 .fa-transgender-alt:before {
   content: "\f225";
+}
+
+.fa-transporter:before {
+  content: "\f942";
+}
+
+.fa-transporter-1:before {
+  content: "\f943";
+}
+
+.fa-transporter-2:before {
+  content: "\f944";
+}
+
+.fa-transporter-3:before {
+  content: "\f945";
+}
+
+.fa-transporter-empty:before {
+  content: "\f946";
 }
 
 .fa-trash:before {
@@ -8142,6 +8474,14 @@ readers do not read off random characters that represent icons */
   content: "\f7df";
 }
 
+.fa-ufo:before {
+  content: "\f947";
+}
+
+.fa-ufo-beam:before {
+  content: "\f948";
+}
+
 .fa-uikit:before {
   content: "\f403";
 }
@@ -8180,6 +8520,10 @@ readers do not read off random characters that represent icons */
 
 .fa-uniregistry:before {
   content: "\f404";
+}
+
+.fa-unity:before {
+  content: "\f949";
 }
 
 .fa-universal-access:before {
@@ -8232,6 +8576,10 @@ readers do not read off random characters that represent icons */
 
 .fa-user:before {
   content: "\f007";
+}
+
+.fa-user-alien:before {
+  content: "\f94a";
 }
 
 .fa-user-alt:before {
@@ -8330,6 +8678,10 @@ readers do not read off random characters that represent icons */
   content: "\f234";
 }
 
+.fa-user-robot:before {
+  content: "\f94b";
+}
+
 .fa-user-secret:before {
   content: "\f21b";
 }
@@ -8352,6 +8704,10 @@ readers do not read off random characters that represent icons */
 
 .fa-user-times:before {
   content: "\f235";
+}
+
+.fa-user-visor:before {
+  content: "\f94c";
 }
 
 .fa-users:before {
@@ -8404,6 +8760,14 @@ readers do not read off random characters that represent icons */
 
 .fa-vaadin:before {
   content: "\f408";
+}
+
+.fa-vacuum:before {
+  content: "\f94d";
+}
+
+.fa-vacuum-robot:before {
+  content: "\f94e";
 }
 
 .fa-value-absolute:before {
@@ -8738,6 +9102,14 @@ readers do not read off random characters that represent icons */
   content: "\f410";
 }
 
+.fa-window-frame:before {
+  content: "\f94f";
+}
+
+.fa-window-frame-open:before {
+  content: "\f950";
+}
+
 .fa-window-maximize:before {
   content: "\f2d0";
 }
@@ -8913,7 +9285,7 @@ readers do not read off random characters that represent icons */
   font-weight: normal;
   src: url("../webfonts/fa-brands-400-free-5.0.0.eot");
   src: url("../webfonts/fa-brands-400-free-5.0.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-brands-400-free-5.0.0.woff2") format("woff2"), url("../webfonts/fa-brands-400-free-5.0.0.woff") format("woff"), url("../webfonts/fa-brands-400-free-5.0.0.ttf") format("truetype"), url("../webfonts/fa-brands-400-free-5.0.0.svg#fontawesome") format("svg");
-  unicode-range: U+F081,U+F08C,U+F092,U+F099,U+F09B,U+F0D2-F0D5,U+F113,U+F136,U+F13B-F13C,U+F15A,U+F167-F169,U+F16C-F16E,U+F170,U+F173-F174,U+F17A-F17E,U+F180,U+F184,U+F189-F18C,U+F194,U+F19A-F19B,U+F1A0-F1A4,U+F1A6-F1A7,U+F1A9-F1AA,U+F1B4,U+F1B6-F1B7,U+F1BC-F1BE,U+F1CA-F1CC,U+F1D0-F1D1,U+F1D4-F1D6,U+F1E7-F1E8,U+F1ED-F1EE,U+F1F0-F1F2,U+F1F4-F1F5,U+F202,U+F208-F209,U+F20D-F20E,U+F211-F213,U+F215,U+F231-F232,U+F237,U+F23A-F23B,U+F23D-F23E,U+F24B-F24C,U+F260-F268,U+F26A-F26B,U+F26D-F26E,U+F270,U+F27D-F27E,U+F280-F282,U+F284-F285,U+F287-F28A,U+F293-F294,U+F297-F299,U+F2A5-F2A6,U+F2A9,U+F2AB-F2AD,U+F2B0,U+F2B2-F2B4,U+F2B8,U+F2C4-F2C6,U+F2D5-F2DA,U+F2DD-F2DE,U+F2E0,U+F35C,U+F368-F374,U+F378-F37D,U+F37F-F380,U+F383-F385,U+F388,U+F38B-F38F,U+F392,U+F394-F397,U+F399-F39A,U+F3A1-F3A4,U+F3A6-F3B2,U+F3B4-F3B8,U+F3BA-F3BC,U+F3C0,U+F3C3-F3C4,U+F3C6-F3C8,U+F3CA,U+F3CC,U+F3D0,U+F3D2,U+F3D4-F3D7,U+F3DA-F3DB,U+F3DF,U+F3E1-F3E3,U+F3E6-F3E7,U+F3E9-F3EC,U+F3EE-F3EF,U+F3F5-F3F6,U+F3F8-F3F9,U+F3FE,U+F402-F405,U+F407-F408,U+F40A-F40D,U+F411-F417,U+F419,U+F41B-F41D,U+F41F,U+F421,U+F426;
+  unicode-range: U+F081,U+F08C,U+F092,U+F099,U+F09B,U+F0D2-F0D5,U+F113,U+F136,U+F13B-F13C,U+F15A,U+F167-F169,U+F16C-F16E,U+F170,U+F173-F174,U+F17A,U+F17C-F17E,U+F180,U+F184,U+F189-F18C,U+F194,U+F19A-F19B,U+F1A0-F1A4,U+F1A6-F1A7,U+F1A9-F1AA,U+F1B4,U+F1B6-F1B7,U+F1BC-F1BE,U+F1CA-F1CC,U+F1D0-F1D1,U+F1D4-F1D6,U+F1E7,U+F1ED-F1EE,U+F1F0-F1F2,U+F1F4-F1F5,U+F202,U+F208-F209,U+F20D-F20E,U+F211-F213,U+F215,U+F231-F232,U+F237,U+F23A-F23B,U+F23D-F23E,U+F24B-F24C,U+F260-F266,U+F268,U+F26A-F26B,U+F26D-F26E,U+F270,U+F27D-F27E,U+F280-F282,U+F284-F285,U+F287-F28A,U+F293-F294,U+F297-F299,U+F2A5-F2A6,U+F2A9,U+F2AB-F2AD,U+F2B0,U+F2B2-F2B4,U+F2B8,U+F2C4,U+F2C6,U+F2D5-F2DA,U+F2DD-F2DE,U+F2E0,U+F35C,U+F368-F374,U+F378-F37D,U+F37F-F380,U+F383-F385,U+F388,U+F38B-F38F,U+F392,U+F394-F397,U+F399-F39A,U+F3A1-F3A4,U+F3A6-F3B2,U+F3B4-F3B8,U+F3BA-F3BC,U+F3C0,U+F3C3-F3C4,U+F3C6-F3C8,U+F3CA,U+F3CC,U+F3D0,U+F3D2,U+F3D4-F3D7,U+F3DA-F3DB,U+F3DF,U+F3E1-F3E3,U+F3E6-F3E7,U+F3E9-F3EC,U+F3EE-F3EF,U+F3F5-F3F6,U+F3F8-F3F9,U+F3FE,U+F402-F405,U+F407-F408,U+F40A-F40D,U+F411-F417,U+F419,U+F41B-F41D,U+F41F,U+F421,U+F426;
 }
 
 @font-face {
@@ -8922,7 +9294,7 @@ readers do not read off random characters that represent icons */
   font-weight: normal;
   src: url("../webfonts/fa-brands-400-free-5.0.1.eot");
   src: url("../webfonts/fa-brands-400-free-5.0.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-brands-400-free-5.0.1.woff2") format("woff2"), url("../webfonts/fa-brands-400-free-5.0.1.woff") format("woff"), url("../webfonts/fa-brands-400-free-5.0.1.ttf") format("truetype"), url("../webfonts/fa-brands-400-free-5.0.1.svg#fontawesome") format("svg");
-  unicode-range: U+F16B,U+F269,U+F425;
+  unicode-range: U+F16B,U+F425;
 }
 
 @font-face {
@@ -8967,7 +9339,7 @@ readers do not read off random characters that represent icons */
   font-weight: normal;
   src: url("../webfonts/fa-brands-400-free-5.0.10.eot");
   src: url("../webfonts/fa-brands-400-free-5.0.10.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-brands-400-free-5.0.10.woff2") format("woff2"), url("../webfonts/fa-brands-400-free-5.0.10.woff") format("woff"), url("../webfonts/fa-brands-400-free-5.0.10.ttf") format("truetype"), url("../webfonts/fa-brands-400-free-5.0.10.svg#fontawesome") format("svg");
-  unicode-range: U+F2AE,U+F4D5,U+F4E5;
+  unicode-range: U+F4D5,U+F4E5;
 }
 
 @font-face {
@@ -9114,6 +9486,15 @@ readers do not read off random characters that represent icons */
   unicode-range: U+F3BD;
 }
 
+@font-face {
+  font-family: 'Font Awesome 5 Brands';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../webfonts/fa-brands-400-free-5.12.0.eot");
+  src: url("../webfonts/fa-brands-400-free-5.12.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-brands-400-free-5.12.0.woff2") format("woff2"), url("../webfonts/fa-brands-400-free-5.12.0.woff") format("woff"), url("../webfonts/fa-brands-400-free-5.12.0.ttf") format("truetype"), url("../webfonts/fa-brands-400-free-5.12.0.svg#fontawesome") format("svg");
+  unicode-range: U+F17B,U+F1E8,U+F267,U+F269,U+F2AE,U+F2C5,U+F907,U+F913,U+F91A,U+F91E,U+F949;
+}
+
 .fab {
   font-family: 'Font Awesome 5 Brands';
 }
@@ -9124,7 +9505,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-duotone-900-pro-5.0.0.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.0.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.0.0.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.0.0.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.0.0.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.0.0.svg#fontawesome") format("svg");
-  unicode-range: U+F002,U+F008-F009,U+F00B-F00C,U+F00E,U+F011,U+F013,U+F017,U+F019,U+F01C,U+F022-F025,U+F02A-F02B,U+F02D,U+F030,U+F040-F041,U+F044,U+F047,U+F049-F04A,U+F04E,U+F050,U+F052-F055,U+F057-F05B,U+F05E,U+F060-F066,U+F068-F06A,U+F074,U+F077-F07A,U+F07C-F07E,U+F085,U+F089,U+F08B,U+F090,U+F093-F094,U+F098,U+F09C-F09E,U+F0A4-F0AB,U+F0B2,U+F0C1,U+F0C3,U+F0C6,U+F0C9,U+F0CE,U+F0D7-F0DB,U+F0E2-F0E3,U+F0E9-F0EA,U+F0EC,U+F0F4,U+F0F8,U+F0FA-F0FE,U+F100-F103,U+F106-F108,U+F10A-F10B,U+F11C,U+F120-F122,U+F124,U+F126-F128,U+F12E,U+F134,U+F137-F13A,U+F13E,U+F141-F143,U+F146,U+F14A-F14D,U+F150-F154,U+F156-F159,U+F175-F178,U+F182-F183,U+F188,U+F191-F192,U+F195,U+F199,U+F1AD-F1AE,U+F1B0,U+F1B2-F1B3,U+F1B8,U+F1BB,U+F1C0,U+F1CD,U+F1D8,U+F1DA,U+F1E0-F1E2,U+F1E6,U+F1EA,U+F1FA,U+F1FD-F1FE,U+F204-F206,U+F20B,U+F217-F218,U+F21C,U+F222,U+F224,U+F226-F229,U+F233,U+F238-F239,U+F240-F244,U+F246,U+F255-F25C,U+F28B,U+F28D,U+F290-F292,U+F295,U+F2A1-F2A4,U+F2A8,U+F2C7-F2CE,U+F2D0,U+F2D2-F2D3,U+F2DB,U+F2E6-F2E7,U+F2EA,U+F2F0-F2F1,U+F2F5-F2F7,U+F2F9,U+F2FD,U+F301,U+F303,U+F308-F30F,U+F31D,U+F320-F322,U+F325-F326,U+F328-F32E,U+F330-F332,U+F336-F337,U+F339-F33C,U+F33E,U+F340-F34C,U+F350-F353,U+F355,U+F358-F35B,U+F360-F367,U+F376,U+F37E,U+F387,U+F389-F38A,U+F390,U+F39B-F39C,U+F3A0,U+F3B3,U+F3BE-F3BF,U+F3C2,U+F3C5,U+F3CD-F3CF,U+F3DE,U+F3E5,U+F3ED,U+F3F0,U+F3F2,U+F3FA-F3FC,U+F400-F401,U+F40E-F410,U+F422,U+F424,U+10F002,U+10F008-10F009,U+10F00B-10F00C,U+10F00E,U+10F011,U+10F013,U+10F017,U+10F019,U+10F01C,U+10F022-10F025,U+10F02A-10F02B,U+10F02D,U+10F030,U+10F040-10F041,U+10F044,U+10F047,U+10F049-10F04A,U+10F04E,U+10F050,U+10F052-10F055,U+10F057-10F05B,U+10F05E,U+10F060-10F066,U+10F068-10F06A,U+10F074,U+10F077-10F07A,U+10F07C-10F07E,U+10F085,U+10F089,U+10F08B,U+10F090,U+10F093-10F094,U+10F098,U+10F09C-10F09E,U+10F0A4-10F0AB,U+10F0B2,U+10F0C1,U+10F0C3,U+10F0C6,U+10F0C9,U+10F0CE,U+10F0D7-10F0DB,U+10F0E2-10F0E3,U+10F0E9-10F0EA,U+10F0EC,U+10F0F4,U+10F0F8,U+10F0FA-10F0FE,U+10F100-10F103,U+10F106-10F108,U+10F10A-10F10B,U+10F11C,U+10F120-10F122,U+10F124,U+10F126-10F128,U+10F12E,U+10F134,U+10F137-10F13A,U+10F13E,U+10F141-10F143,U+10F146,U+10F14A-10F14D,U+10F150-10F154,U+10F156-10F159,U+10F175-10F178,U+10F182-10F183,U+10F188,U+10F191-10F192,U+10F195,U+10F199,U+10F1AD-10F1AE,U+10F1B0,U+10F1B2-10F1B3,U+10F1B8,U+10F1BB,U+10F1C0,U+10F1CD,U+10F1D8,U+10F1DA,U+10F1E0-10F1E2,U+10F1E6,U+10F1EA,U+10F1FA,U+10F1FD-10F1FE,U+10F204-10F206,U+10F20B,U+10F217-10F218,U+10F21C,U+10F222,U+10F224,U+10F226-10F229,U+10F233,U+10F238-10F239,U+10F240-10F244,U+10F246,U+10F255-10F25C,U+10F28B,U+10F28D,U+10F290-10F292,U+10F295,U+10F2A1-10F2A4,U+10F2A8,U+10F2C7-10F2CE,U+10F2D0,U+10F2D2-10F2D3,U+10F2DB,U+10F2E6-10F2E7,U+10F2EA,U+10F2F0-10F2F1,U+10F2F5-10F2F7,U+10F2F9,U+10F2FD,U+10F301,U+10F303,U+10F308-10F30F,U+10F31D,U+10F320-10F322,U+10F325-10F326,U+10F328-10F32E,U+10F330-10F332,U+10F336-10F337,U+10F339-10F33C,U+10F33E,U+10F340-10F34C,U+10F350-10F353,U+10F355,U+10F358-10F35B,U+10F360-10F367,U+10F376,U+10F37E,U+10F387,U+10F389-10F38A,U+10F390,U+10F39B-10F39C,U+10F3A0,U+10F3B3,U+10F3BE-10F3BF,U+10F3C2,U+10F3C5,U+10F3CD-10F3CF,U+10F3DE,U+10F3E5,U+10F3ED,U+10F3F0,U+10F3F2,U+10F3FA-10F3FC,U+10F400-10F401,U+10F40E-10F410,U+10F422,U+10F424;
+  unicode-range: U+F002,U+F008-F009,U+F00B-F00C,U+F00E,U+F011,U+F013,U+F017,U+F019,U+F01C,U+F022-F025,U+F02A-F02B,U+F02D,U+F030,U+F040-F041,U+F044,U+F047,U+F049-F04A,U+F04E,U+F050,U+F052-F055,U+F057-F05B,U+F05E,U+F060-F066,U+F068-F06A,U+F074,U+F077-F07A,U+F07C-F07E,U+F085,U+F089,U+F08B,U+F090,U+F093-F094,U+F098,U+F09C-F09E,U+F0A4-F0AB,U+F0B2,U+F0C1,U+F0C3,U+F0C6,U+F0C9,U+F0CE,U+F0D7-F0DB,U+F0E2-F0E3,U+F0E9-F0EA,U+F0EC,U+F0F4,U+F0F8,U+F0FA-F0FE,U+F100-F103,U+F106-F108,U+F10A-F10B,U+F11C,U+F120-F122,U+F124,U+F126-F128,U+F12E,U+F134,U+F137-F13A,U+F13E,U+F141-F143,U+F146,U+F14A-F14D,U+F150-F154,U+F156-F159,U+F175-F178,U+F182-F183,U+F188,U+F191-F192,U+F195,U+F199,U+F1AD-F1AE,U+F1B0,U+F1B2-F1B3,U+F1B8,U+F1BB,U+F1C0,U+F1CD,U+F1D8,U+F1DA,U+F1E0-F1E2,U+F1EA,U+F1FA,U+F1FD-F1FE,U+F204-F206,U+F20B,U+F217-F218,U+F21C,U+F222,U+F224,U+F226-F229,U+F233,U+F238-F239,U+F240-F244,U+F246,U+F255-F258,U+F25A-F25C,U+F28B,U+F28D,U+F290-F292,U+F295,U+F2A1-F2A4,U+F2A8,U+F2C7-F2CB,U+F2CE,U+F2D0,U+F2D2-F2D3,U+F2DB,U+F2E6-F2E7,U+F2EA,U+F2F0-F2F1,U+F2F5-F2F7,U+F2F9,U+F2FD,U+F301,U+F303,U+F308-F30F,U+F31D,U+F320-F322,U+F325-F326,U+F328-F32E,U+F330-F332,U+F336-F337,U+F339-F33C,U+F33E,U+F340-F34C,U+F350-F353,U+F355,U+F358-F35B,U+F360-F367,U+F376,U+F37E,U+F387,U+F389-F38A,U+F390,U+F39B-F39C,U+F3A0,U+F3B3,U+F3BE-F3BF,U+F3C2,U+F3C5,U+F3CD-F3CF,U+F3DE,U+F3E5,U+F3ED,U+F3F0,U+F3F2,U+F3FA-F3FC,U+F400-F401,U+F40E-F410,U+10F002,U+10F008-10F009,U+10F00B-10F00C,U+10F00E,U+10F011,U+10F013,U+10F017,U+10F019,U+10F01C,U+10F022-10F025,U+10F02A-10F02B,U+10F02D,U+10F030,U+10F040-10F041,U+10F044,U+10F047,U+10F049-10F04A,U+10F04E,U+10F050,U+10F052-10F055,U+10F057-10F05B,U+10F05E,U+10F060-10F066,U+10F068-10F06A,U+10F074,U+10F077-10F07A,U+10F07C-10F07E,U+10F085,U+10F089,U+10F08B,U+10F090,U+10F093-10F094,U+10F098,U+10F09C-10F09E,U+10F0A4-10F0AB,U+10F0B2,U+10F0C1,U+10F0C3,U+10F0C6,U+10F0C9,U+10F0CE,U+10F0D7-10F0DB,U+10F0E2-10F0E3,U+10F0E9-10F0EA,U+10F0EC,U+10F0F4,U+10F0F8,U+10F0FA-10F0FE,U+10F100-10F103,U+10F106-10F108,U+10F10A-10F10B,U+10F11C,U+10F120-10F122,U+10F124,U+10F126-10F128,U+10F12E,U+10F134,U+10F137-10F13A,U+10F13E,U+10F141-10F143,U+10F146,U+10F14A-10F14D,U+10F150-10F154,U+10F156-10F159,U+10F175-10F178,U+10F182-10F183,U+10F188,U+10F191-10F192,U+10F195,U+10F199,U+10F1AD-10F1AE,U+10F1B0,U+10F1B2-10F1B3,U+10F1B8,U+10F1BB,U+10F1C0,U+10F1CD,U+10F1D8,U+10F1DA,U+10F1E0-10F1E2,U+10F1EA,U+10F1FA,U+10F1FD-10F1FE,U+10F204-10F206,U+10F20B,U+10F217-10F218,U+10F21C,U+10F222,U+10F224,U+10F226-10F229,U+10F233,U+10F238-10F239,U+10F240-10F244,U+10F246,U+10F255-10F258,U+10F25A-10F25C,U+10F28B,U+10F28D,U+10F290-10F292,U+10F295,U+10F2A1-10F2A4,U+10F2A8,U+10F2C7-10F2CB,U+10F2CE,U+10F2D0,U+10F2D2-10F2D3,U+10F2DB,U+10F2E6-10F2E7,U+10F2EA,U+10F2F0-10F2F1,U+10F2F5-10F2F7,U+10F2F9,U+10F2FD,U+10F301,U+10F303,U+10F308-10F30F,U+10F31D,U+10F320-10F322,U+10F325-10F326,U+10F328-10F32E,U+10F330-10F332,U+10F336-10F337,U+10F339-10F33C,U+10F33E,U+10F340-10F34C,U+10F350-10F353,U+10F355,U+10F358-10F35B,U+10F360-10F367,U+10F376,U+10F37E,U+10F387,U+10F389-10F38A,U+10F390,U+10F39B-10F39C,U+10F3A0,U+10F3B3,U+10F3BE-10F3BF,U+10F3C2,U+10F3C5,U+10F3CD-10F3CF,U+10F3DE,U+10F3E5,U+10F3ED,U+10F3F0,U+10F3F2,U+10F3FA-10F3FC,U+10F400-10F401,U+10F40E-10F410;
 }
 
 @font-face {
@@ -9196,7 +9577,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-duotone-900-pro-5.0.13.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.0.13.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.0.13.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.0.13.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.0.13.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.0.13.svg#fontawesome") format("svg");
-  unicode-range: U+F010,U+F067,U+F072,U+F0AD,U+F0D6,U+F0E8,U+F130-F131,U+F24E,U+F3C9,U+F3D1,U+F515-F517,U+F519-F51E,U+F520-F52C,U+F52E,U+F530-F533,U+F535-F54B,U+F54D,U+F54F-F552,U+F554-F555,U+10F010,U+10F067,U+10F072,U+10F0AD,U+10F0D6,U+10F0E8,U+10F130-10F131,U+10F24E,U+10F3C9,U+10F3D1,U+10F515-10F517,U+10F519-10F51E,U+10F520-10F52C,U+10F52E,U+10F530-10F533,U+10F535-10F54B,U+10F54D,U+10F54F-10F552,U+10F554-10F555;
+  unicode-range: U+F010,U+F067,U+F072,U+F0AD,U+F0D6,U+F0E8,U+F130-F131,U+F24E,U+F3C9,U+F3D1,U+F517,U+F519-F51E,U+F520-F52C,U+F52E,U+F530-F533,U+F535-F543,U+F545-F54B,U+F54D,U+F54F-F552,U+F554-F555,U+10F010,U+10F067,U+10F072,U+10F0AD,U+10F0D6,U+10F0E8,U+10F130-10F131,U+10F24E,U+10F3C9,U+10F3D1,U+10F517,U+10F519-10F51E,U+10F520-10F52C,U+10F52E,U+10F530-10F533,U+10F535-10F543,U+10F545-10F54B,U+10F54D,U+10F54F-10F552,U+10F554-10F555;
 }
 
 @font-face {
@@ -9223,7 +9604,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-duotone-900-pro-5.2.0.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.2.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.2.0.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.2.0.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.2.0.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.2.0.svg#fontawesome") format("svg");
-  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F621,U+F623-F62F,U+F633,U+F635-F63D,U+10F018,U+10F0E4,U+10F109,U+10F1B9,U+10F1E5,U+10F1F6,U+10F21D,U+10F276-10F277,U+10F3FD,U+10F4D7,U+10F518,U+10F5D0-10F5DA,U+10F5DD,U+10F5DF-10F5E5,U+10F5E8-10F5EA,U+10F5ED-10F5F0,U+10F5F2,U+10F5F4-10F5F5,U+10F5F8-10F5F9,U+10F5FB-10F600,U+10F603-10F60E,U+10F610,U+10F614,U+10F617-10F619,U+10F61C-10F621,U+10F623-10F62F,U+10F633,U+10F635-10F63D;
+  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5D1,U+F5D4-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F61E,U+F620-F621,U+F623-F62F,U+F633,U+F635-F63D,U+10F018,U+10F0E4,U+10F109,U+10F1B9,U+10F1E5,U+10F1F6,U+10F21D,U+10F276-10F277,U+10F3FD,U+10F4D7,U+10F518,U+10F5D0-10F5D1,U+10F5D4-10F5DA,U+10F5DD,U+10F5DF-10F5E5,U+10F5E8-10F5EA,U+10F5ED-10F5F0,U+10F5F2,U+10F5F4-10F5F5,U+10F5F8-10F5F9,U+10F5FB-10F600,U+10F603-10F60E,U+10F610,U+10F614,U+10F617-10F619,U+10F61C-10F61E,U+10F620-10F621,U+10F623-10F62F,U+10F633,U+10F635-10F63D;
 }
 
 @font-face {
@@ -9232,7 +9613,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-duotone-900-pro-5.3.0.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.3.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.3.0.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.3.0.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.3.0.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.3.0.svg#fontawesome") format("svg");
-  unicode-range: U+F027-F028,U+F080,U+F0A1,U+F0B1,U+F0EB,U+F200-F201,U+F2E2,U+F61A,U+F640,U+F643-F647,U+F64A-F64B,U+F64D-F653,U+F655-F656,U+F65D,U+F65F-F663,U+F665-F669,U+F66B-F675,U+F678-F67B,U+F67D-F680,U+F683-F689,U+F68B,U+F694-F695,U+F697-F699,U+F69B-F69C,U+F69E-F69F,U+F6A1-F6A9,U+F6AC,U+10F027-10F028,U+10F080,U+10F0A1,U+10F0B1,U+10F0EB,U+10F200-10F201,U+10F2E2,U+10F61A,U+10F640,U+10F643-10F647,U+10F64A-10F64B,U+10F64D-10F653,U+10F655-10F656,U+10F65D,U+10F65F-10F663,U+10F665-10F669,U+10F66B-10F675,U+10F678-10F67B,U+10F67D-10F680,U+10F683-10F689,U+10F68B,U+10F694-10F695,U+10F697-10F699,U+10F69B-10F69C,U+10F69E-10F69F,U+10F6A1-10F6A9,U+10F6AC;
+  unicode-range: U+F027-F028,U+F080,U+F0A1,U+F0B1,U+F0EB,U+F200-F201,U+F2E2,U+F61A,U+F640,U+F643-F647,U+F64A-F64B,U+F64D-F653,U+F655-F656,U+F65D,U+F65F-F663,U+F665,U+F667-F669,U+F66B-F671,U+F673-F675,U+F678-F67B,U+F67D-F680,U+F683-F689,U+F68B,U+F694-F695,U+F697-F699,U+F69B-F69C,U+F69E-F69F,U+F6A1-F6A9,U+F6AC,U+10F027-10F028,U+10F080,U+10F0A1,U+10F0B1,U+10F0EB,U+10F200-10F201,U+10F2E2,U+10F61A,U+10F640,U+10F643-10F647,U+10F64A-10F64B,U+10F64D-10F653,U+10F655-10F656,U+10F65D,U+10F65F-10F663,U+10F665,U+10F667-10F669,U+10F66B-10F671,U+10F673-10F675,U+10F678-10F67B,U+10F67D-10F680,U+10F683-10F689,U+10F68B,U+10F694-10F695,U+10F697-10F699,U+10F69B-10F69C,U+10F69E-10F69F,U+10F6A1-10F6A9,U+10F6AC;
 }
 
 @font-face {
@@ -9241,7 +9622,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-duotone-900-pro-5.4.0.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.4.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.4.0.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.4.0.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.4.0.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.4.0.svg#fontawesome") format("svg");
-  unicode-range: U+F499,U+F676,U+F6AE,U+F6B0-F6B3,U+F6B5-F6BC,U+F6BF,U+F6C2,U+F6C5-F6C8,U+F6CB,U+F6CD-F6D5,U+F6D8-F6D9,U+F6DB,U+F6DE,U+F6E2-F6E3,U+F6E5-F6E7,U+F6E9-F6EC,U+F6EE,U+F6F1-F6F3,U+F6F5-F6F8,U+F6FC-F6FD,U+F6FF-F703,U+F707,U+F70A-F70B,U+F711-F713,U+F715-F71D,U+F720-F724,U+F726-F729,U+F72B,U+F72D,U+F72F,U+10F499,U+10F676,U+10F6AE,U+10F6B0-10F6B3,U+10F6B5-10F6BC,U+10F6BF,U+10F6C2,U+10F6C5-10F6C8,U+10F6CB,U+10F6CD-10F6D5,U+10F6D8-10F6D9,U+10F6DB,U+10F6DE,U+10F6E2-10F6E3,U+10F6E5-10F6E7,U+10F6E9-10F6EC,U+10F6EE,U+10F6F1-10F6F3,U+10F6F5-10F6F8,U+10F6FC-10F6FD,U+10F6FF-10F703,U+10F707,U+10F70A-10F70B,U+10F711-10F713,U+10F715-10F71D,U+10F720-10F724,U+10F726-10F729,U+10F72B,U+10F72D,U+10F72F;
+  unicode-range: U+F499,U+F676,U+F6AE,U+F6B0-F6B3,U+F6B5-F6BC,U+F6BF,U+F6C2,U+F6C5-F6C8,U+F6CB,U+F6CD-F6D2,U+F6D5,U+F6D8-F6D9,U+F6DB,U+F6DE,U+F6E2-F6E3,U+F6E5-F6E7,U+F6E9-F6EC,U+F6EE,U+F6F1-F6F3,U+F6F5-F6F8,U+F6FC-F6FD,U+F6FF-F703,U+F707,U+F70A-F70B,U+F711-F713,U+F715-F71D,U+F720-F724,U+F726-F729,U+F72B,U+F72D,U+F72F,U+10F499,U+10F676,U+10F6AE,U+10F6B0-10F6B3,U+10F6B5-10F6BC,U+10F6BF,U+10F6C2,U+10F6C5-10F6C8,U+10F6CB,U+10F6CD-10F6D2,U+10F6D5,U+10F6D8-10F6D9,U+10F6DB,U+10F6DE,U+10F6E2-10F6E3,U+10F6E5-10F6E7,U+10F6E9-10F6EC,U+10F6EE,U+10F6F1-10F6F3,U+10F6F5-10F6F8,U+10F6FC-10F6FD,U+10F6FF-10F703,U+10F707,U+10F70A-10F70B,U+10F711-10F713,U+10F715-10F71D,U+10F720-10F724,U+10F726-10F729,U+10F72B,U+10F72D,U+10F72F;
 }
 
 @font-face {
@@ -9259,7 +9640,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-duotone-900-pro-5.5.0.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.5.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.5.0.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.5.0.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.5.0.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.5.0.svg#fontawesome") format("svg");
-  unicode-range: U+F0E7,U+F185,U+F2DC,U+F6C3-F6C4,U+F72E,U+F732-F735,U+F737-F750,U+F752-F758,U+F75A,U+F75C,U+F75E-F76E,U+F771-F776,U+10F0E7,U+10F185,U+10F2DC,U+10F6C3-10F6C4,U+10F72E,U+10F732-10F735,U+10F737-10F750,U+10F752-10F758,U+10F75A,U+10F75C,U+10F75E-10F76E,U+10F771-10F776;
+  unicode-range: U+F0E7,U+F185,U+F2DC,U+F6C3-F6C4,U+F72E,U+F732-F735,U+F737-F750,U+F752,U+F754-F758,U+F75A,U+F75C,U+F75E-F761,U+F763-F76E,U+F771-F776,U+10F0E7,U+10F185,U+10F2DC,U+10F6C3-10F6C4,U+10F72E,U+10F732-10F735,U+10F737-10F750,U+10F752,U+10F754-10F758,U+10F75A,U+10F75C,U+10F75E-10F761,U+10F763-10F76E,U+10F771-10F776;
 }
 
 @font-face {
@@ -9268,7 +9649,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-duotone-900-pro-5.6.0.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.6.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.6.0.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.6.0.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.6.0.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.6.0.svg#fontawesome") format("svg");
-  unicode-range: U+F06B,U+F5B7,U+F77D,U+F77F,U+F781-F782,U+F788,U+F78A-F78C,U+F78E-F78F,U+F792-F796,U+F79A-F7A1,U+F7A3-F7A4,U+F7A7-F7A8,U+F7AA,U+F7AC-F7AE,U+F7B4-F7B6,U+F7B8,U+F7BD-F7BE,U+F7C0-F7C3,U+F7C5,U+F7C7-F7D2,U+F7D4,U+F7D7-F7D8,U+F7DA-F7DC,U+F7DE,U+F7E2,U+10F06B,U+10F5B7,U+10F77D,U+10F77F,U+10F781-10F782,U+10F788,U+10F78A-10F78C,U+10F78E-10F78F,U+10F792-10F796,U+10F79A-10F7A1,U+10F7A3-10F7A4,U+10F7A7-10F7A8,U+10F7AA,U+10F7AC-10F7AE,U+10F7B4-10F7B6,U+10F7B8,U+10F7BD-10F7BE,U+10F7C0-10F7C3,U+10F7C5,U+10F7C7-10F7D2,U+10F7D4,U+10F7D7-10F7D8,U+10F7DA-10F7DC,U+10F7DE,U+10F7E2;
+  unicode-range: U+F06B,U+F5B7,U+F77D,U+F77F,U+F781-F782,U+F788,U+F78A-F78C,U+F78E-F78F,U+F792-F796,U+F79A-F7A1,U+F7A3-F7A4,U+F7A7-F7A8,U+F7AA,U+F7AC-F7AE,U+F7B4-F7B6,U+F7B8,U+F7BD-F7BE,U+F7C1-F7C3,U+F7C5,U+F7C7-F7D2,U+F7D4,U+F7D7-F7D8,U+F7DA-F7DC,U+F7DE,U+F7E2,U+10F06B,U+10F5B7,U+10F77D,U+10F77F,U+10F781-10F782,U+10F788,U+10F78A-10F78C,U+10F78E-10F78F,U+10F792-10F796,U+10F79A-10F7A1,U+10F7A3-10F7A4,U+10F7A7-10F7A8,U+10F7AA,U+10F7AC-10F7AE,U+10F7B4-10F7B6,U+10F7B8,U+10F7BD-10F7BE,U+10F7C1-10F7C3,U+10F7C5,U+10F7C7-10F7D2,U+10F7D4,U+10F7D7-10F7D8,U+10F7DA-10F7DC,U+10F7DE,U+10F7E2;
 }
 
 @font-face {
@@ -9295,7 +9676,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-duotone-900-pro-5.7.0.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.7.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.7.0.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.7.0.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.7.0.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.7.0.svg#fontawesome") format("svg");
-  unicode-range: U+F00A,U+F015,U+F06E,U+F070,U+F135,U+F1E4,U+F2A0,U+F377,U+F470,U+F49C,U+F49E,U+F4C9,U+F6D6-F6D7,U+F705,U+F725,U+F77E,U+F780,U+F7E5-F7E7,U+F7E9-F7F0,U+F7F2-F7FC,U+F7FE,U+F800-F802,U+F804-F805,U+F807-F80F,U+F811-F812,U+F814-F818,U+F81B,U+F81E-F823,U+F825-F827,U+F82C-F833,U+10F00A,U+10F015,U+10F06E,U+10F070,U+10F135,U+10F1E4,U+10F2A0,U+10F377,U+10F470,U+10F49C,U+10F49E,U+10F4C9,U+10F6D6-10F6D7,U+10F705,U+10F725,U+10F77E,U+10F780,U+10F7E5-10F7E7,U+10F7E9-10F7F0,U+10F7F2-10F7FC,U+10F7FE,U+10F800-10F802,U+10F804-10F805,U+10F807-10F80F,U+10F811-10F812,U+10F814-10F818,U+10F81B,U+10F81E-10F823,U+10F825-10F827,U+10F82C-10F833;
+  unicode-range: U+F00A,U+F015,U+F06E,U+F070,U+F1E4,U+F2A0,U+F377,U+F470,U+F49C,U+F49E,U+F4C9,U+F6D6-F6D7,U+F705,U+F725,U+F77E,U+F780,U+F7E5-F7E7,U+F7E9-F7F0,U+F7F2-F7FC,U+F7FE,U+F800-F802,U+F804-F805,U+F807-F80F,U+F811-F812,U+F814-F818,U+F81B,U+F81E-F823,U+F825-F827,U+F82C-F82E,U+F830-F833,U+10F00A,U+10F015,U+10F06E,U+10F070,U+10F1E4,U+10F2A0,U+10F377,U+10F470,U+10F49C,U+10F49E,U+10F4C9,U+10F6D6-10F6D7,U+10F705,U+10F725,U+10F77E,U+10F780,U+10F7E5-10F7E7,U+10F7E9-10F7F0,U+10F7F2-10F7FC,U+10F7FE,U+10F800-10F802,U+10F804-10F805,U+10F807-10F80F,U+10F811-10F812,U+10F814-10F818,U+10F81B,U+10F81E-10F823,U+10F825-10F827,U+10F82C-10F82E,U+10F830-10F833;
 }
 
 @font-face {
@@ -9340,7 +9721,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-duotone-900-pro-5.10.1.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.10.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.10.1.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.10.1.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.10.1.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.10.1.svg#fontawesome") format("svg");
-  unicode-range: U+F000,U+F012,U+F029,U+F03E,U+F06D,U+F075,U+F07B,U+F083-F084,U+F0A0,U+F11E,U+F140,U+F19D,U+F20A,U+F247-F248,U+F251-F254,U+F25D,U+F275,U+F27A,U+F2C2,U+F2D1,U+F302,U+F310-F311,U+F34D,U+F3A5,U+F435,U+F454,U+F456,U+F476,U+F47F-F480,U+F52F,U+F534,U+F561,U+F578,U+F591,U+F5DB,U+F5E7,U+F5F6,U+F611,U+F613,U+F654,U+F657-F658,U+F681-F682,U+F68C-F693,U+F6BE,U+F6DA,U+F6E4,U+F6ED,U+F6EF-F6F0,U+F6F4,U+F6FA-F6FB,U+F6FE,U+F72C,U+F751,U+F759,U+F75B,U+F779,U+F77C,U+F786-F787,U+F7AB,U+F7B2,U+F7B7,U+F7BF,U+F7E8,U+F813,U+F85F,U+F863,U+F87B,U+F89C-F89D,U+10F000,U+10F012,U+10F029,U+10F03E,U+10F06D,U+10F075,U+10F07B,U+10F083-10F084,U+10F0A0,U+10F11E,U+10F140,U+10F19D,U+10F20A,U+10F247-10F248,U+10F251-10F254,U+10F25D,U+10F275,U+10F27A,U+10F2C2,U+10F2D1,U+10F302,U+10F310-10F311,U+10F34D,U+10F3A5,U+10F435,U+10F454,U+10F456,U+10F476,U+10F47F-10F480,U+10F52F,U+10F534,U+10F561,U+10F578,U+10F591,U+10F5DB,U+10F5E7,U+10F5F6,U+10F611,U+10F613,U+10F654,U+10F657-10F658,U+10F681-10F682,U+10F68C-10F693,U+10F6BE,U+10F6DA,U+10F6E4,U+10F6ED,U+10F6EF-10F6F0,U+10F6F4,U+10F6FA-10F6FB,U+10F6FE,U+10F72C,U+10F751,U+10F759,U+10F75B,U+10F779,U+10F77C,U+10F786-10F787,U+10F7AB,U+10F7B2,U+10F7B7,U+10F7BF,U+10F7E8,U+10F813,U+10F85F,U+10F863,U+10F87B,U+10F89C-10F89D;
+  unicode-range: U+F000,U+F012,U+F029,U+F03E,U+F06D,U+F075,U+F07B,U+F083-F084,U+F0A0,U+F11E,U+F140,U+F19D,U+F20A,U+F247-F248,U+F251-F254,U+F25D,U+F275,U+F27A,U+F2C2,U+F2D1,U+F302,U+F310-F311,U+F34D,U+F3A5,U+F435,U+F454,U+F456,U+F476,U+F47F-F480,U+F52F,U+F534,U+F561,U+F578,U+F591,U+F5DB,U+F5E7,U+F5F6,U+F611,U+F613,U+F654,U+F681-F682,U+F68C-F693,U+F6BE,U+F6DA,U+F6E4,U+F6ED,U+F6EF-F6F0,U+F6F4,U+F6FA-F6FB,U+F6FE,U+F72C,U+F751,U+F759,U+F75B,U+F779,U+F77C,U+F786-F787,U+F7AB,U+F7B2,U+F7B7,U+F7E8,U+F813,U+F85F,U+F863,U+F87B,U+F89C-F89D,U+10F000,U+10F012,U+10F029,U+10F03E,U+10F06D,U+10F075,U+10F07B,U+10F083-10F084,U+10F0A0,U+10F11E,U+10F140,U+10F19D,U+10F20A,U+10F247-10F248,U+10F251-10F254,U+10F25D,U+10F275,U+10F27A,U+10F2C2,U+10F2D1,U+10F302,U+10F310-10F311,U+10F34D,U+10F3A5,U+10F435,U+10F454,U+10F456,U+10F476,U+10F47F-10F480,U+10F52F,U+10F534,U+10F561,U+10F578,U+10F591,U+10F5DB,U+10F5E7,U+10F5F6,U+10F611,U+10F613,U+10F654,U+10F681-10F682,U+10F68C-10F693,U+10F6BE,U+10F6DA,U+10F6E4,U+10F6ED,U+10F6EF-10F6F0,U+10F6F4,U+10F6FA-10F6FB,U+10F6FE,U+10F72C,U+10F751,U+10F759,U+10F75B,U+10F779,U+10F77C,U+10F786-10F787,U+10F7AB,U+10F7B2,U+10F7B7,U+10F7E8,U+10F813,U+10F85F,U+10F863,U+10F87B,U+10F89C-10F89D;
 }
 
 @font-face {
@@ -9358,7 +9739,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-duotone-900-pro-5.11.0.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.11.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.11.0.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.11.0.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.11.0.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.11.0.svg#fontawesome") format("svg");
-  unicode-range: U+F001,U+F02F,U+F042,U+F08E,U+F091,U+F0F3,U+F104-F105,U+F11B,U+F13D,U+F149,U+F1AC,U+F1EC,U+F223,U+F225,U+F22A-F22C,U+F24D,U+F26C,U+F29D,U+F2EB,U+F2EE,U+F2F3,U+F300,U+F307,U+F323-F324,U+F338,U+F33D,U+F35D,U+F48A,U+F4C0,U+F569,U+F5DC,U+F5EB,U+F601,U+F61B,U+F64C,U+F65E,U+F664,U+F66A,U+F68A,U+F6C0-F6C1,U+F6DF-F6E1,U+F6E8,U+F6F9,U+F70C,U+F7A6,U+F81A,U+F89F-F8A5,U+F8A7-F8B6,U+F8B8-F8C9,U+F8CB-F8D1,U+F8D3-F8DD,U+F8DF-F8E0,U+F8E2-F8E7,U+F8E9-F8ED,U+F8EF-F8F2,U+10F001,U+10F02F,U+10F042,U+10F08E,U+10F091,U+10F0F3,U+10F104-10F105,U+10F11B,U+10F13D,U+10F149,U+10F1AC,U+10F1EC,U+10F223,U+10F225,U+10F22A-10F22C,U+10F24D,U+10F26C,U+10F29D,U+10F2EB,U+10F2EE,U+10F2F3,U+10F300,U+10F307,U+10F323-10F324,U+10F338,U+10F33D,U+10F35D,U+10F48A,U+10F4C0,U+10F569,U+10F5DC,U+10F5EB,U+10F601,U+10F61B,U+10F64C,U+10F65E,U+10F664,U+10F66A,U+10F68A,U+10F6C0-10F6C1,U+10F6DF-10F6E1,U+10F6E8,U+10F6F9,U+10F70C,U+10F7A6,U+10F81A,U+10F89F-10F8A5,U+10F8A7-10F8B6,U+10F8B8-10F8C9,U+10F8CB-10F8D1,U+10F8D3-10F8DD,U+10F8DF-10F8E0,U+10F8E2-10F8E7,U+10F8E9-10F8ED,U+10F8EF-10F8F2;
+  unicode-range: U+F001,U+F02F,U+F042,U+F08E,U+F091,U+F0F3,U+F104-F105,U+F11B,U+F13D,U+F149,U+F1AC,U+F1EC,U+F223,U+F225,U+F22A-F22C,U+F24D,U+F26C,U+F29D,U+F2EB,U+F2EE,U+F2F3,U+F300,U+F307,U+F323-F324,U+F338,U+F33D,U+F35D,U+F48A,U+F4C0,U+F569,U+F5DC,U+F5EB,U+F601,U+F61B,U+F64C,U+F65E,U+F664,U+F66A,U+F68A,U+F6C0-F6C1,U+F6DF-F6E1,U+F6E8,U+F6F9,U+F70C,U+F7A6,U+F81A,U+F89F-F8A5,U+F8A7-F8B6,U+F8B8-F8B9,U+F8BB-F8C9,U+F8CB-F8D1,U+F8D3,U+F8D5-F8DD,U+F8DF-F8E0,U+F8E2-F8E7,U+F8E9-F8ED,U+F8EF-F8F2,U+10F001,U+10F02F,U+10F042,U+10F08E,U+10F091,U+10F0F3,U+10F104-10F105,U+10F11B,U+10F13D,U+10F149,U+10F1AC,U+10F1EC,U+10F223,U+10F225,U+10F22A-10F22C,U+10F24D,U+10F26C,U+10F29D,U+10F2EB,U+10F2EE,U+10F2F3,U+10F300,U+10F307,U+10F323-10F324,U+10F338,U+10F33D,U+10F35D,U+10F48A,U+10F4C0,U+10F569,U+10F5DC,U+10F5EB,U+10F601,U+10F61B,U+10F64C,U+10F65E,U+10F664,U+10F66A,U+10F68A,U+10F6C0-10F6C1,U+10F6DF-10F6E1,U+10F6E8,U+10F6F9,U+10F70C,U+10F7A6,U+10F81A,U+10F89F-10F8A5,U+10F8A7-10F8B6,U+10F8B8-10F8B9,U+10F8BB-10F8C9,U+10F8CB-10F8D1,U+10F8D3,U+10F8D5-10F8DD,U+10F8DF-10F8E0,U+10F8E2-10F8E7,U+10F8E9-10F8ED,U+10F8EF-10F8F2;
 }
 
 @font-face {
@@ -9367,7 +9748,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-duotone-900-pro-5.11.1.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.11.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.11.1.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.11.1.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.11.1.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.11.1.svg#fontawesome") format("svg");
-  unicode-range: U+F00D,U+F048,U+F051,U+F0AC,U+F0B0,U+F118-F11A,U+F148,U+F14E,U+F155,U+F186,U+F19C,U+F1EB,U+F21A,U+F221,U+F22D,U+F2BD,U+F2E8,U+F2F8,U+F354,U+F357,U+F433-F434,U+F436,U+F44E,U+F45E,U+F4C7,U+F4DA,U+F4E3,U+F51F,U+F54E,U+F556,U+F567,U+F579-F57A,U+F57C-F585,U+F587,U+F589-F58C,U+F596-F59C,U+F5A4-F5A5,U+F5B3-F5B4,U+F5B8,U+F5C0,U+F5C2-F5C3,U+F5C8,U+F5CE,U+F5DE,U+F5E6,U+F5EC,U+F602,U+F615-F616,U+F622,U+F648-F649,U+F67C,U+F69A,U+F6AA-F6AB,U+F6AD,U+F7A2,U+F7A5,U+F7B9-F7BA,U+F7FF,U+F803,U+F806,U+F810,U+F819,U+F82B,U+F87F,U+F8DE,U+F8EE,U+10F00D,U+10F048,U+10F051,U+10F0AC,U+10F0B0,U+10F118-10F11A,U+10F148,U+10F14E,U+10F155,U+10F186,U+10F19C,U+10F1EB,U+10F21A,U+10F221,U+10F22D,U+10F2BD,U+10F2E8,U+10F2F8,U+10F354,U+10F357,U+10F433-10F434,U+10F436,U+10F44E,U+10F45E,U+10F4C7,U+10F4DA,U+10F4E3,U+10F51F,U+10F54E,U+10F556,U+10F567,U+10F579-10F57A,U+10F57C-10F585,U+10F587,U+10F589-10F58C,U+10F596-10F59C,U+10F5A4-10F5A5,U+10F5B3-10F5B4,U+10F5B8,U+10F5C0,U+10F5C2-10F5C3,U+10F5C8,U+10F5CE,U+10F5DE,U+10F5E6,U+10F5EC,U+10F602,U+10F615-10F616,U+10F622,U+10F648-10F649,U+10F67C,U+10F69A,U+10F6AA-10F6AB,U+10F6AD,U+10F7A2,U+10F7A5,U+10F7B9-10F7BA,U+10F7FF,U+10F803,U+10F806,U+10F810,U+10F819,U+10F82B,U+10F87F,U+10F8DE,U+10F8EE;
+  unicode-range: U+F00D,U+F048,U+F051,U+F0AC,U+F0B0,U+F118-F11A,U+F148,U+F14E,U+F155,U+F186,U+F19C,U+F1EB,U+F21A,U+F221,U+F22D,U+F2BD,U+F2E8,U+F2F8,U+F354,U+F357,U+F433-F434,U+F436,U+F44E,U+F45E,U+F4C7,U+F4DA,U+F4E3,U+F51F,U+F54E,U+F556,U+F567,U+F579-F57A,U+F57C-F585,U+F587,U+F589-F58A,U+F58C,U+F596-F59C,U+F5A4-F5A5,U+F5B3-F5B4,U+F5B8,U+F5C0,U+F5C2-F5C3,U+F5C8,U+F5CE,U+F5DE,U+F5E6,U+F5EC,U+F602,U+F615-F616,U+F622,U+F648-F649,U+F67C,U+F69A,U+F6AA-F6AB,U+F6AD,U+F7A2,U+F7A5,U+F7B9-F7BA,U+F7FF,U+F803,U+F806,U+F810,U+F819,U+F82B,U+F87F,U+F8DE,U+F8EE,U+10F00D,U+10F048,U+10F051,U+10F0AC,U+10F0B0,U+10F118-10F11A,U+10F148,U+10F14E,U+10F155,U+10F186,U+10F19C,U+10F1EB,U+10F21A,U+10F221,U+10F22D,U+10F2BD,U+10F2E8,U+10F2F8,U+10F354,U+10F357,U+10F433-10F434,U+10F436,U+10F44E,U+10F45E,U+10F4C7,U+10F4DA,U+10F4E3,U+10F51F,U+10F54E,U+10F556,U+10F567,U+10F579-10F57A,U+10F57C-10F585,U+10F587,U+10F589-10F58A,U+10F58C,U+10F596-10F59C,U+10F5A4-10F5A5,U+10F5B3-10F5B4,U+10F5B8,U+10F5C0,U+10F5C2-10F5C3,U+10F5C8,U+10F5CE,U+10F5DE,U+10F5E6,U+10F5EC,U+10F602,U+10F615-10F616,U+10F622,U+10F648-10F649,U+10F67C,U+10F69A,U+10F6AA-10F6AB,U+10F6AD,U+10F7A2,U+10F7A5,U+10F7B9-10F7BA,U+10F7FF,U+10F803,U+10F806,U+10F810,U+10F819,U+10F82B,U+10F87F,U+10F8DE,U+10F8EE;
 }
 
 @font-face {
@@ -9377,6 +9758,15 @@ readers do not read off random characters that represent icons */
   src: url("../webfonts/fa-duotone-900-pro-5.11.2.eot");
   src: url("../webfonts/fa-duotone-900-pro-5.11.2.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.11.2.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.11.2.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.11.2.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.11.2.svg#fontawesome") format("svg");
   unicode-range: U+F488,U+F8B7,U+F8F3,U+10F488,U+10F8B7,U+10F8F3;
+}
+
+@font-face {
+  font-family: 'Font Awesome 5 Duotone';
+  font-style: normal;
+  font-weight: 900;
+  src: url("../webfonts/fa-duotone-900-pro-5.12.0.eot");
+  src: url("../webfonts/fa-duotone-900-pro-5.12.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900-pro-5.12.0.woff2") format("woff2"), url("../webfonts/fa-duotone-900-pro-5.12.0.woff") format("woff"), url("../webfonts/fa-duotone-900-pro-5.12.0.ttf") format("truetype"), url("../webfonts/fa-duotone-900-pro-5.12.0.svg#fontawesome") format("svg");
+  unicode-range: U+F135,U+F1E6,U+F259,U+F2CC-F2CD,U+F422,U+F424,U+F515-F516,U+F544,U+F58B,U+F5D2-F5D3,U+F61F,U+F657-F658,U+F666,U+F672,U+F6D3-F6D4,U+F753,U+F762,U+F7BF-F7C0,U+F82F,U+F8BA,U+F8D4,U+F8F4-F906,U+F908-F912,U+F914-F919,U+F91B-F91D,U+F91F-F948,U+F94A-F950,U+10F135,U+10F1E6,U+10F259,U+10F2CC-10F2CD,U+10F422,U+10F424,U+10F515-10F516,U+10F544,U+10F58B,U+10F5D2-10F5D3,U+10F61F,U+10F657-10F658,U+10F666,U+10F672,U+10F6D3-10F6D4,U+10F753,U+10F762,U+10F7BF-10F7C0,U+10F82F,U+10F8BA,U+10F8D4,U+10F8F4-10F906,U+10F908-10F912,U+10F914-10F919,U+10F91B-10F91D,U+10F91F-10F948,U+10F94A-10F950;
 }
 
 .fad {
@@ -9451,6 +9841,10 @@ readers do not read off random characters that represent icons */
   content: "\10f042";
 }
 
+.fad.fa-air-conditioner:after {
+  content: "\10f8f4";
+}
+
 .fad.fa-air-freshener:after {
   content: "\10f5d0";
 }
@@ -9481,6 +9875,14 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-alicorn:after {
   content: "\10f6b0";
+}
+
+.fad.fa-alien:after {
+  content: "\10f8f5";
+}
+
+.fad.fa-alien-monster:after {
+  content: "\10f8f6";
 }
 
 .fad.fa-align-center:after {
@@ -9863,6 +10265,10 @@ readers do not read off random characters that represent icons */
   content: "\10f847";
 }
 
+.fad.fa-bahai:after {
+  content: "\10f666";
+}
+
 .fad.fa-balance-scale:after {
   content: "\10f24e";
 }
@@ -9975,6 +10381,18 @@ readers do not read off random characters that represent icons */
   content: "\10f236";
 }
 
+.fad.fa-bed-alt:after {
+  content: "\10f8f7";
+}
+
+.fad.fa-bed-bunk:after {
+  content: "\10f8f8";
+}
+
+.fad.fa-bed-empty:after {
+  content: "\10f8f9";
+}
+
 .fad.fa-beer:after {
   content: "\10f0fc";
 }
@@ -9985,6 +10403,10 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-bell-exclamation:after {
   content: "\10f848";
+}
+
+.fad.fa-bell-on:after {
+  content: "\10f8fa";
 }
 
 .fad.fa-bell-plus:after {
@@ -10057,6 +10479,18 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-blind:after {
   content: "\10f29d";
+}
+
+.fad.fa-blinds:after {
+  content: "\10f8fb";
+}
+
+.fad.fa-blinds-open:after {
+  content: "\10f8fc";
+}
+
+.fad.fa-blinds-raised:after {
+  content: "\10f8fd";
 }
 
 .fad.fa-blog:after {
@@ -10439,6 +10873,10 @@ readers do not read off random characters that represent icons */
   content: "\10f332";
 }
 
+.fad.fa-camera-home:after {
+  content: "\10f8fe";
+}
+
 .fad.fa-camera-movie:after {
   content: "\10f8a9";
 }
@@ -10527,6 +10965,14 @@ readers do not read off random characters that represent icons */
   content: "\10f5e6";
 }
 
+.fad.fa-caravan:after {
+  content: "\10f8ff";
+}
+
+.fad.fa-caravan-alt:after {
+  content: "\10f900";
+}
+
 .fad.fa-caret-circle-down:after {
   content: "\10f32d";
 }
@@ -10601,6 +11047,10 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-cat:after {
   content: "\10f6be";
+}
+
+.fad.fa-cat-space:after {
+  content: "\10f901";
 }
 
 .fad.fa-cauldron:after {
@@ -11015,6 +11465,10 @@ readers do not read off random characters that represent icons */
   content: "\10f0f4";
 }
 
+.fad.fa-coffee-pot:after {
+  content: "\10f902";
+}
+
 .fad.fa-coffee-togo:after {
   content: "\10f6c5";
 }
@@ -11041,6 +11495,10 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-columns:after {
   content: "\10f0db";
+}
+
+.fad.fa-comet:after {
+  content: "\10f903";
 }
 
 .fad.fa-comment:after {
@@ -11783,6 +12241,10 @@ readers do not read off random characters that represent icons */
   content: "\10f863";
 }
 
+.fad.fa-fan-table:after {
+  content: "\10f904";
+}
+
 .fad.fa-farm:after {
   content: "\10f864";
 }
@@ -11793,6 +12255,14 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-fast-forward:after {
   content: "\10f050";
+}
+
+.fad.fa-faucet:after {
+  content: "\10f905";
+}
+
+.fad.fa-faucet-drip:after {
+  content: "\10f906";
 }
 
 .fad.fa-fax:after {
@@ -12187,6 +12657,10 @@ readers do not read off random characters that represent icons */
   content: "\10f1e3";
 }
 
+.fad.fa-galaxy:after {
+  content: "\10f908";
+}
+
 .fad.fa-game-board:after {
   content: "\10f867";
 }
@@ -12205,6 +12679,18 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-gamepad-alt:after {
   content: "\10f8bc";
+}
+
+.fad.fa-garage:after {
+  content: "\10f909";
+}
+
+.fad.fa-garage-car:after {
+  content: "\10f90a";
+}
+
+.fad.fa-garage-open:after {
+  content: "\10f90b";
 }
 
 .fad.fa-gas-pump:after {
@@ -12611,10 +13097,6 @@ readers do not read off random characters that represent icons */
   content: "\10f6e8";
 }
 
-.fad.fa-haykal:after {
-  content: "\10f666";
-}
-
 .fad.fa-hdd:after {
   content: "\10f0a0";
 }
@@ -12677,6 +13159,10 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-heartbeat:after {
   content: "\10f21e";
+}
+
+.fad.fa-heat:after {
+  content: "\10f90c";
 }
 
 .fad.fa-helicopter:after {
@@ -12811,12 +13297,36 @@ readers do not read off random characters that represent icons */
   content: "\10f251";
 }
 
+.fad.fa-house:after {
+  content: "\10f90d";
+}
+
 .fad.fa-house-damage:after {
   content: "\10f6f1";
 }
 
+.fad.fa-house-day:after {
+  content: "\10f90e";
+}
+
 .fad.fa-house-flood:after {
   content: "\10f74f";
+}
+
+.fad.fa-house-leave:after {
+  content: "\10f90f";
+}
+
+.fad.fa-house-night:after {
+  content: "\10f910";
+}
+
+.fad.fa-house-return:after {
+  content: "\10f911";
+}
+
+.fad.fa-house-signal:after {
+  content: "\10f912";
 }
 
 .fad.fa-hryvnia:after {
@@ -13039,6 +13549,14 @@ readers do not read off random characters that represent icons */
   content: "\10f4ca";
 }
 
+.fad.fa-lamp-desk:after {
+  content: "\10f914";
+}
+
+.fad.fa-lamp-floor:after {
+  content: "\10f915";
+}
+
 .fad.fa-landmark:after {
   content: "\10f66f";
 }
@@ -13141,6 +13659,22 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-life-ring:after {
   content: "\10f1cd";
+}
+
+.fad.fa-light-ceiling:after {
+  content: "\10f916";
+}
+
+.fad.fa-light-switch:after {
+  content: "\10f917";
+}
+
+.fad.fa-light-switch-off:after {
+  content: "\10f918";
+}
+
+.fad.fa-light-switch-on:after {
+  content: "\10f919";
 }
 
 .fad.fa-lightbulb:after {
@@ -13487,6 +14021,10 @@ readers do not read off random characters that represent icons */
   content: "\10f610";
 }
 
+.fad.fa-microwave:after {
+  content: "\10f91b";
+}
+
 .fad.fa-mind-share:after {
   content: "\10f677";
 }
@@ -13721,6 +14259,14 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-outdent:after {
   content: "\10f03b";
+}
+
+.fad.fa-outlet:after {
+  content: "\10f91c";
+}
+
+.fad.fa-oven:after {
+  content: "\10f91d";
 }
 
 .fad.fa-overline:after {
@@ -14011,6 +14557,14 @@ readers do not read off random characters that represent icons */
   content: "\10f5b0";
 }
 
+.fad.fa-planet-moon:after {
+  content: "\10f91f";
+}
+
+.fad.fa-planet-ringed:after {
+  content: "\10f920";
+}
+
 .fad.fa-play:after {
   content: "\10f04b";
 }
@@ -14055,6 +14609,10 @@ readers do not read off random characters that represent icons */
   content: "\10f758";
 }
 
+.fad.fa-police-box:after {
+  content: "\10f921";
+}
+
 .fad.fa-poll:after {
   content: "\10f681";
 }
@@ -14081,6 +14639,14 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-popcorn:after {
   content: "\10f819";
+}
+
+.fad.fa-portal-enter:after {
+  content: "\10f922";
+}
+
+.fad.fa-portal-exit:after {
+  content: "\10f923";
 }
 
 .fad.fa-portrait:after {
@@ -14195,6 +14761,10 @@ readers do not read off random characters that represent icons */
   content: "\10f45a";
 }
 
+.fad.fa-radar:after {
+  content: "\10f924";
+}
+
 .fad.fa-radiation:after {
   content: "\10f7b9";
 }
@@ -14231,6 +14801,10 @@ readers do not read off random characters that represent icons */
   content: "\10f074";
 }
 
+.fad.fa-raygun:after {
+  content: "\10f925";
+}
+
 .fad.fa-receipt:after {
   content: "\10f543";
 }
@@ -14261,6 +14835,10 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-redo-alt:after {
   content: "\10f2f9";
+}
+
+.fad.fa-refrigerator:after {
+  content: "\10f926";
 }
 
 .fad.fa-registered:after {
@@ -14333,6 +14911,10 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-rocket:after {
   content: "\10f135";
+}
+
+.fad.fa-rocket-launch:after {
+  content: "\10f927";
 }
 
 .fad.fa-route:after {
@@ -14535,6 +15117,26 @@ readers do not read off random characters that represent icons */
   content: "\10f87f";
 }
 
+.fad.fa-sensor:after {
+  content: "\10f928";
+}
+
+.fad.fa-sensor-alert:after {
+  content: "\10f929";
+}
+
+.fad.fa-sensor-fire:after {
+  content: "\10f92a";
+}
+
+.fad.fa-sensor-on:after {
+  content: "\10f92b";
+}
+
+.fad.fa-sensor-smoke:after {
+  content: "\10f92c";
+}
+
 .fad.fa-server:after {
   content: "\10f233";
 }
@@ -14731,6 +15333,14 @@ readers do not read off random characters that represent icons */
   content: "\10f7c4";
 }
 
+.fad.fa-siren:after {
+  content: "\10f92d";
+}
+
+.fad.fa-siren-on:after {
+  content: "\10f92e";
+}
+
 .fad.fa-sitemap:after {
   content: "\10f0e8";
 }
@@ -14879,6 +15489,10 @@ readers do not read off random characters that represent icons */
   content: "\10f5ba";
 }
 
+.fad.fa-solar-system:after {
+  content: "\10f92f";
+}
+
 .fad.fa-sort:after {
   content: "\10f0dc";
 }
@@ -14917,6 +15531,18 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-sort-amount-up-alt:after {
   content: "\10f885";
+}
+
+.fad.fa-sort-circle:after {
+  content: "\10f930";
+}
+
+.fad.fa-sort-circle-down:after {
+  content: "\10f931";
+}
+
+.fad.fa-sort-circle-up:after {
+  content: "\10f932";
 }
 
 .fad.fa-sort-down:after {
@@ -14987,6 +15613,14 @@ readers do not read off random characters that represent icons */
   content: "\10f197";
 }
 
+.fad.fa-space-station-moon:after {
+  content: "\10f933";
+}
+
+.fad.fa-space-station-moon-alt:after {
+  content: "\10f934";
+}
+
 .fad.fa-spade:after {
   content: "\10f2f4";
 }
@@ -15033,6 +15667,10 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-spray-can:after {
   content: "\10f5bd";
+}
+
+.fad.fa-sprinkler:after {
+  content: "\10f935";
 }
 
 .fad.fa-square:after {
@@ -15095,8 +15733,28 @@ readers do not read off random characters that represent icons */
   content: "\10f621";
 }
 
+.fad.fa-star-shooting:after {
+  content: "\10f936";
+}
+
+.fad.fa-starfighter:after {
+  content: "\10f937";
+}
+
+.fad.fa-starfighter-alt:after {
+  content: "\10f938";
+}
+
 .fad.fa-stars:after {
   content: "\10f762";
+}
+
+.fad.fa-starship:after {
+  content: "\10f939";
+}
+
+.fad.fa-starship-freighter:after {
+  content: "\10f93a";
 }
 
 .fad.fa-steak:after {
@@ -15239,8 +15897,20 @@ readers do not read off random characters that represent icons */
   content: "\10f71c";
 }
 
+.fad.fa-sword-laser:after {
+  content: "\10f93b";
+}
+
+.fad.fa-sword-laser-alt:after {
+  content: "\10f93c";
+}
+
 .fad.fa-swords:after {
   content: "\10f71d";
+}
+
+.fad.fa-swords-laser:after {
+  content: "\10f93d";
 }
 
 .fad.fa-synagogue:after {
@@ -15383,6 +16053,14 @@ readers do not read off random characters that represent icons */
   content: "\10f62f";
 }
 
+.fad.fa-telescope:after {
+  content: "\10f93e";
+}
+
+.fad.fa-temperature-down:after {
+  content: "\10f93f";
+}
+
 .fad.fa-temperature-frigid:after {
   content: "\10f768";
 }
@@ -15397,6 +16075,10 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-temperature-low:after {
   content: "\10f76b";
+}
+
+.fad.fa-temperature-up:after {
+  content: "\10f940";
 }
 
 .fad.fa-tenge:after {
@@ -15639,6 +16321,10 @@ readers do not read off random characters that represent icons */
   content: "\10f63a";
 }
 
+.fad.fa-trailer:after {
+  content: "\10f941";
+}
+
 .fad.fa-train:after {
   content: "\10f238";
 }
@@ -15653,6 +16339,26 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-transgender-alt:after {
   content: "\10f225";
+}
+
+.fad.fa-transporter:after {
+  content: "\10f942";
+}
+
+.fad.fa-transporter-1:after {
+  content: "\10f943";
+}
+
+.fad.fa-transporter-2:after {
+  content: "\10f944";
+}
+
+.fad.fa-transporter-3:after {
+  content: "\10f945";
+}
+
+.fad.fa-transporter-empty:after {
+  content: "\10f946";
 }
 
 .fad.fa-trash:after {
@@ -15807,6 +16513,14 @@ readers do not read off random characters that represent icons */
   content: "\10f8e7";
 }
 
+.fad.fa-ufo:after {
+  content: "\10f947";
+}
+
+.fad.fa-ufo-beam:after {
+  content: "\10f948";
+}
+
 .fad.fa-umbrella:after {
   content: "\10f0e9";
 }
@@ -15873,6 +16587,10 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-user:after {
   content: "\10f007";
+}
+
+.fad.fa-user-alien:after {
+  content: "\10f94a";
 }
 
 .fad.fa-user-alt:after {
@@ -15971,6 +16689,10 @@ readers do not read off random characters that represent icons */
   content: "\10f234";
 }
 
+.fad.fa-user-robot:after {
+  content: "\10f94b";
+}
+
 .fad.fa-user-secret:after {
   content: "\10f21b";
 }
@@ -15993,6 +16715,10 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-user-times:after {
   content: "\10f235";
+}
+
+.fad.fa-user-visor:after {
+  content: "\10f94c";
 }
 
 .fad.fa-users:after {
@@ -16033,6 +16759,14 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-utensils-alt:after {
   content: "\10f2e6";
+}
+
+.fad.fa-vacuum:after {
+  content: "\10f94d";
+}
+
+.fad.fa-vacuum-robot:after {
+  content: "\10f94e";
 }
 
 .fad.fa-value-absolute:after {
@@ -16291,6 +17025,14 @@ readers do not read off random characters that represent icons */
   content: "\10f410";
 }
 
+.fad.fa-window-frame:after {
+  content: "\10f94f";
+}
+
+.fad.fa-window-frame-open:after {
+  content: "\10f950";
+}
+
 .fad.fa-window-maximize:after {
   content: "\10f2d0";
 }
@@ -16349,7 +17091,7 @@ readers do not read off random characters that represent icons */
   font-weight: 300;
   src: url("../webfonts/fa-light-300-pro-5.0.0.eot");
   src: url("../webfonts/fa-light-300-pro-5.0.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.0.0.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.0.0.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.0.0.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.0.0.svg#fontawesome") format("svg");
-  unicode-range: U+F002,U+F008-F009,U+F00B-F00C,U+F00E,U+F011,U+F013,U+F017,U+F019,U+F01C,U+F022-F025,U+F02A-F02B,U+F02D,U+F030,U+F040-F041,U+F044,U+F047,U+F049-F04A,U+F04E,U+F050,U+F052-F055,U+F057-F05B,U+F05E,U+F060-F066,U+F068-F06A,U+F074,U+F077-F07A,U+F07C-F07E,U+F085,U+F089,U+F08B,U+F090,U+F093-F094,U+F098,U+F09C-F09E,U+F0A4-F0AB,U+F0B2,U+F0C1,U+F0C3,U+F0C6,U+F0C9,U+F0CE,U+F0D7-F0DB,U+F0E2-F0E3,U+F0E9-F0EA,U+F0EC,U+F0F4,U+F0F8,U+F0FA-F0FE,U+F100-F103,U+F106-F108,U+F10A-F10B,U+F11C,U+F120-F122,U+F124,U+F126-F128,U+F12E,U+F134,U+F137-F13A,U+F13E,U+F141-F143,U+F146,U+F14A-F14D,U+F150-F154,U+F156-F159,U+F175-F178,U+F182-F183,U+F188,U+F191-F192,U+F195,U+F199,U+F1AD-F1AE,U+F1B0,U+F1B2-F1B3,U+F1B8,U+F1BB,U+F1C0,U+F1CD,U+F1D8,U+F1DA,U+F1E0-F1E2,U+F1E6,U+F1EA,U+F1FA,U+F1FD-F1FE,U+F204-F206,U+F20B,U+F217-F218,U+F21C,U+F222,U+F224,U+F226-F229,U+F233,U+F238-F239,U+F240-F244,U+F246,U+F255-F25C,U+F28B,U+F28D,U+F290-F292,U+F295,U+F2A1-F2A4,U+F2A8,U+F2C7-F2CE,U+F2D0,U+F2D2-F2D3,U+F2DB,U+F2E6-F2E7,U+F2EA,U+F2F0-F2F1,U+F2F5-F2F7,U+F2F9,U+F2FD,U+F301,U+F303,U+F308-F30F,U+F31D,U+F320-F322,U+F325-F326,U+F328-F32E,U+F330-F332,U+F336-F337,U+F339-F33C,U+F33E,U+F340-F34C,U+F350-F353,U+F355,U+F358-F35B,U+F360-F367,U+F376,U+F37E,U+F387,U+F389-F38A,U+F390,U+F39B-F39C,U+F3A0,U+F3B3,U+F3BE-F3BF,U+F3C2,U+F3C5,U+F3CD-F3CF,U+F3DE,U+F3E5,U+F3ED,U+F3F0,U+F3F2,U+F3FA-F3FC,U+F400-F401,U+F40E-F410,U+F422,U+F424;
+  unicode-range: U+F002,U+F008-F009,U+F00B-F00C,U+F00E,U+F011,U+F013,U+F017,U+F019,U+F01C,U+F022-F025,U+F02A-F02B,U+F02D,U+F030,U+F040-F041,U+F044,U+F047,U+F049-F04A,U+F04E,U+F050,U+F052-F055,U+F057-F05B,U+F05E,U+F060-F066,U+F068-F06A,U+F074,U+F077-F07A,U+F07C-F07E,U+F085,U+F089,U+F08B,U+F090,U+F093-F094,U+F098,U+F09C-F09E,U+F0A4-F0AB,U+F0B2,U+F0C1,U+F0C3,U+F0C6,U+F0C9,U+F0CE,U+F0D7-F0DB,U+F0E2-F0E3,U+F0E9-F0EA,U+F0EC,U+F0F4,U+F0F8,U+F0FA-F0FE,U+F100-F103,U+F106-F108,U+F10A-F10B,U+F11C,U+F120-F122,U+F124,U+F126-F128,U+F12E,U+F134,U+F137-F13A,U+F13E,U+F141-F143,U+F146,U+F14A-F14D,U+F150-F154,U+F156-F159,U+F175-F178,U+F182-F183,U+F188,U+F191-F192,U+F195,U+F199,U+F1AD-F1AE,U+F1B0,U+F1B2-F1B3,U+F1B8,U+F1BB,U+F1C0,U+F1CD,U+F1D8,U+F1DA,U+F1E0-F1E2,U+F1EA,U+F1FA,U+F1FD-F1FE,U+F204-F206,U+F20B,U+F217-F218,U+F21C,U+F222,U+F224,U+F226-F229,U+F233,U+F238-F239,U+F240-F244,U+F246,U+F255-F258,U+F25A-F25C,U+F28B,U+F28D,U+F290-F292,U+F295,U+F2A1-F2A4,U+F2A8,U+F2C7-F2CB,U+F2CE,U+F2D0,U+F2D2-F2D3,U+F2DB,U+F2E6-F2E7,U+F2EA,U+F2F0-F2F1,U+F2F5-F2F7,U+F2F9,U+F2FD,U+F301,U+F303,U+F308-F30F,U+F31D,U+F320-F322,U+F325-F326,U+F328-F32E,U+F330-F332,U+F336-F337,U+F339-F33C,U+F33E,U+F340-F34C,U+F350-F353,U+F355,U+F358-F35B,U+F360-F367,U+F376,U+F37E,U+F387,U+F389-F38A,U+F390,U+F39B-F39C,U+F3A0,U+F3B3,U+F3BE-F3BF,U+F3C2,U+F3C5,U+F3CD-F3CF,U+F3DE,U+F3E5,U+F3ED,U+F3F0,U+F3F2,U+F3FA-F3FC,U+F400-F401,U+F40E-F410;
 }
 
 @font-face {
@@ -16421,7 +17163,7 @@ readers do not read off random characters that represent icons */
   font-weight: 300;
   src: url("../webfonts/fa-light-300-pro-5.0.13.eot");
   src: url("../webfonts/fa-light-300-pro-5.0.13.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.0.13.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.0.13.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.0.13.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.0.13.svg#fontawesome") format("svg");
-  unicode-range: U+F010,U+F067,U+F072,U+F0AD,U+F0D6,U+F0E8,U+F130-F131,U+F24E,U+F3C9,U+F3D1,U+F515-F517,U+F519-F51E,U+F520-F52C,U+F52E,U+F530-F533,U+F535-F54B,U+F54D,U+F54F-F552,U+F554-F555;
+  unicode-range: U+F010,U+F067,U+F072,U+F0AD,U+F0D6,U+F0E8,U+F130-F131,U+F24E,U+F3C9,U+F3D1,U+F517,U+F519-F51E,U+F520-F52C,U+F52E,U+F530-F533,U+F535-F543,U+F545-F54B,U+F54D,U+F54F-F552,U+F554-F555;
 }
 
 @font-face {
@@ -16448,7 +17190,7 @@ readers do not read off random characters that represent icons */
   font-weight: 300;
   src: url("../webfonts/fa-light-300-pro-5.2.0.eot");
   src: url("../webfonts/fa-light-300-pro-5.2.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.2.0.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.2.0.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.2.0.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.2.0.svg#fontawesome") format("svg");
-  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F621,U+F623-F62F,U+F633,U+F635-F63D;
+  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5D1,U+F5D4-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F61E,U+F620-F621,U+F623-F62F,U+F633,U+F635-F63D;
 }
 
 @font-face {
@@ -16457,7 +17199,7 @@ readers do not read off random characters that represent icons */
   font-weight: 300;
   src: url("../webfonts/fa-light-300-pro-5.3.0.eot");
   src: url("../webfonts/fa-light-300-pro-5.3.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.3.0.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.3.0.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.3.0.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.3.0.svg#fontawesome") format("svg");
-  unicode-range: U+F027-F028,U+F080,U+F0A1,U+F0B1,U+F0EB,U+F200-F201,U+F2E2,U+F61A,U+F640,U+F643-F647,U+F64A-F64B,U+F64D-F653,U+F655-F656,U+F65D,U+F65F-F663,U+F665-F669,U+F66B-F675,U+F678-F67B,U+F67D-F680,U+F683-F689,U+F68B,U+F694-F695,U+F697-F699,U+F69B-F69C,U+F69E-F69F,U+F6A1-F6A9,U+F6AC;
+  unicode-range: U+F027-F028,U+F080,U+F0A1,U+F0B1,U+F0EB,U+F200-F201,U+F2E2,U+F61A,U+F640,U+F643-F647,U+F64A-F64B,U+F64D-F653,U+F655-F656,U+F65D,U+F65F-F663,U+F665,U+F667-F669,U+F66B-F671,U+F673-F675,U+F678-F67B,U+F67D-F680,U+F683-F689,U+F68B,U+F694-F695,U+F697-F699,U+F69B-F69C,U+F69E-F69F,U+F6A1-F6A9,U+F6AC;
 }
 
 @font-face {
@@ -16466,7 +17208,7 @@ readers do not read off random characters that represent icons */
   font-weight: 300;
   src: url("../webfonts/fa-light-300-pro-5.4.0.eot");
   src: url("../webfonts/fa-light-300-pro-5.4.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.4.0.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.4.0.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.4.0.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.4.0.svg#fontawesome") format("svg");
-  unicode-range: U+F499,U+F676,U+F6AE,U+F6B0-F6B3,U+F6B5-F6BC,U+F6BF,U+F6C2,U+F6C5-F6C8,U+F6CB,U+F6CD-F6D5,U+F6D8-F6D9,U+F6DB,U+F6DE,U+F6E2-F6E3,U+F6E5-F6E7,U+F6E9-F6EC,U+F6EE,U+F6F1-F6F3,U+F6F5-F6F8,U+F6FC-F6FD,U+F6FF-F703,U+F707,U+F70A-F70B,U+F711-F713,U+F715-F71D,U+F720-F724,U+F726-F729,U+F72B,U+F72D,U+F72F;
+  unicode-range: U+F499,U+F676,U+F6AE,U+F6B0-F6B3,U+F6B5-F6BC,U+F6BF,U+F6C2,U+F6C5-F6C8,U+F6CB,U+F6CD-F6D2,U+F6D5,U+F6D8-F6D9,U+F6DB,U+F6DE,U+F6E2-F6E3,U+F6E5-F6E7,U+F6E9-F6EC,U+F6EE,U+F6F1-F6F3,U+F6F5-F6F8,U+F6FC-F6FD,U+F6FF-F703,U+F707,U+F70A-F70B,U+F711-F713,U+F715-F71D,U+F720-F724,U+F726-F729,U+F72B,U+F72D,U+F72F;
 }
 
 @font-face {
@@ -16484,7 +17226,7 @@ readers do not read off random characters that represent icons */
   font-weight: 300;
   src: url("../webfonts/fa-light-300-pro-5.5.0.eot");
   src: url("../webfonts/fa-light-300-pro-5.5.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.5.0.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.5.0.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.5.0.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.5.0.svg#fontawesome") format("svg");
-  unicode-range: U+F0E7,U+F185,U+F2DC,U+F6C3-F6C4,U+F72E,U+F732-F735,U+F737-F750,U+F752-F758,U+F75A,U+F75C,U+F75E-F76E,U+F771-F776;
+  unicode-range: U+F0E7,U+F185,U+F2DC,U+F6C3-F6C4,U+F72E,U+F732-F735,U+F737-F750,U+F752,U+F754-F758,U+F75A,U+F75C,U+F75E-F761,U+F763-F76E,U+F771-F776;
 }
 
 @font-face {
@@ -16493,7 +17235,7 @@ readers do not read off random characters that represent icons */
   font-weight: 300;
   src: url("../webfonts/fa-light-300-pro-5.6.0.eot");
   src: url("../webfonts/fa-light-300-pro-5.6.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.6.0.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.6.0.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.6.0.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.6.0.svg#fontawesome") format("svg");
-  unicode-range: U+F06B,U+F5B7,U+F77D,U+F77F,U+F781-F782,U+F788,U+F78A-F78C,U+F78E-F78F,U+F792-F796,U+F79A-F7A1,U+F7A3-F7A4,U+F7A7-F7A8,U+F7AA,U+F7AC-F7AE,U+F7B4-F7B6,U+F7B8,U+F7BD-F7BE,U+F7C0-F7C3,U+F7C5,U+F7C7-F7D2,U+F7D4,U+F7D7-F7D8,U+F7DA-F7DC,U+F7DE,U+F7E2;
+  unicode-range: U+F06B,U+F5B7,U+F77D,U+F77F,U+F781-F782,U+F788,U+F78A-F78C,U+F78E-F78F,U+F792-F796,U+F79A-F7A1,U+F7A3-F7A4,U+F7A7-F7A8,U+F7AA,U+F7AC-F7AE,U+F7B4-F7B6,U+F7B8,U+F7BD-F7BE,U+F7C1-F7C3,U+F7C5,U+F7C7-F7D2,U+F7D4,U+F7D7-F7D8,U+F7DA-F7DC,U+F7DE,U+F7E2;
 }
 
 @font-face {
@@ -16520,7 +17262,7 @@ readers do not read off random characters that represent icons */
   font-weight: 300;
   src: url("../webfonts/fa-light-300-pro-5.7.0.eot");
   src: url("../webfonts/fa-light-300-pro-5.7.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.7.0.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.7.0.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.7.0.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.7.0.svg#fontawesome") format("svg");
-  unicode-range: U+F00A,U+F015,U+F06E,U+F070,U+F135,U+F1E4,U+F2A0,U+F377,U+F470,U+F49C,U+F49E,U+F4C9,U+F6D6-F6D7,U+F705,U+F725,U+F77E,U+F780,U+F7E5-F7E7,U+F7E9-F7F0,U+F7F2-F7FC,U+F7FE,U+F800-F802,U+F804-F805,U+F807-F80F,U+F811-F812,U+F814-F818,U+F81B,U+F81E-F823,U+F825-F827,U+F82C-F833;
+  unicode-range: U+F00A,U+F015,U+F06E,U+F070,U+F1E4,U+F2A0,U+F377,U+F470,U+F49C,U+F49E,U+F4C9,U+F6D6-F6D7,U+F705,U+F725,U+F77E,U+F780,U+F7E5-F7E7,U+F7E9-F7F0,U+F7F2-F7FC,U+F7FE,U+F800-F802,U+F804-F805,U+F807-F80F,U+F811-F812,U+F814-F818,U+F81B,U+F81E-F823,U+F825-F827,U+F82C-F82E,U+F830-F833;
 }
 
 @font-face {
@@ -16565,7 +17307,7 @@ readers do not read off random characters that represent icons */
   font-weight: 300;
   src: url("../webfonts/fa-light-300-pro-5.10.1.eot");
   src: url("../webfonts/fa-light-300-pro-5.10.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.10.1.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.10.1.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.10.1.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.10.1.svg#fontawesome") format("svg");
-  unicode-range: U+F000,U+F012,U+F029,U+F03E,U+F06D,U+F075,U+F07B,U+F083-F084,U+F0A0,U+F11E,U+F140,U+F19D,U+F20A,U+F247-F248,U+F251-F254,U+F25D,U+F275,U+F27A,U+F2C2,U+F2D1,U+F302,U+F310-F311,U+F34D,U+F3A5,U+F435,U+F454,U+F456,U+F476,U+F47F-F480,U+F52F,U+F534,U+F561,U+F578,U+F591,U+F5DB,U+F5E7,U+F5F6,U+F611,U+F613,U+F654,U+F657-F658,U+F681-F682,U+F68C-F693,U+F6BE,U+F6DA,U+F6E4,U+F6ED,U+F6EF-F6F0,U+F6F4,U+F6FA-F6FB,U+F6FE,U+F72C,U+F751,U+F759,U+F75B,U+F779,U+F77C,U+F786-F787,U+F7AB,U+F7B2,U+F7B7,U+F7BF,U+F7E8,U+F813,U+F85F,U+F863,U+F87B,U+F89C-F89D;
+  unicode-range: U+F000,U+F012,U+F029,U+F03E,U+F06D,U+F075,U+F07B,U+F083-F084,U+F0A0,U+F11E,U+F140,U+F19D,U+F20A,U+F247-F248,U+F251-F254,U+F25D,U+F275,U+F27A,U+F2C2,U+F2D1,U+F302,U+F310-F311,U+F34D,U+F3A5,U+F435,U+F454,U+F456,U+F476,U+F47F-F480,U+F52F,U+F534,U+F561,U+F578,U+F591,U+F5DB,U+F5E7,U+F5F6,U+F611,U+F613,U+F654,U+F681-F682,U+F68C-F693,U+F6BE,U+F6DA,U+F6E4,U+F6ED,U+F6EF-F6F0,U+F6F4,U+F6FA-F6FB,U+F6FE,U+F72C,U+F751,U+F759,U+F75B,U+F779,U+F77C,U+F786-F787,U+F7AB,U+F7B2,U+F7B7,U+F7E8,U+F813,U+F85F,U+F863,U+F87B,U+F89C-F89D;
 }
 
 @font-face {
@@ -16583,7 +17325,7 @@ readers do not read off random characters that represent icons */
   font-weight: 300;
   src: url("../webfonts/fa-light-300-pro-5.11.0.eot");
   src: url("../webfonts/fa-light-300-pro-5.11.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.11.0.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.11.0.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.11.0.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.11.0.svg#fontawesome") format("svg");
-  unicode-range: U+F001,U+F02F,U+F042,U+F08E,U+F091,U+F0F3,U+F104-F105,U+F11B,U+F13D,U+F149,U+F1AC,U+F1EC,U+F223,U+F225,U+F22A-F22C,U+F24D,U+F26C,U+F29D,U+F2EB,U+F2EE,U+F2F3,U+F300,U+F307,U+F323-F324,U+F338,U+F33D,U+F35D,U+F48A,U+F4C0,U+F569,U+F5DC,U+F5EB,U+F601,U+F61B,U+F64C,U+F65E,U+F664,U+F66A,U+F68A,U+F6C0-F6C1,U+F6DF-F6E1,U+F6E8,U+F6F9,U+F70C,U+F7A6,U+F81A,U+F89F-F8A5,U+F8A7-F8B6,U+F8B8-F8C9,U+F8CB-F8D1,U+F8D3-F8DD,U+F8DF-F8E0,U+F8E2-F8E7,U+F8E9-F8ED,U+F8EF-F8F2;
+  unicode-range: U+F001,U+F02F,U+F042,U+F08E,U+F091,U+F0F3,U+F104-F105,U+F11B,U+F13D,U+F149,U+F1AC,U+F1EC,U+F223,U+F225,U+F22A-F22C,U+F24D,U+F26C,U+F29D,U+F2EB,U+F2EE,U+F2F3,U+F300,U+F307,U+F323-F324,U+F338,U+F33D,U+F35D,U+F48A,U+F4C0,U+F569,U+F5DC,U+F5EB,U+F601,U+F61B,U+F64C,U+F65E,U+F664,U+F66A,U+F68A,U+F6C0-F6C1,U+F6DF-F6E1,U+F6E8,U+F6F9,U+F70C,U+F7A6,U+F81A,U+F89F-F8A5,U+F8A7-F8B6,U+F8B8-F8B9,U+F8BB-F8C9,U+F8CB-F8D1,U+F8D3,U+F8D5-F8DD,U+F8DF-F8E0,U+F8E2-F8E7,U+F8E9-F8ED,U+F8EF-F8F2;
 }
 
 @font-face {
@@ -16592,7 +17334,7 @@ readers do not read off random characters that represent icons */
   font-weight: 300;
   src: url("../webfonts/fa-light-300-pro-5.11.1.eot");
   src: url("../webfonts/fa-light-300-pro-5.11.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.11.1.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.11.1.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.11.1.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.11.1.svg#fontawesome") format("svg");
-  unicode-range: U+F00D,U+F048,U+F051,U+F0AC,U+F0B0,U+F118-F11A,U+F148,U+F14E,U+F155,U+F186,U+F19C,U+F1EB,U+F21A,U+F221,U+F22D,U+F2BD,U+F2E8,U+F2F8,U+F354,U+F357,U+F433-F434,U+F436,U+F44E,U+F45E,U+F4C7,U+F4DA,U+F4E3,U+F51F,U+F54E,U+F556,U+F567,U+F579-F57A,U+F57C-F585,U+F587,U+F589-F58C,U+F596-F59C,U+F5A4-F5A5,U+F5B3-F5B4,U+F5B8,U+F5C0,U+F5C2-F5C3,U+F5C8,U+F5CE,U+F5DE,U+F5E6,U+F5EC,U+F602,U+F615-F616,U+F622,U+F648-F649,U+F67C,U+F69A,U+F6AA-F6AB,U+F6AD,U+F7A2,U+F7A5,U+F7B9-F7BA,U+F7FF,U+F803,U+F806,U+F810,U+F819,U+F82B,U+F87F,U+F8DE,U+F8EE;
+  unicode-range: U+F00D,U+F048,U+F051,U+F0AC,U+F0B0,U+F118-F11A,U+F148,U+F14E,U+F155,U+F186,U+F19C,U+F1EB,U+F21A,U+F221,U+F22D,U+F2BD,U+F2E8,U+F2F8,U+F354,U+F357,U+F433-F434,U+F436,U+F44E,U+F45E,U+F4C7,U+F4DA,U+F4E3,U+F51F,U+F54E,U+F556,U+F567,U+F579-F57A,U+F57C-F585,U+F587,U+F589-F58A,U+F58C,U+F596-F59C,U+F5A4-F5A5,U+F5B3-F5B4,U+F5B8,U+F5C0,U+F5C2-F5C3,U+F5C8,U+F5CE,U+F5DE,U+F5E6,U+F5EC,U+F602,U+F615-F616,U+F622,U+F648-F649,U+F67C,U+F69A,U+F6AA-F6AB,U+F6AD,U+F7A2,U+F7A5,U+F7B9-F7BA,U+F7FF,U+F803,U+F806,U+F810,U+F819,U+F82B,U+F87F,U+F8DE,U+F8EE;
 }
 
 @font-face {
@@ -16602,6 +17344,15 @@ readers do not read off random characters that represent icons */
   src: url("../webfonts/fa-light-300-pro-5.11.2.eot");
   src: url("../webfonts/fa-light-300-pro-5.11.2.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.11.2.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.11.2.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.11.2.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.11.2.svg#fontawesome") format("svg");
   unicode-range: U+F488,U+F8B7,U+F8F3;
+}
+
+@font-face {
+  font-family: 'Font Awesome 5 Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url("../webfonts/fa-light-300-pro-5.12.0.eot");
+  src: url("../webfonts/fa-light-300-pro-5.12.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-light-300-pro-5.12.0.woff2") format("woff2"), url("../webfonts/fa-light-300-pro-5.12.0.woff") format("woff"), url("../webfonts/fa-light-300-pro-5.12.0.ttf") format("truetype"), url("../webfonts/fa-light-300-pro-5.12.0.svg#fontawesome") format("svg");
+  unicode-range: U+F135,U+F1E6,U+F259,U+F2CC-F2CD,U+F422,U+F424,U+F515-F516,U+F544,U+F58B,U+F5D2-F5D3,U+F61F,U+F657-F658,U+F666,U+F672,U+F6D3-F6D4,U+F753,U+F762,U+F7BF-F7C0,U+F82F,U+F8BA,U+F8D4,U+F8F4-F906,U+F908-F912,U+F914-F919,U+F91B-F91D,U+F91F-F948,U+F94A-F950;
 }
 
 .fal {
@@ -16615,7 +17366,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-free-5.0.0.eot");
   src: url("../webfonts/fa-regular-400-free-5.0.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-free-5.0.0.woff2") format("woff2"), url("../webfonts/fa-regular-400-free-5.0.0.woff") format("woff"), url("../webfonts/fa-regular-400-free-5.0.0.ttf") format("truetype"), url("../webfonts/fa-regular-400-free-5.0.0.svg#fontawesome") format("svg");
-  unicode-range: U+F017,U+F022,U+F024,U+F044,U+F057-F059,U+F07C,U+F089,U+F094,U+F09D,U+F0A4-F0A7,U+F0F8,U+F0FE,U+F11C,U+F146,U+F14A,U+F14D,U+F150-F152,U+F191-F192,U+F1AD,U+F1CD,U+F1D8,U+F1EA,U+F255-F25B,U+F28B,U+F28D,U+F2D0,U+F2D2,U+F328,U+F358-F35B,U+F410;
+  unicode-range: U+F017,U+F022,U+F024,U+F044,U+F057-F059,U+F07C,U+F089,U+F094,U+F09D,U+F0A4-F0A7,U+F0F8,U+F0FE,U+F11C,U+F146,U+F14A,U+F14D,U+F150-F152,U+F191-F192,U+F1AD,U+F1CD,U+F1D8,U+F1EA,U+F255-F258,U+F25A-F25B,U+F28B,U+F28D,U+F2D0,U+F2D2,U+F328,U+F358-F35B,U+F410;
 }
 
 @font-face {
@@ -16624,7 +17375,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-pro-5.0.0.eot");
   src: url("../webfonts/fa-regular-400-pro-5.0.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-pro-5.0.0.woff2") format("woff2"), url("../webfonts/fa-regular-400-pro-5.0.0.woff") format("woff"), url("../webfonts/fa-regular-400-pro-5.0.0.ttf") format("truetype"), url("../webfonts/fa-regular-400-pro-5.0.0.svg#fontawesome") format("svg");
-  unicode-range: U+F002,U+F008-F009,U+F00B-F00C,U+F00E,U+F011,U+F013,U+F019,U+F01C,U+F023,U+F025,U+F02A-F02B,U+F02D,U+F030,U+F040-F041,U+F047,U+F049-F04A,U+F04E,U+F050,U+F052-F055,U+F05A-F05B,U+F05E,U+F060-F066,U+F068-F06A,U+F074,U+F077-F07A,U+F07D-F07E,U+F085,U+F08B,U+F090,U+F093,U+F098,U+F09C,U+F09E,U+F0A8-F0AB,U+F0B2,U+F0C1,U+F0C3,U+F0C6,U+F0C9,U+F0CE,U+F0D7-F0DB,U+F0E2-F0E3,U+F0E9-F0EA,U+F0EC,U+F0F4,U+F0FA-F0FD,U+F100-F103,U+F106-F108,U+F10A-F10B,U+F120-F122,U+F124,U+F126-F128,U+F12E,U+F134,U+F137-F13A,U+F13E,U+F141-F143,U+F14B-F14C,U+F153-F154,U+F156-F159,U+F175-F178,U+F182-F183,U+F188,U+F195,U+F199,U+F1AE,U+F1B0,U+F1B2-F1B3,U+F1B8,U+F1BB,U+F1C0,U+F1DA,U+F1E0-F1E2,U+F1E6,U+F1FA,U+F1FD-F1FE,U+F204-F206,U+F20B,U+F217-F218,U+F21C,U+F222,U+F224,U+F226-F229,U+F233,U+F238-F239,U+F240-F244,U+F246,U+F25C,U+F290-F292,U+F295,U+F2A1-F2A4,U+F2A8,U+F2C7-F2CE,U+F2D3,U+F2DB,U+F2E6-F2E7,U+F2EA,U+F2F0-F2F1,U+F2F5-F2F7,U+F2F9,U+F2FD,U+F301,U+F303,U+F308-F30F,U+F31D,U+F320-F322,U+F325-F326,U+F329-F32E,U+F330-F332,U+F336-F337,U+F339-F33C,U+F33E,U+F340-F34C,U+F350-F353,U+F355,U+F360-F367,U+F376,U+F37E,U+F387,U+F389-F38A,U+F390,U+F39B-F39C,U+F3A0,U+F3B3,U+F3BE-F3BF,U+F3C2,U+F3C5,U+F3CD-F3CF,U+F3DE,U+F3E5,U+F3ED,U+F3F0,U+F3F2,U+F3FA-F3FC,U+F400-F401,U+F40E-F40F,U+F422,U+F424;
+  unicode-range: U+F002,U+F008-F009,U+F00B-F00C,U+F00E,U+F011,U+F013,U+F019,U+F01C,U+F023,U+F025,U+F02A-F02B,U+F02D,U+F030,U+F040-F041,U+F047,U+F049-F04A,U+F04E,U+F050,U+F052-F055,U+F05A-F05B,U+F05E,U+F060-F066,U+F068-F06A,U+F074,U+F077-F07A,U+F07D-F07E,U+F085,U+F08B,U+F090,U+F093,U+F098,U+F09C,U+F09E,U+F0A8-F0AB,U+F0B2,U+F0C1,U+F0C3,U+F0C6,U+F0C9,U+F0CE,U+F0D7-F0DB,U+F0E2-F0E3,U+F0E9-F0EA,U+F0EC,U+F0F4,U+F0FA-F0FD,U+F100-F103,U+F106-F108,U+F10A-F10B,U+F120-F122,U+F124,U+F126-F128,U+F12E,U+F134,U+F137-F13A,U+F13E,U+F141-F143,U+F14B-F14C,U+F153-F154,U+F156-F159,U+F175-F178,U+F182-F183,U+F188,U+F195,U+F199,U+F1AE,U+F1B0,U+F1B2-F1B3,U+F1B8,U+F1BB,U+F1C0,U+F1DA,U+F1E0-F1E2,U+F1FA,U+F1FD-F1FE,U+F204-F206,U+F20B,U+F217-F218,U+F21C,U+F222,U+F224,U+F226-F229,U+F233,U+F238-F239,U+F240-F244,U+F246,U+F25C,U+F290-F292,U+F295,U+F2A1-F2A4,U+F2A8,U+F2C7-F2CB,U+F2CE,U+F2D3,U+F2DB,U+F2E6-F2E7,U+F2EA,U+F2F0-F2F1,U+F2F5-F2F7,U+F2F9,U+F2FD,U+F301,U+F303,U+F308-F30F,U+F31D,U+F320-F322,U+F325-F326,U+F329-F32E,U+F330-F332,U+F336-F337,U+F339-F33C,U+F33E,U+F340-F34C,U+F350-F353,U+F355,U+F360-F367,U+F376,U+F37E,U+F387,U+F389-F38A,U+F390,U+F39B-F39C,U+F3A0,U+F3B3,U+F3BE-F3BF,U+F3C2,U+F3C5,U+F3CD-F3CF,U+F3DE,U+F3E5,U+F3ED,U+F3F0,U+F3F2,U+F3FA-F3FC,U+F400-F401,U+F40E-F40F;
 }
 
 @font-face {
@@ -16741,7 +17492,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-pro-5.0.13.eot");
   src: url("../webfonts/fa-regular-400-pro-5.0.13.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-pro-5.0.13.woff2") format("woff2"), url("../webfonts/fa-regular-400-pro-5.0.13.woff") format("woff"), url("../webfonts/fa-regular-400-pro-5.0.13.ttf") format("truetype"), url("../webfonts/fa-regular-400-pro-5.0.13.svg#fontawesome") format("svg");
-  unicode-range: U+F010,U+F067,U+F072,U+F0AD,U+F0D6,U+F0E8,U+F130-F131,U+F24E,U+F3C9,U+F515-F517,U+F519-F51E,U+F520-F52C,U+F52E,U+F530-F533,U+F535-F54B,U+F54D,U+F54F-F552,U+F554-F555;
+  unicode-range: U+F010,U+F067,U+F072,U+F0AD,U+F0D6,U+F0E8,U+F130-F131,U+F24E,U+F3C9,U+F517,U+F519-F51E,U+F520-F52C,U+F52E,U+F530-F533,U+F535-F543,U+F545-F54B,U+F54D,U+F54F-F552,U+F554-F555;
 }
 
 @font-face {
@@ -16786,7 +17537,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-pro-5.2.0.eot");
   src: url("../webfonts/fa-regular-400-pro-5.2.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-pro-5.2.0.woff2") format("woff2"), url("../webfonts/fa-regular-400-pro-5.2.0.woff") format("woff"), url("../webfonts/fa-regular-400-pro-5.2.0.ttf") format("truetype"), url("../webfonts/fa-regular-400-pro-5.2.0.svg#fontawesome") format("svg");
-  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F621,U+F623-F62F,U+F633,U+F635-F63D;
+  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5D1,U+F5D4-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F61E,U+F620-F621,U+F623-F62F,U+F633,U+F635-F63D;
 }
 
 @font-face {
@@ -16804,7 +17555,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-pro-5.3.0.eot");
   src: url("../webfonts/fa-regular-400-pro-5.3.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-pro-5.3.0.woff2") format("woff2"), url("../webfonts/fa-regular-400-pro-5.3.0.woff") format("woff"), url("../webfonts/fa-regular-400-pro-5.3.0.ttf") format("truetype"), url("../webfonts/fa-regular-400-pro-5.3.0.svg#fontawesome") format("svg");
-  unicode-range: U+F027-F028,U+F0A1,U+F0B1,U+F200-F201,U+F2E2,U+F61A,U+F640,U+F643-F647,U+F64A-F64B,U+F64D-F653,U+F655-F656,U+F65D,U+F65F-F663,U+F665-F669,U+F66B-F675,U+F678-F67B,U+F67D-F680,U+F683-F689,U+F68B,U+F694-F695,U+F697-F699,U+F69B-F69C,U+F69E-F69F,U+F6A1-F6A9,U+F6AC;
+  unicode-range: U+F027-F028,U+F0A1,U+F0B1,U+F200-F201,U+F2E2,U+F61A,U+F640,U+F643-F647,U+F64A-F64B,U+F64D-F653,U+F655-F656,U+F65D,U+F65F-F663,U+F665,U+F667-F669,U+F66B-F671,U+F673-F675,U+F678-F67B,U+F67D-F680,U+F683-F689,U+F68B,U+F694-F695,U+F697-F699,U+F69B-F69C,U+F69E-F69F,U+F6A1-F6A9,U+F6AC;
 }
 
 @font-face {
@@ -16813,7 +17564,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-pro-5.4.0.eot");
   src: url("../webfonts/fa-regular-400-pro-5.4.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-pro-5.4.0.woff2") format("woff2"), url("../webfonts/fa-regular-400-pro-5.4.0.woff") format("woff"), url("../webfonts/fa-regular-400-pro-5.4.0.ttf") format("truetype"), url("../webfonts/fa-regular-400-pro-5.4.0.svg#fontawesome") format("svg");
-  unicode-range: U+F499,U+F676,U+F6AE,U+F6B0-F6B3,U+F6B5-F6BC,U+F6BF,U+F6C2,U+F6C5-F6C8,U+F6CB,U+F6CD-F6D5,U+F6D8-F6D9,U+F6DB,U+F6DE,U+F6E2-F6E3,U+F6E5-F6E7,U+F6E9-F6EC,U+F6EE,U+F6F1-F6F3,U+F6F5-F6F8,U+F6FC-F6FD,U+F6FF-F703,U+F707,U+F70A-F70B,U+F711-F713,U+F715-F71D,U+F720-F724,U+F726-F729,U+F72B,U+F72D,U+F72F;
+  unicode-range: U+F499,U+F676,U+F6AE,U+F6B0-F6B3,U+F6B5-F6BC,U+F6BF,U+F6C2,U+F6C5-F6C8,U+F6CB,U+F6CD-F6D2,U+F6D5,U+F6D8-F6D9,U+F6DB,U+F6DE,U+F6E2-F6E3,U+F6E5-F6E7,U+F6E9-F6EC,U+F6EE,U+F6F1-F6F3,U+F6F5-F6F8,U+F6FC-F6FD,U+F6FF-F703,U+F707,U+F70A-F70B,U+F711-F713,U+F715-F71D,U+F720-F724,U+F726-F729,U+F72B,U+F72D,U+F72F;
 }
 
 @font-face {
@@ -16840,7 +17591,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-pro-5.5.0.eot");
   src: url("../webfonts/fa-regular-400-pro-5.5.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-pro-5.5.0.woff2") format("woff2"), url("../webfonts/fa-regular-400-pro-5.5.0.woff") format("woff"), url("../webfonts/fa-regular-400-pro-5.5.0.ttf") format("truetype"), url("../webfonts/fa-regular-400-pro-5.5.0.svg#fontawesome") format("svg");
-  unicode-range: U+F0E7,U+F6C3-F6C4,U+F72E,U+F732-F735,U+F737-F750,U+F752-F758,U+F75A,U+F75C,U+F75E-F76E,U+F771-F776;
+  unicode-range: U+F0E7,U+F6C3-F6C4,U+F72E,U+F732-F735,U+F737-F750,U+F752,U+F754-F758,U+F75A,U+F75C,U+F75E-F761,U+F763-F76E,U+F771-F776;
 }
 
 @font-face {
@@ -16849,7 +17600,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-pro-5.6.0.eot");
   src: url("../webfonts/fa-regular-400-pro-5.6.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-pro-5.6.0.woff2") format("woff2"), url("../webfonts/fa-regular-400-pro-5.6.0.woff") format("woff"), url("../webfonts/fa-regular-400-pro-5.6.0.ttf") format("truetype"), url("../webfonts/fa-regular-400-pro-5.6.0.svg#fontawesome") format("svg");
-  unicode-range: U+F06B,U+F5B7,U+F77D,U+F77F,U+F781-F782,U+F788,U+F78A-F78C,U+F78E-F78F,U+F792-F796,U+F79A-F7A1,U+F7A3-F7A4,U+F7A7-F7A8,U+F7AA,U+F7AC-F7AE,U+F7B4-F7B6,U+F7B8,U+F7BD-F7BE,U+F7C0-F7C3,U+F7C5,U+F7C7-F7D2,U+F7D4,U+F7D7-F7D8,U+F7DA-F7DC,U+F7DE,U+F7E2;
+  unicode-range: U+F06B,U+F5B7,U+F77D,U+F77F,U+F781-F782,U+F788,U+F78A-F78C,U+F78E-F78F,U+F792-F796,U+F79A-F7A1,U+F7A3-F7A4,U+F7A7-F7A8,U+F7AA,U+F7AC-F7AE,U+F7B4-F7B6,U+F7B8,U+F7BD-F7BE,U+F7C1-F7C3,U+F7C5,U+F7C7-F7D2,U+F7D4,U+F7D7-F7D8,U+F7DA-F7DC,U+F7DE,U+F7E2;
 }
 
 @font-face {
@@ -16885,7 +17636,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-pro-5.7.0.eot");
   src: url("../webfonts/fa-regular-400-pro-5.7.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-pro-5.7.0.woff2") format("woff2"), url("../webfonts/fa-regular-400-pro-5.7.0.woff") format("woff"), url("../webfonts/fa-regular-400-pro-5.7.0.ttf") format("truetype"), url("../webfonts/fa-regular-400-pro-5.7.0.svg#fontawesome") format("svg");
-  unicode-range: U+F00A,U+F015,U+F135,U+F1E4,U+F2A0,U+F377,U+F470,U+F49C,U+F49E,U+F4C9,U+F6D6-F6D7,U+F705,U+F725,U+F77E,U+F780,U+F7E5-F7E7,U+F7E9-F7F0,U+F7F2-F7FC,U+F7FE,U+F800-F802,U+F804-F805,U+F807-F80F,U+F811-F812,U+F814-F818,U+F81B,U+F81E-F823,U+F825-F827,U+F82C-F833;
+  unicode-range: U+F00A,U+F015,U+F1E4,U+F2A0,U+F377,U+F470,U+F49C,U+F49E,U+F4C9,U+F6D6-F6D7,U+F705,U+F725,U+F77E,U+F780,U+F7E5-F7E7,U+F7E9-F7F0,U+F7F2-F7FC,U+F7FE,U+F800-F802,U+F804-F805,U+F807-F80F,U+F811-F812,U+F814-F818,U+F81B,U+F81E-F823,U+F825-F827,U+F82C-F82E,U+F830-F833;
 }
 
 @font-face {
@@ -16939,7 +17690,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-pro-5.10.1.eot");
   src: url("../webfonts/fa-regular-400-pro-5.10.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-pro-5.10.1.woff2") format("woff2"), url("../webfonts/fa-regular-400-pro-5.10.1.woff") format("woff"), url("../webfonts/fa-regular-400-pro-5.10.1.ttf") format("truetype"), url("../webfonts/fa-regular-400-pro-5.10.1.svg#fontawesome") format("svg");
-  unicode-range: U+F000,U+F012,U+F029,U+F06D,U+F083-F084,U+F11E,U+F140,U+F19D,U+F251-F253,U+F275,U+F310-F311,U+F34D,U+F435,U+F454,U+F456,U+F476,U+F47F-F480,U+F52F,U+F534,U+F561,U+F578,U+F591,U+F5DB,U+F5E7,U+F5F6,U+F611,U+F613,U+F654,U+F657-F658,U+F681-F682,U+F68C-F693,U+F6BE,U+F6DA,U+F6E4,U+F6ED,U+F6EF-F6F0,U+F6F4,U+F6FA-F6FB,U+F6FE,U+F72C,U+F751,U+F759,U+F75B,U+F779,U+F77C,U+F786-F787,U+F7AB,U+F7B2,U+F7B7,U+F7BF,U+F7E8,U+F813,U+F85F,U+F863,U+F87B,U+F89C-F89D;
+  unicode-range: U+F000,U+F012,U+F029,U+F06D,U+F083-F084,U+F11E,U+F140,U+F19D,U+F251-F253,U+F275,U+F310-F311,U+F34D,U+F435,U+F454,U+F456,U+F476,U+F47F-F480,U+F52F,U+F534,U+F561,U+F578,U+F591,U+F5DB,U+F5E7,U+F5F6,U+F611,U+F613,U+F654,U+F681-F682,U+F68C-F693,U+F6BE,U+F6DA,U+F6E4,U+F6ED,U+F6EF-F6F0,U+F6F4,U+F6FA-F6FB,U+F6FE,U+F72C,U+F751,U+F759,U+F75B,U+F779,U+F77C,U+F786-F787,U+F7AB,U+F7B2,U+F7B7,U+F7E8,U+F813,U+F85F,U+F863,U+F87B,U+F89C-F89D;
 }
 
 @font-face {
@@ -16975,7 +17726,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-pro-5.11.0.eot");
   src: url("../webfonts/fa-regular-400-pro-5.11.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-pro-5.11.0.woff2") format("woff2"), url("../webfonts/fa-regular-400-pro-5.11.0.woff") format("woff"), url("../webfonts/fa-regular-400-pro-5.11.0.ttf") format("truetype"), url("../webfonts/fa-regular-400-pro-5.11.0.svg#fontawesome") format("svg");
-  unicode-range: U+F001,U+F02F,U+F042,U+F08E,U+F091,U+F104-F105,U+F11B,U+F13D,U+F149,U+F1AC,U+F1EC,U+F223,U+F225,U+F22A-F22C,U+F26C,U+F29D,U+F2EB,U+F2EE,U+F2F3,U+F300,U+F307,U+F323-F324,U+F338,U+F33D,U+F35D,U+F48A,U+F4C0,U+F569,U+F5DC,U+F5EB,U+F601,U+F61B,U+F64C,U+F65E,U+F664,U+F66A,U+F68A,U+F6C0-F6C1,U+F6DF-F6E1,U+F6E8,U+F6F9,U+F70C,U+F7A6,U+F81A,U+F89F-F8A5,U+F8A7-F8B6,U+F8B8-F8C9,U+F8CB-F8D1,U+F8D3-F8DD,U+F8DF-F8E0,U+F8E2-F8E7,U+F8E9-F8ED,U+F8EF-F8F2;
+  unicode-range: U+F001,U+F02F,U+F042,U+F08E,U+F091,U+F104-F105,U+F11B,U+F13D,U+F149,U+F1AC,U+F1EC,U+F223,U+F225,U+F22A-F22C,U+F26C,U+F29D,U+F2EB,U+F2EE,U+F2F3,U+F300,U+F307,U+F323-F324,U+F338,U+F33D,U+F35D,U+F48A,U+F4C0,U+F569,U+F5DC,U+F5EB,U+F601,U+F61B,U+F64C,U+F65E,U+F664,U+F66A,U+F68A,U+F6C0-F6C1,U+F6DF-F6E1,U+F6E8,U+F6F9,U+F70C,U+F7A6,U+F81A,U+F89F-F8A5,U+F8A7-F8B6,U+F8B8-F8B9,U+F8BB-F8C9,U+F8CB-F8D1,U+F8D3,U+F8D5-F8DD,U+F8DF-F8E0,U+F8E2-F8E7,U+F8E9-F8ED,U+F8EF-F8F2;
 }
 
 @font-face {
@@ -16984,7 +17735,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   src: url("../webfonts/fa-regular-400-free-5.11.1.eot");
   src: url("../webfonts/fa-regular-400-free-5.11.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-free-5.11.1.woff2") format("woff2"), url("../webfonts/fa-regular-400-free-5.11.1.woff") format("woff"), url("../webfonts/fa-regular-400-free-5.11.1.ttf") format("truetype"), url("../webfonts/fa-regular-400-free-5.11.1.svg#fontawesome") format("svg");
-  unicode-range: U+F118-F11A,U+F14E,U+F186,U+F2BD,U+F4DA,U+F556,U+F567,U+F579-F57A,U+F57F-F585,U+F587,U+F589-F58C,U+F596-F59C,U+F5A4-F5A5,U+F5B3-F5B4,U+F5B8,U+F5C2,U+F5C8;
+  unicode-range: U+F118-F11A,U+F14E,U+F186,U+F2BD,U+F4DA,U+F556,U+F567,U+F579-F57A,U+F57F-F585,U+F587,U+F589-F58A,U+F58C,U+F596-F59C,U+F5A4-F5A5,U+F5B3-F5B4,U+F5B8,U+F5C2,U+F5C8;
 }
 
 @font-face {
@@ -17005,6 +17756,24 @@ readers do not read off random characters that represent icons */
   unicode-range: U+F488,U+F8B7,U+F8F3;
 }
 
+@font-face {
+  font-family: 'Font Awesome 5 Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../webfonts/fa-regular-400-free-5.12.0.eot");
+  src: url("../webfonts/fa-regular-400-free-5.12.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-free-5.12.0.woff2") format("woff2"), url("../webfonts/fa-regular-400-free-5.12.0.woff") format("woff"), url("../webfonts/fa-regular-400-free-5.12.0.ttf") format("truetype"), url("../webfonts/fa-regular-400-free-5.12.0.svg#fontawesome") format("svg");
+  unicode-range: U+F259,U+F58B;
+}
+
+@font-face {
+  font-family: 'Font Awesome 5 Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../webfonts/fa-regular-400-pro-5.12.0.eot");
+  src: url("../webfonts/fa-regular-400-pro-5.12.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400-pro-5.12.0.woff2") format("woff2"), url("../webfonts/fa-regular-400-pro-5.12.0.woff") format("woff"), url("../webfonts/fa-regular-400-pro-5.12.0.ttf") format("truetype"), url("../webfonts/fa-regular-400-pro-5.12.0.svg#fontawesome") format("svg");
+  unicode-range: U+F135,U+F1E6,U+F2CC-F2CD,U+F422,U+F424,U+F515-F516,U+F544,U+F5D2-F5D3,U+F61F,U+F657-F658,U+F666,U+F672,U+F6D3-F6D4,U+F753,U+F762,U+F7BF-F7C0,U+F82F,U+F8BA,U+F8D4,U+F8F4-F906,U+F908-F912,U+F914-F919,U+F91B-F91D,U+F91F-F948,U+F94A-F950;
+}
+
 .far {
   font-family: 'Font Awesome 5 Pro';
   font-weight: 400;
@@ -17016,7 +17785,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-free-5.0.0.eot");
   src: url("../webfonts/fa-solid-900-free-5.0.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-free-5.0.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-free-5.0.0.woff") format("woff"), url("../webfonts/fa-solid-900-free-5.0.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-free-5.0.0.svg#fontawesome") format("svg");
-  unicode-range: U+F002,U+F008-F009,U+F00B-F00C,U+F00E,U+F011,U+F013,U+F017,U+F019,U+F01C,U+F022-F025,U+F02A-F02B,U+F02D,U+F030,U+F041,U+F044,U+F049-F04A,U+F04E,U+F050,U+F052-F055,U+F057-F05B,U+F05E,U+F060-F066,U+F068-F06A,U+F074,U+F077-F07A,U+F07C,U+F085,U+F089,U+F093-F094,U+F098,U+F09C-F09E,U+F0A4-F0AB,U+F0B2,U+F0C1,U+F0C3,U+F0C6,U+F0C9,U+F0CE,U+F0D7-F0DB,U+F0E2-F0E3,U+F0E9-F0EA,U+F0F4,U+F0F8,U+F0FA-F0FE,U+F100-F103,U+F106-F108,U+F10A-F10B,U+F11C,U+F120-F122,U+F124,U+F126-F128,U+F12E,U+F134,U+F137-F13A,U+F13E,U+F141-F143,U+F146,U+F14A-F14B,U+F14D,U+F150-F154,U+F156-F159,U+F182-F183,U+F188,U+F191-F192,U+F195,U+F199,U+F1AD-F1AE,U+F1B0,U+F1B2-F1B3,U+F1B8,U+F1BB,U+F1C0,U+F1CD,U+F1D8,U+F1DA,U+F1E0-F1E2,U+F1E6,U+F1EA,U+F1FA,U+F1FD-F1FE,U+F204-F206,U+F20B,U+F217-F218,U+F21C,U+F222,U+F224,U+F226-F229,U+F233,U+F238-F239,U+F240-F244,U+F246,U+F255-F25C,U+F28B,U+F28D,U+F290-F292,U+F295,U+F2A1-F2A4,U+F2A8,U+F2C7-F2CE,U+F2D0,U+F2D2,U+F2DB,U+F2E7,U+F2EA,U+F2F1,U+F2F5-F2F6,U+F2F9,U+F303,U+F309-F30C,U+F328,U+F337,U+F358-F35B,U+F360,U+F362,U+F3BE-F3BF,U+F3C5,U+F3CD,U+F3E5,U+F3ED,U+F3FA,U+F410;
+  unicode-range: U+F002,U+F008-F009,U+F00B-F00C,U+F00E,U+F011,U+F013,U+F017,U+F019,U+F01C,U+F022-F025,U+F02A-F02B,U+F02D,U+F030,U+F041,U+F044,U+F049-F04A,U+F04E,U+F050,U+F052-F055,U+F057-F05B,U+F05E,U+F060-F066,U+F068-F06A,U+F074,U+F077-F07A,U+F07C,U+F085,U+F089,U+F093-F094,U+F098,U+F09C-F09E,U+F0A4-F0AB,U+F0B2,U+F0C1,U+F0C3,U+F0C6,U+F0C9,U+F0CE,U+F0D7-F0DB,U+F0E2-F0E3,U+F0E9-F0EA,U+F0F4,U+F0F8,U+F0FA-F0FE,U+F100-F103,U+F106-F108,U+F10A-F10B,U+F11C,U+F120-F122,U+F124,U+F126-F128,U+F12E,U+F134,U+F137-F13A,U+F13E,U+F141-F143,U+F146,U+F14A-F14B,U+F14D,U+F150-F154,U+F156-F159,U+F182-F183,U+F188,U+F191-F192,U+F195,U+F199,U+F1AD-F1AE,U+F1B0,U+F1B2-F1B3,U+F1B8,U+F1BB,U+F1C0,U+F1CD,U+F1D8,U+F1DA,U+F1E0-F1E2,U+F1EA,U+F1FA,U+F1FD-F1FE,U+F204-F206,U+F20B,U+F217-F218,U+F21C,U+F222,U+F224,U+F226-F229,U+F233,U+F238-F239,U+F240-F244,U+F246,U+F255-F258,U+F25A-F25C,U+F28B,U+F28D,U+F290-F292,U+F295,U+F2A1-F2A4,U+F2A8,U+F2C7-F2CB,U+F2CE,U+F2D0,U+F2D2,U+F2DB,U+F2E7,U+F2EA,U+F2F1,U+F2F5-F2F6,U+F2F9,U+F303,U+F309-F30C,U+F328,U+F337,U+F358-F35B,U+F360,U+F362,U+F3BE-F3BF,U+F3C5,U+F3CD,U+F3E5,U+F3ED,U+F3FA,U+F410;
 }
 
 @font-face {
@@ -17025,7 +17794,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-pro-5.0.0.eot");
   src: url("../webfonts/fa-solid-900-pro-5.0.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-pro-5.0.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-pro-5.0.0.woff") format("woff"), url("../webfonts/fa-solid-900-pro-5.0.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-pro-5.0.0.svg#fontawesome") format("svg");
-  unicode-range: U+F040,U+F047,U+F07D-F07E,U+F08B,U+F090,U+F0EC,U+F14C,U+F175-F178,U+F2D3,U+F2E6,U+F2F0,U+F2F7,U+F2FD,U+F301,U+F308,U+F30D-F30F,U+F31D,U+F320-F322,U+F325-F326,U+F329-F32E,U+F330-F332,U+F336,U+F339-F33C,U+F33E,U+F340-F34C,U+F350-F353,U+F355,U+F361,U+F363-F367,U+F376,U+F37E,U+F387,U+F389-F38A,U+F390,U+F39B-F39C,U+F3A0,U+F3B3,U+F3C2,U+F3CE-F3CF,U+F3DE,U+F3F0,U+F3F2,U+F3FB-F3FC,U+F400-F401,U+F40E-F40F,U+F422,U+F424;
+  unicode-range: U+F040,U+F047,U+F07D-F07E,U+F08B,U+F090,U+F0EC,U+F14C,U+F175-F178,U+F2D3,U+F2E6,U+F2F0,U+F2F7,U+F2FD,U+F301,U+F308,U+F30D-F30F,U+F31D,U+F320-F322,U+F325-F326,U+F329-F32E,U+F330-F332,U+F336,U+F339-F33C,U+F33E,U+F340-F34C,U+F350-F353,U+F355,U+F361,U+F363-F367,U+F376,U+F37E,U+F387,U+F389-F38A,U+F390,U+F39B-F39C,U+F3A0,U+F3B3,U+F3C2,U+F3CE-F3CF,U+F3DE,U+F3F0,U+F3F2,U+F3FB-F3FC,U+F400-F401,U+F40E-F40F;
 }
 
 @font-face {
@@ -17142,7 +17911,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-free-5.0.13.eot");
   src: url("../webfonts/fa-solid-900-free-5.0.13.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-free-5.0.13.woff2") format("woff2"), url("../webfonts/fa-solid-900-free-5.0.13.woff") format("woff"), url("../webfonts/fa-solid-900-free-5.0.13.ttf") format("truetype"), url("../webfonts/fa-solid-900-free-5.0.13.svg#fontawesome") format("svg");
-  unicode-range: U+F010,U+F067,U+F072,U+F0AD,U+F0D6,U+F0E8,U+F130-F131,U+F24E,U+F3C9,U+F3D1,U+F515-F517,U+F519-F51E,U+F520-F52C,U+F52E,U+F530-F533,U+F535-F54B,U+F54D,U+F54F-F552,U+F554-F555;
+  unicode-range: U+F010,U+F067,U+F072,U+F0AD,U+F0D6,U+F0E8,U+F130-F131,U+F24E,U+F3C9,U+F3D1,U+F517,U+F519-F51E,U+F520-F52C,U+F52E,U+F530-F533,U+F535-F543,U+F545-F54B,U+F54D,U+F54F-F552,U+F554-F555;
 }
 
 @font-face {
@@ -17178,7 +17947,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-free-5.2.0.eot");
   src: url("../webfonts/fa-solid-900-free-5.2.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-free-5.2.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-free-5.2.0.woff") format("woff"), url("../webfonts/fa-solid-900-free-5.2.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-free-5.2.0.svg#fontawesome") format("svg");
-  unicode-range: U+F018,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5D2,U+F5D7,U+F5DA,U+F5DF,U+F5E1,U+F5E4,U+F5EE,U+F5FC-F5FD,U+F610,U+F619,U+F61F,U+F621,U+F62E-F62F,U+F637,U+F63B-F63C;
+  unicode-range: U+F018,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5D1,U+F5D7,U+F5DA,U+F5DF,U+F5E1,U+F5E4,U+F5EE,U+F5FC-F5FD,U+F610,U+F619,U+F621,U+F62E-F62F,U+F637,U+F63B-F63C;
 }
 
 @font-face {
@@ -17187,7 +17956,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-pro-5.2.0.eot");
   src: url("../webfonts/fa-solid-900-pro-5.2.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-pro-5.2.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-pro-5.2.0.woff") format("woff"), url("../webfonts/fa-solid-900-pro-5.2.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-pro-5.2.0.svg#fontawesome") format("svg");
-  unicode-range: U+F0E4,U+F5D3-F5D6,U+F5D8-F5D9,U+F5DD,U+F5E0,U+F5E2-F5E3,U+F5E5,U+F5E8-F5EA,U+F5ED,U+F5EF-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB,U+F5FE-F600,U+F603-F60E,U+F614,U+F617-F618,U+F61C-F61E,U+F620,U+F623-F62D,U+F633,U+F635-F636,U+F638-F63A,U+F63D;
+  unicode-range: U+F0E4,U+F5D4-F5D6,U+F5D8-F5D9,U+F5DD,U+F5E0,U+F5E2-F5E3,U+F5E5,U+F5E8-F5EA,U+F5ED,U+F5EF-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB,U+F5FE-F600,U+F603-F60E,U+F614,U+F617-F618,U+F61C-F61E,U+F620,U+F623-F62D,U+F633,U+F635-F636,U+F638-F63A,U+F63D;
 }
 
 @font-face {
@@ -17196,7 +17965,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-free-5.3.0.eot");
   src: url("../webfonts/fa-solid-900-free-5.3.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-free-5.3.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-free-5.3.0.woff") format("woff"), url("../webfonts/fa-solid-900-free-5.3.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-free-5.3.0.svg#fontawesome") format("svg");
-  unicode-range: U+F027-F028,U+F080,U+F0A1,U+F0B1,U+F0EB,U+F200-F201,U+F644,U+F647,U+F64A,U+F64F,U+F651,U+F653,U+F655,U+F65D,U+F662,U+F665-F666,U+F669,U+F66B,U+F66D,U+F66F,U+F674,U+F678-F679,U+F67B,U+F67F,U+F683-F684,U+F687-F689,U+F698-F699,U+F69B,U+F6A1,U+F6A7,U+F6A9;
+  unicode-range: U+F027-F028,U+F080,U+F0A1,U+F0B1,U+F0EB,U+F200-F201,U+F644,U+F647,U+F64A,U+F64F,U+F651,U+F653,U+F655,U+F65D,U+F662,U+F665,U+F669,U+F66B,U+F66D,U+F66F,U+F674,U+F678-F679,U+F67B,U+F67F,U+F683-F684,U+F687-F689,U+F698-F699,U+F69B,U+F6A1,U+F6A7,U+F6A9;
 }
 
 @font-face {
@@ -17205,7 +17974,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-pro-5.3.0.eot");
   src: url("../webfonts/fa-solid-900-pro-5.3.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-pro-5.3.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-pro-5.3.0.woff") format("woff"), url("../webfonts/fa-solid-900-pro-5.3.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-pro-5.3.0.svg#fontawesome") format("svg");
-  unicode-range: U+F2E2,U+F61A,U+F640,U+F643,U+F645-F646,U+F64B,U+F64D-F64E,U+F650,U+F652,U+F656,U+F65F-F661,U+F663,U+F667-F668,U+F66C,U+F66E,U+F670-F673,U+F675,U+F67A,U+F67D-F67E,U+F680,U+F685-F686,U+F68B,U+F694-F695,U+F697,U+F69C,U+F69E-F69F,U+F6A2-F6A6,U+F6A8,U+F6AC;
+  unicode-range: U+F2E2,U+F61A,U+F640,U+F643,U+F645-F646,U+F64B,U+F64D-F64E,U+F650,U+F652,U+F656,U+F65F-F661,U+F663,U+F667-F668,U+F66C,U+F66E,U+F670-F671,U+F673,U+F675,U+F67A,U+F67D-F67E,U+F680,U+F685-F686,U+F68B,U+F694-F695,U+F697,U+F69C,U+F69E-F69F,U+F6A2-F6A6,U+F6A8,U+F6AC;
 }
 
 @font-face {
@@ -17214,7 +17983,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-free-5.4.0.eot");
   src: url("../webfonts/fa-solid-900-free-5.4.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-free-5.4.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-free-5.4.0.woff") format("woff"), url("../webfonts/fa-solid-900-free-5.4.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-free-5.4.0.svg#fontawesome") format("svg");
-  unicode-range: U+F676,U+F6B6-F6B7,U+F6BB,U+F6CF,U+F6D1,U+F6D3,U+F6D5,U+F6D9,U+F6DE,U+F6E2-F6E3,U+F6E6,U+F6EC,U+F6F1-F6F2,U+F6FC,U+F6FF-F700,U+F70B,U+F715,U+F717,U+F722,U+F728-F729,U+F72F;
+  unicode-range: U+F676,U+F6B6-F6B7,U+F6BB,U+F6CF,U+F6D1,U+F6D5,U+F6D9,U+F6DE,U+F6E2-F6E3,U+F6E6,U+F6EC,U+F6F1-F6F2,U+F6FC,U+F6FF-F700,U+F70B,U+F715,U+F717,U+F722,U+F728-F729,U+F72F;
 }
 
 @font-face {
@@ -17223,7 +17992,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-pro-5.4.0.eot");
   src: url("../webfonts/fa-solid-900-pro-5.4.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-pro-5.4.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-pro-5.4.0.woff") format("woff"), url("../webfonts/fa-solid-900-pro-5.4.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-pro-5.4.0.svg#fontawesome") format("svg");
-  unicode-range: U+F499,U+F6AE,U+F6B0-F6B3,U+F6B5,U+F6B8-F6BA,U+F6BC,U+F6BF,U+F6C2,U+F6C5-F6C8,U+F6CB,U+F6CD-F6CE,U+F6D0,U+F6D2,U+F6D4,U+F6D8,U+F6DB,U+F6E5,U+F6E7,U+F6E9-F6EB,U+F6EE,U+F6F3,U+F6F5-F6F8,U+F6FD,U+F701-F703,U+F707,U+F70A,U+F711-F713,U+F716,U+F718-F71D,U+F720-F721,U+F723-F724,U+F726-F727,U+F72B,U+F72D;
+  unicode-range: U+F499,U+F6AE,U+F6B0-F6B3,U+F6B5,U+F6B8-F6BA,U+F6BC,U+F6BF,U+F6C2,U+F6C5-F6C8,U+F6CB,U+F6CD-F6CE,U+F6D0,U+F6D2,U+F6D8,U+F6DB,U+F6E5,U+F6E7,U+F6E9-F6EB,U+F6EE,U+F6F3,U+F6F5-F6F8,U+F6FD,U+F701-F703,U+F707,U+F70A,U+F711-F713,U+F716,U+F718-F71D,U+F720-F721,U+F723-F724,U+F726-F727,U+F72B,U+F72D;
 }
 
 @font-face {
@@ -17241,7 +18010,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-free-5.5.0.eot");
   src: url("../webfonts/fa-solid-900-free-5.5.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-free-5.5.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-free-5.5.0.woff") format("woff"), url("../webfonts/fa-solid-900-free-5.5.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-free-5.5.0.svg#fontawesome") format("svg");
-  unicode-range: U+F0E7,U+F185,U+F2DC,U+F6C3-F6C4,U+F72E,U+F73B-F73D,U+F740,U+F743,U+F747,U+F74D,U+F753,U+F756,U+F75A,U+F75E-F75F,U+F769,U+F76B,U+F772-F773;
+  unicode-range: U+F0E7,U+F185,U+F2DC,U+F6C3-F6C4,U+F72E,U+F73B-F73D,U+F740,U+F743,U+F747,U+F74D,U+F756,U+F75A,U+F75E-F75F,U+F769,U+F76B,U+F772-F773;
 }
 
 @font-face {
@@ -17250,7 +18019,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-pro-5.5.0.eot");
   src: url("../webfonts/fa-solid-900-pro-5.5.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-pro-5.5.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-pro-5.5.0.woff") format("woff"), url("../webfonts/fa-solid-900-pro-5.5.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-pro-5.5.0.svg#fontawesome") format("svg");
-  unicode-range: U+F732-F735,U+F737-F73A,U+F73E-F73F,U+F741-F742,U+F744-F746,U+F748-F74C,U+F74E-F750,U+F752,U+F754-F755,U+F757-F758,U+F75C,U+F760-F768,U+F76A,U+F76C-F76E,U+F771,U+F774-F776;
+  unicode-range: U+F732-F735,U+F737-F73A,U+F73E-F73F,U+F741-F742,U+F744-F746,U+F748-F74C,U+F74E-F750,U+F752,U+F754-F755,U+F757-F758,U+F75C,U+F760-F761,U+F763-F768,U+F76A,U+F76C-F76E,U+F771,U+F774-F776;
 }
 
 @font-face {
@@ -17259,7 +18028,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-free-5.6.0.eot");
   src: url("../webfonts/fa-solid-900-free-5.6.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-free-5.6.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-free-5.6.0.woff") format("woff"), url("../webfonts/fa-solid-900-free-5.6.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-free-5.6.0.svg#fontawesome") format("svg");
-  unicode-range: U+F06B,U+F5B7,U+F77D,U+F781,U+F788,U+F78C,U+F793-F794,U+F796,U+F79C,U+F79F-F7A0,U+F7A4,U+F7AA,U+F7AD-F7AE,U+F7B5-F7B6,U+F7BD,U+F7C0,U+F7C2,U+F7C5,U+F7C9-F7CA,U+F7CC-F7CE,U+F7D0,U+F7D2,U+F7D7-F7D8,U+F7DA;
+  unicode-range: U+F06B,U+F5B7,U+F77D,U+F781,U+F788,U+F78C,U+F793-F794,U+F796,U+F79C,U+F79F-F7A0,U+F7A4,U+F7AA,U+F7AD-F7AE,U+F7B5-F7B6,U+F7BD,U+F7C2,U+F7C5,U+F7C9-F7CA,U+F7CC-F7CE,U+F7D0,U+F7D2,U+F7D7-F7D8,U+F7DA;
 }
 
 @font-face {
@@ -17295,7 +18064,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-free-5.7.0.eot");
   src: url("../webfonts/fa-solid-900-free-5.7.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-free-5.7.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-free-5.7.0.woff") format("woff"), url("../webfonts/fa-solid-900-free-5.7.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-free-5.7.0.svg#fontawesome") format("svg");
-  unicode-range: U+F00A,U+F015,U+F06E,U+F070,U+F135,U+F1E4,U+F2A0,U+F470,U+F49E,U+F6D7,U+F780,U+F7E5-F7E6,U+F7EC,U+F7EF,U+F7F2,U+F7F5,U+F7F7,U+F7FB,U+F805,U+F807,U+F80F,U+F812,U+F815-F816,U+F818,U+F82F;
+  unicode-range: U+F00A,U+F015,U+F06E,U+F070,U+F1E4,U+F2A0,U+F470,U+F49E,U+F6D7,U+F780,U+F7E5-F7E6,U+F7EC,U+F7EF,U+F7F2,U+F7F5,U+F7F7,U+F7FB,U+F805,U+F807,U+F80F,U+F812,U+F815-F816,U+F818;
 }
 
 @font-face {
@@ -17367,7 +18136,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-free-5.10.1.eot");
   src: url("../webfonts/fa-solid-900-free-5.10.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-free-5.10.1.woff2") format("woff2"), url("../webfonts/fa-solid-900-free-5.10.1.woff") format("woff"), url("../webfonts/fa-solid-900-free-5.10.1.ttf") format("truetype"), url("../webfonts/fa-solid-900-free-5.10.1.svg#fontawesome") format("svg");
-  unicode-range: U+F000,U+F012,U+F029,U+F03E,U+F06D,U+F075,U+F07B,U+F083-F084,U+F0A0,U+F11E,U+F140,U+F19D,U+F20A,U+F247-F248,U+F251-F254,U+F25D,U+F275,U+F27A,U+F2C2,U+F2D1,U+F302,U+F3A5,U+F47F,U+F52F,U+F534,U+F561,U+F578,U+F591,U+F5E7,U+F613,U+F654,U+F658,U+F681-F682,U+F6BE,U+F6ED,U+F6F0,U+F6FA,U+F75B,U+F77C,U+F786-F787,U+F7AB,U+F7BF,U+F863,U+F87B;
+  unicode-range: U+F000,U+F012,U+F029,U+F03E,U+F06D,U+F075,U+F07B,U+F083-F084,U+F0A0,U+F11E,U+F140,U+F19D,U+F20A,U+F247-F248,U+F251-F254,U+F25D,U+F275,U+F27A,U+F2C2,U+F2D1,U+F302,U+F3A5,U+F47F,U+F52F,U+F534,U+F561,U+F578,U+F591,U+F5E7,U+F613,U+F654,U+F681-F682,U+F6BE,U+F6ED,U+F6F0,U+F6FA,U+F75B,U+F77C,U+F786-F787,U+F7AB,U+F863,U+F87B;
 }
 
 @font-face {
@@ -17376,7 +18145,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-pro-5.10.1.eot");
   src: url("../webfonts/fa-solid-900-pro-5.10.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-pro-5.10.1.woff2") format("woff2"), url("../webfonts/fa-solid-900-pro-5.10.1.woff") format("woff"), url("../webfonts/fa-solid-900-pro-5.10.1.ttf") format("truetype"), url("../webfonts/fa-solid-900-pro-5.10.1.svg#fontawesome") format("svg");
-  unicode-range: U+F310-F311,U+F34D,U+F435,U+F454,U+F456,U+F476,U+F480,U+F5DB,U+F5F6,U+F611,U+F657,U+F68C-F693,U+F6DA,U+F6E4,U+F6EF,U+F6F4,U+F6FB,U+F6FE,U+F72C,U+F751,U+F759,U+F779,U+F7B2,U+F7B7,U+F7E8,U+F813,U+F85F,U+F89C-F89D;
+  unicode-range: U+F310-F311,U+F34D,U+F435,U+F454,U+F456,U+F476,U+F480,U+F5DB,U+F5F6,U+F611,U+F68C-F693,U+F6DA,U+F6E4,U+F6EF,U+F6F4,U+F6FB,U+F6FE,U+F72C,U+F751,U+F759,U+F779,U+F7B2,U+F7B7,U+F7E8,U+F813,U+F85F,U+F89C-F89D;
 }
 
 @font-face {
@@ -17412,7 +18181,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-pro-5.11.0.eot");
   src: url("../webfonts/fa-solid-900-pro-5.11.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-pro-5.11.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-pro-5.11.0.woff") format("woff"), url("../webfonts/fa-solid-900-pro-5.11.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-pro-5.11.0.svg#fontawesome") format("svg");
-  unicode-range: U+F08E,U+F149,U+F2EB,U+F2EE,U+F2F3,U+F300,U+F307,U+F323-F324,U+F33D,U+F48A,U+F601,U+F61B,U+F64C,U+F68A,U+F6C1,U+F6DF-F6E1,U+F6F9,U+F81A,U+F89F-F8A5,U+F8A7-F8B6,U+F8B8-F8BF,U+F8C2-F8C9,U+F8CB,U+F8CD-F8D1,U+F8D3-F8D8,U+F8DA-F8DD,U+F8DF-F8E0,U+F8E2-F8E7,U+F8E9-F8ED,U+F8EF-F8F2;
+  unicode-range: U+F08E,U+F149,U+F2EB,U+F2EE,U+F2F3,U+F300,U+F307,U+F323-F324,U+F33D,U+F48A,U+F601,U+F61B,U+F64C,U+F68A,U+F6C1,U+F6DF-F6E1,U+F6F9,U+F81A,U+F89F-F8A5,U+F8A7-F8B6,U+F8B8-F8B9,U+F8BB-F8BF,U+F8C2-F8C9,U+F8CB,U+F8CD-F8D1,U+F8D3,U+F8D5-F8D8,U+F8DA-F8DD,U+F8DF-F8E0,U+F8E2-F8E7,U+F8E9-F8ED,U+F8EF-F8F2;
 }
 
 @font-face {
@@ -17421,7 +18190,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   src: url("../webfonts/fa-solid-900-free-5.11.1.eot");
   src: url("../webfonts/fa-solid-900-free-5.11.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-free-5.11.1.woff2") format("woff2"), url("../webfonts/fa-solid-900-free-5.11.1.woff") format("woff"), url("../webfonts/fa-solid-900-free-5.11.1.ttf") format("truetype"), url("../webfonts/fa-solid-900-free-5.11.1.svg#fontawesome") format("svg");
-  unicode-range: U+F00D,U+F048,U+F051,U+F0AC,U+F0B0,U+F118-F11A,U+F14E,U+F155,U+F186,U+F19C,U+F1EB,U+F21A,U+F221,U+F22D,U+F2BD,U+F433-F434,U+F436,U+F44E,U+F4DA,U+F4E3,U+F51F,U+F54E,U+F556,U+F567,U+F579-F57A,U+F57C-F585,U+F587,U+F589-F58C,U+F596-F59C,U+F5A4-F5A5,U+F5B3-F5B4,U+F5B8,U+F5C0,U+F5C2-F5C3,U+F5C8,U+F5CE,U+F5DE,U+F67C,U+F69A,U+F6AD,U+F7A2,U+F7A5,U+F7B9-F7BA,U+F806,U+F810;
+  unicode-range: U+F00D,U+F048,U+F051,U+F0AC,U+F0B0,U+F118-F11A,U+F14E,U+F155,U+F186,U+F19C,U+F1EB,U+F21A,U+F221,U+F22D,U+F2BD,U+F433-F434,U+F436,U+F44E,U+F4DA,U+F4E3,U+F51F,U+F54E,U+F556,U+F567,U+F579-F57A,U+F57C-F585,U+F587,U+F589-F58A,U+F58C,U+F596-F59C,U+F5A4-F5A5,U+F5B3-F5B4,U+F5B8,U+F5C0,U+F5C2-F5C3,U+F5C8,U+F5CE,U+F5DE,U+F67C,U+F69A,U+F6AD,U+F7A2,U+F7A5,U+F7B9-F7BA,U+F806,U+F810;
 }
 
 @font-face {
@@ -17440,6 +18209,24 @@ readers do not read off random characters that represent icons */
   src: url("../webfonts/fa-solid-900-pro-5.11.2.eot");
   src: url("../webfonts/fa-solid-900-pro-5.11.2.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-pro-5.11.2.woff2") format("woff2"), url("../webfonts/fa-solid-900-pro-5.11.2.woff") format("woff"), url("../webfonts/fa-solid-900-pro-5.11.2.ttf") format("truetype"), url("../webfonts/fa-solid-900-pro-5.11.2.svg#fontawesome") format("svg");
   unicode-range: U+F488,U+F8B7,U+F8F3;
+}
+
+@font-face {
+  font-family: 'Font Awesome 5 Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: url("../webfonts/fa-solid-900-free-5.12.0.eot");
+  src: url("../webfonts/fa-solid-900-free-5.12.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-free-5.12.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-free-5.12.0.woff") format("woff"), url("../webfonts/fa-solid-900-free-5.12.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-free-5.12.0.svg#fontawesome") format("svg");
+  unicode-range: U+F135,U+F1E6,U+F259,U+F2CC-F2CD,U+F422,U+F424,U+F515-F516,U+F544,U+F58B,U+F5D2,U+F61F,U+F658,U+F666,U+F6D3,U+F753,U+F7BF-F7C0,U+F82F,U+F8FF,U+F941;
+}
+
+@font-face {
+  font-family: 'Font Awesome 5 Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: url("../webfonts/fa-solid-900-pro-5.12.0.eot");
+  src: url("../webfonts/fa-solid-900-pro-5.12.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900-pro-5.12.0.woff2") format("woff2"), url("../webfonts/fa-solid-900-pro-5.12.0.woff") format("woff"), url("../webfonts/fa-solid-900-pro-5.12.0.ttf") format("truetype"), url("../webfonts/fa-solid-900-pro-5.12.0.svg#fontawesome") format("svg");
+  unicode-range: U+F5D3,U+F657,U+F672,U+F6D4,U+F762,U+F8BA,U+F8D4,U+F8F4-F8FE,U+F900-F906,U+F908-F912,U+F914-F919,U+F91B-F91D,U+F91F-F940,U+F942-F948,U+F94A-F950;
 }
 
 .fa,
