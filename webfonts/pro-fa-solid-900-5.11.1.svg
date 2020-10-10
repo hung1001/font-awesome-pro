@@ -2,11 +2,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20200314 at Mon Sep 28 13:17:34 2020
+Created by FontForge 20200314 at Mon Oct  5 09:52:24 2020
  By Robert Madole
 Copyright (c) Font Awesome
 </metadata>
-<defs>
+<!-- Font Awesome Pro 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><defs>
 <font id="FontAwesome5Pro-Solid" horiz-adv-x="496" >
   <font-face 
     font-family="Font Awesome 5 Pro Solid"
@@ -468,8 +468,3 @@ M192 64h45.7402c-5.52344 22.4805 -23.2598 40.2168 -45.7402 45.7402v-45.7402zM448
 c7.89551 7.95605 13.6846 18.0312 16.4902 29.25h-45.7402v-45.7402c11.2168 2.81055 21.291 8.59766 29.25 16.4902zM480 64h45.7402c-5.52344 22.4805 -23.2598 40.2168 -45.7402 45.7402v-45.7402z" />
   </font>
 </defs></svg>
-
-<!--
-Font Awesome Pro 5.15.0 by @fontawesome - https://fontawesome.com
-License - https://fontawesome.com/license (Commercial License)
--->
