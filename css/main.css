@@ -1,0 +1,31 @@
+:focus {
+  outline: 0;
+}
+
+.select2-container .select2-selection--single {
+  height: 35px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  line-height: 32px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+  top: 5px;
+}
+
+.select2-dropdown,
+.select2-container--default .select2-selection--single,
+.select2-container--default .select2-search--dropdown .select2-search__field {
+  background-color: #f8f9fa;
+}
+
+a:hover {
+  opacity: .8;
+  text-decoration: none;
+  transition: all 300ms ease;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
