@@ -1,19 +1,19 @@
 <?xml version="1.0" standalone="no"?>
 <!--
-Font Awesome Pro 5.7.2 by @fontawesome - https://fontawesome.com
+Font Awesome Pro 5.10.0 by @fontawesome - https://fontawesome.com
 License - https://fontawesome.com/license (Commercial License)
 -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190112 at Wed Feb 13 11:34:11 2019
+Created by FontForge 20190112 at Mon Jul 29 10:01:37 2019
  By Robert Madole
 Copyright (c) Font Awesome
 </metadata>
 <defs>
-<font id="FontAwesome5Clouds-Solid" horiz-adv-x="640" >
+<font id="FontAwesome5Pro-Solid" horiz-adv-x="640" >
   <font-face 
-    font-family="Font Awesome 5 Clouds Solid"
+    font-family="Font Awesome 5 Pro Solid"
     font-weight="900"
     font-stretch="normal"
     units-per-em="512"
@@ -23,10 +23,10 @@ Copyright (c) Font Awesome
     bbox="-0.0602614 -64.0603 640 448"
     underline-thickness="25"
     underline-position="-51"
-    unicode-range="U+0020-F833"
+    unicode-range="U+0020-F89D"
   />
     <missing-glyph />
-    <glyph glyph-name="whistle" unicode="&#xf460;" horiz-adv-x="639" 
+    <glyph glyph-name="whistle" unicode="&#xf460;" 
 d="M232 192c0 -13.2002 -10.7998 -24 -24 -24s-24 10.7998 -24 24s10.7998 24 24 24s24 -10.7998 24 -24zM484 241.7l150 -120c6.7002 -5.40039 8 -15.2002 2.7998 -22.1006l-78.2002 -104.3c-4.7998 -6.5 -13.6992 -8.2998 -20.6992 -4.2998l-150.4 86
 c-75.4004 -113.4 -236.7 -121.8 -326.5 -32c-65.5 65.5 -78.0996 163.8 -38 242c-14.4004 11.7998 -23 29.7002 -23 49c0 35.2998 28.7002 64 64 64c19.2002 0 36.9004 -8.90039 49 -23.5c65.2998 33.5996 144.4 30.7998 207 -9.2998l86.5996 -63.6006
 c5.30078 -4.19922 7.30078 -11.2998 5.10059 -17.6992l-10.2002 -29.5c-1.09961 -3.2002 -0.0996094 -6.7002 2.59961 -8.90039l25.2002 -20.2002c2.60059 -2.09961 6.2002 -2.2998 9.10059 -0.599609l27.3994 16.2002c5.7998 3.39941 13 2.89941 18.2002 -1.2002z

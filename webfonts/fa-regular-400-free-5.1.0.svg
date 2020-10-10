@@ -1,19 +1,19 @@
 <?xml version="1.0" standalone="no"?>
 <!--
-Font Awesome Pro 5.7.2 by @fontawesome - https://fontawesome.com
+Font Awesome Pro 5.10.0 by @fontawesome - https://fontawesome.com
 License - https://fontawesome.com/license (Commercial License)
 -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190112 at Wed Feb 13 11:34:14 2019
+Created by FontForge 20190112 at Mon Jul 29 10:01:41 2019
  By Robert Madole
 Copyright (c) Font Awesome
 </metadata>
 <defs>
-<font id="FontAwesome5Clouds-Regular" horiz-adv-x="496" >
+<font id="FontAwesome5Pro-Regular" horiz-adv-x="496" >
   <font-face 
-    font-family="Font Awesome 5 Clouds Regular"
+    font-family="Font Awesome 5 Pro Regular"
     font-weight="400"
     font-stretch="normal"
     units-per-em="512"
@@ -23,7 +23,7 @@ Copyright (c) Font Awesome
     bbox="0 -64.0662 639.978 448.066"
     underline-thickness="25"
     underline-position="-51"
-    unicode-range="U+0020-F833"
+    unicode-range="U+0020-F89D"
   />
     <missing-glyph />
     <glyph glyph-name="smile" unicode="&#xf118;" 
@@ -169,7 +169,7 @@ c-3.69922 0 -7 2.60059 -7.7998 6.2002c-0.899414 3.7998 1.10059 7.7002 4.7002 9.2
 c12.9004 5.5 20.7002 13.5 20.7002 21.5s-7.7998 16 -20.7998 21.5l-16.9004 7.19922c-3.59961 1.5 -5.59961 5.40039 -4.7002 9.2002c0.799805 3.7998 4.40039 6.60059 8.2002 6.2002c42.7002 -2.5 71.5 -24.7998 71.5 -44zM328 296
 c23.7998 0 52.7002 -29.2998 55.7998 -71.4004c0.299805 -3.7998 -2 -7.19922 -5.59961 -8.2998c-3.10059 -1 -7.2002 0 -9.2998 3.7002l-9.5 17c-7.7002 13.7002 -19.2002 21.5996 -31.5 21.5996c-12.3008 0 -23.8008 -7.89941 -31.5 -21.5996l-9.5 -17
 c-1.80078 -3.2002 -5.80078 -4.7002 -9.30078 -3.7002c-3.59961 1.10059 -5.89941 4.60059 -5.59961 8.2998c3.2998 42.1006 32.2002 71.4004 56 71.4004z" />
-    <glyph glyph-name="kiss-wink-heart" unicode="&#xf598;" horiz-adv-x="503" 
+    <glyph glyph-name="kiss-wink-heart" unicode="&#xf598;" horiz-adv-x="504" 
 d="M304 139.5c0 -13 -13.4004 -27.2998 -35.0996 -36.4004c21.7998 -8.69922 35.1992 -23 35.1992 -36c0 -19.1992 -28.6992 -41.5 -71.5 -44h-0.5c-3.69922 0 -7 2.60059 -7.7998 6.2002c-0.899414 3.7998 1.10059 7.7002 4.7002 9.2002l17 7.2002
 c12.9004 5.5 20.7002 13.5 20.7002 21.5s-7.7998 16 -20.7998 21.5l-16.9004 7.2002c-6 2.59961 -5.7002 12.3994 0 14.7998l17 7.2002c12.9004 5.5 20.7002 13.5 20.7002 21.5s-7.7998 16 -20.7998 21.5l-16.9004 7.19922c-3.59961 1.5 -5.59961 5.40039 -4.7002 9.2002
 c0.799805 3.7998 4.40039 6.60059 8.2002 6.2002c42.7002 -2.5 71.5 -24.7998 71.5 -44zM374.5 223c-14.7998 13.2002 -46.2002 13.2002 -61 0l-9.5 -8.5c-2.5 -2.2998 -7.90039 -4.7002 -13.7002 -1.59961c-4.39941 2.39941 -6.89941 7.39941 -6.09961 12.3994

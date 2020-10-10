@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!--
+Font Awesome Pro 5.10.0 by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license (Commercial License)
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20190112 at Mon Jul 29 10:01:36 2019
+ By Robert Madole
+Copyright (c) Font Awesome
+</metadata>
+<defs>
+<font id="FontAwesome5Duotone-Solid" horiz-adv-x="576" >
+  <font-face 
+    font-family="Font Awesome 5 Duotone Solid"
+    font-weight="900"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -64 576 448.001"
+    underline-thickness="25"
+    underline-position="-51"
+    unicode-range="U+0020-10F89B"
+  />
+    <missing-glyph />
+    <glyph glyph-name="lock-open-primary" unicode="&#xf3c1;" 
+d="M448 176v-192c0 -26.4961 -21.5039 -48 -48 -48h-352c-26.4961 0 -48 21.5039 -48 48v192c0 26.4961 21.5039 48 48 48h352c26.4961 0 48 -21.5039 48 -48z" />
+    <glyph glyph-name="lock-open-secondary" unicode="&#x10f3c1;" 
+d="M576 296v-80v-0.0605469c0 -13.2148 -10.7246 -23.9395 -23.9395 -23.9395h-0.0605469h-32h-0.0605469c-13.2148 0 -23.9395 10.7246 -23.9395 23.9395v0.0605469v80c-0.0595703 39.7451 -32.3643 72.002 -72.1104 72.002
+c-0.162109 0 -0.426758 -0.000976562 -0.589844 -0.00195312c-39.5996 -0.400391 -71.2998 -33.2998 -71.2998 -72.9004v-71.0996h-80v70.5c0 84 67.5 153.2 151.5 153.5s152.5 -68 152.5 -152z" />
+  </font>
+</defs></svg>
