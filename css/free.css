@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Free 5.9.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Free 5.10.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 
@@ -7,6 +7,7 @@
 .fas,
 .far,
 .fal,
+.fad,
 .fab {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -1435,6 +1436,10 @@ readers do not read off random characters that represent icons */
 
 .fa-copyright:before {
   content: "\f1f9";
+}
+
+.fa-cotton-bureau:before {
+  content: "\f89e";
 }
 
 .fa-couch:before {
@@ -5952,6 +5957,14 @@ readers do not read off random characters that represent icons */
   font-weight: normal;
   src: url("../webfonts/fa-brands-400-free-5.9.0.eot");
   src: url("../webfonts/fa-brands-400-free-5.9.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-brands-400-free-5.9.0.woff2") format("woff2"), url("../webfonts/fa-brands-400-free-5.9.0.woff") format("woff"), url("../webfonts/fa-brands-400-free-5.9.0.ttf") format("truetype"), url("../webfonts/fa-brands-400-free-5.9.0.svg#fontawesome") format("svg");
+}
+
+@font-face {
+  font-family: 'Font Awesome 5 Brands';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../webfonts/fa-brands-400-free-5.10.0.eot");
+  src: url("../webfonts/fa-brands-400-free-5.10.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-brands-400-free-5.10.0.woff2") format("woff2"), url("../webfonts/fa-brands-400-free-5.10.0.woff") format("woff"), url("../webfonts/fa-brands-400-free-5.10.0.ttf") format("truetype"), url("../webfonts/fa-brands-400-free-5.10.0.svg#fontawesome") format("svg");
 }
 
 .fab {
