@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!--
+Font Awesome Pro 5.8.0 by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license (Commercial License)
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20190112 at Tue Mar 19 17:21:27 2019
+ By Robert Madole
+Copyright (c) Font Awesome
+</metadata>
+<defs>
+<font id="FontAwesome5Clouds-Regular" horiz-adv-x="576" >
+  <font-face 
+    font-family="Font Awesome 5 Clouds Regular"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -32 576 416"
+    underline-thickness="25"
+    underline-position="-51"
+    unicode-range="U+0020-F83E"
+  />
+    <missing-glyph />
+    <glyph glyph-name="id-card" unicode="&#xf2c2;" 
+d="M528 416c26.5 0 48 -21.5 48 -48v-352c0 -26.5 -21.5 -48 -48 -48h-480c-26.5 0 -48 21.5 -48 48v352c0 26.5 21.5 48 48 48h480zM528 16v288h-480v-288h32.7998c-1 4.5 -0.799805 -3.59961 -0.799805 22.4004c0 31.7998 30.0996 57.5996 67.2002 57.5996
+c11.3994 0 17.8994 -8 44.7998 -8c26.0996 0 34 8 44.7998 8c37.1006 0 67.2002 -25.7998 67.2002 -57.5996c0 -26 0.0996094 -17.9004 -0.799805 -22.4004h224.8zM360 96c-4.40039 0 -8 3.59961 -8 8v16c0 4.40039 3.59961 8 8 8h112c4.40039 0 8 -3.59961 8 -8v-16
+c0 -4.40039 -3.59961 -8 -8 -8h-112zM360 160c-4.40039 0 -8 3.59961 -8 8v16c0 4.40039 3.59961 8 8 8h112c4.40039 0 8 -3.59961 8 -8v-16c0 -4.40039 -3.59961 -8 -8 -8h-112zM360 224c-4.40039 0 -8 3.59961 -8 8v16c0 4.40039 3.59961 8 8 8h112
+c4.40039 0 8 -3.59961 8 -8v-16c0 -4.40039 -3.59961 -8 -8 -8h-112zM192 128c-35.2998 0 -64 28.7002 -64 64s28.7002 64 64 64s64 -28.7002 64 -64s-28.7002 -64 -64 -64z" />
+  </font>
+</defs></svg>
