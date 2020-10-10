@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Free 5.13.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Free 5.13.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 
@@ -572,6 +572,14 @@ readers do not read off random characters that represent icons */
 
 .fa-bacon:before {
   content: "\f7e5";
+}
+
+.fa-bacteria:before {
+  content: "\f959";
+}
+
+.fa-bacterium:before {
+  content: "\f95a";
 }
 
 .fa-bahai:before {
@@ -1610,6 +1618,10 @@ readers do not read off random characters that represent icons */
   content: "\f2a4";
 }
 
+.fa-deezer:before {
+  content: "\f977";
+}
+
 .fa-delicious:before {
   content: "\f1a5";
 }
@@ -1852,6 +1864,10 @@ readers do not read off random characters that represent icons */
 
 .fa-edge:before {
   content: "\f282";
+}
+
+.fa-edge-legacy:before {
+  content: "\f978";
 }
 
 .fa-edit:before {
@@ -2508,6 +2524,10 @@ readers do not read off random characters that represent icons */
 
 .fa-google-drive:before {
   content: "\f3aa";
+}
+
+.fa-google-pay:before {
+  content: "\f979";
 }
 
 .fa-google-play:before {
@@ -4406,6 +4426,10 @@ readers do not read off random characters that represent icons */
   content: "\f156";
 }
 
+.fa-rust:before {
+  content: "\f97a";
+}
+
 .fa-sad-cry:before {
   content: "\f5b3";
 }
@@ -4612,6 +4636,10 @@ readers do not read off random characters that represent icons */
 
 .fa-simplybuilt:before {
   content: "\f215";
+}
+
+.fa-sink:before {
+  content: "\f96d";
 }
 
 .fa-sistrix:before {
@@ -5262,6 +5290,10 @@ readers do not read off random characters that represent icons */
   content: "\f3ff";
 }
 
+.fa-tiktok:before {
+  content: "\f97b";
+}
+
 .fa-times:before {
   content: "\f00d";
 }
@@ -5510,6 +5542,10 @@ readers do not read off random characters that represent icons */
   content: "\f13e";
 }
 
+.fa-unsplash:before {
+  content: "\f97c";
+}
+
 .fa-untappd:before {
   content: "\f405";
 }
@@ -5628,6 +5664,10 @@ readers do not read off random characters that represent icons */
 
 .fa-users-cog:before {
   content: "\f509";
+}
+
+.fa-users-slash:before {
+  content: "\f973";
 }
 
 .fa-usps:before {
