@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 5.12.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 5.12.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 (function () {
@@ -1135,7 +1135,7 @@
     mark: noop$1,
     measure: noop$1
   };
-  var preamble = "FA \"5.12.0\"";
+  var preamble = "FA \"5.12.1\"";
 
   var begin = function begin(name) {
     p.mark("".concat(preamble, " ").concat(name, " begins"));
@@ -1212,6 +1212,22 @@
 
     return result;
   }
+  function codePointAt(string, index) {
+    /*! https://mths.be/codepointat v0.2.0 by @mathias */
+    var size = string.length;
+    var first = string.charCodeAt(index);
+    var second;
+
+    if (first >= 0xD800 && first <= 0xDBFF && size > index + 1) {
+      second = string.charCodeAt(index + 1);
+
+      if (second >= 0xDC00 && second <= 0xDFFF) {
+        return (first - 0xD800) * 0x400 + second - 0xDC00 + 0x10000;
+      }
+    }
+
+    return first;
+  }
 
   function defineIcons(prefix, icons) {
     var params = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};
@@ -1278,7 +1294,7 @@
   var _byOldName = {};
 
   function isPrivateUnicode(iconName) {
-    return iconName.length === 1 && iconName.codePointAt(0) >= 61440;
+    return iconName.length === 1 && codePointAt(iconName, 0) >= 61440;
   }
 
   function handle(prefix, iconName, svgText) {
@@ -2160,6 +2176,7 @@
       var styles = WINDOW.getComputedStyle(node, position);
       var fontFamily = styles.getPropertyValue('font-family').match(FONT_FAMILY_PATTERN);
       var fontWeight = styles.getPropertyValue('font-weight');
+      var content = styles.getPropertyValue('content');
 
       if (alreadyProcessedPseudoElement && !fontFamily) {
         // If we've already processed it but the current computed style does not result in a font-family,
@@ -2167,8 +2184,7 @@
         // removed. So we now should delete the icon.
         node.removeChild(alreadyProcessedPseudoElement);
         return resolve();
-      } else if (fontFamily) {
-        var content = styles.getPropertyValue('content');
+      } else if (fontFamily && content !== 'none' && content !== '') {
         var prefix = ~['Solid', 'Regular', 'Light', 'Duotone', 'Brands'].indexOf(fontFamily[1]) ? STYLE_TO_PREFIX[fontFamily[1].toLowerCase()] : FONT_WEIGHT_TO_PREFIX[fontWeight];
         var hexValue = toHex(content.length === 3 ? content.substr(1, 1) : content);
         var iconName = byUnicode(prefix, hexValue);
