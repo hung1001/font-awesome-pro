@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 5.15.1 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 5.15.2 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 (function () {
@@ -1149,7 +1149,7 @@
     mark: noop$1,
     measure: noop$1
   };
-  var preamble = "FA \"5.15.1\"";
+  var preamble = "FA \"5.15.2\"";
 
   var begin = function begin(name) {
     p.mark("".concat(preamble, " ").concat(name, " begins"));
@@ -1354,8 +1354,6 @@
         url = _params$url === void 0 ? config.fetchSvgFrom : _params$url,
         _params$uploadedSvgUr = params.uploadedSvgUrl,
         uploadedSvgUrl = _params$uploadedSvgUr === void 0 ? config.fetchUploadedSvgFrom : _params$uploadedSvgUr,
-        _params$headers = params.headers,
-        headers = _params$headers === void 0 ? {} : _params$headers,
         token = params.token,
         version = params.version;
 
@@ -1374,6 +1372,10 @@
 
       var fullUrl = isUploadedIcon ? "".concat(uploadedSvgUrl, "/").concat(token, "/icons/").concat(iconPath(iconName, version)) : "".concat(url, "/").concat(PREFIX_TO_STYLE[prefix], "/").concat(iconPath(iconName));
 
+      if (token) {
+        fullUrl = "".concat(fullUrl, "?token=").concat(token);
+      }
+
       if (namespace.styles[prefix] && namespace.styles[prefix][iconName]) {
         return resolve(namespace.styles[prefix][iconName]);
       }
@@ -1385,7 +1387,6 @@
       if (_fetchers[prefix][iconName].length === 1) {
         if (typeof fetch === 'function') {
           fetch(fullUrl, {
-            headers: headers,
             mode: 'cors'
           }).then(function (response) {
             return response.text();
@@ -1404,9 +1405,6 @@
             }
           });
           req.open('GET', fullUrl);
-          Object.keys(headers).forEach(function (header) {
-            req.setRequestHeader(header, headers[header]);
-          });
           req.send();
         } else {
           handle(prefix, iconName, '');
@@ -2034,31 +2032,22 @@
         var icon = styles$2[prefix][iconName];
         return resolve(asFoundIcon(icon));
       }
-
-      var headers = {};
-      var customIconParams = {};
-      var kitToken = null;
-      var iconVersion = resolveCustomIconVersion(WINDOW.FontAwesomeKitConfig, iconName);
-
-      if (WINDOW.FontAwesomeKitConfig && WINDOW.FontAwesomeKitConfig.token) {
-        kitToken = WINDOW.FontAwesomeKitConfig.token;
-      }
-
-      if (kitToken) {
-        headers['fa-kit-token'] = kitToken;
-      }
-
-      if (prefix === 'fak') {
-        customIconParams.token = kitToken;
-        customIconParams.version = iconVersion;
-      }
       /* BEGIN.FEATURE.AF */
 
 
+      var customIconParams = {};
+      var iconVersion = resolveCustomIconVersion(WINDOW.FontAwesomeKitConfig, iconName);
+
+      if (WINDOW.FontAwesomeKitConfig && WINDOW.FontAwesomeKitConfig.token) {
+        customIconParams.token = WINDOW.FontAwesomeKitConfig.token;
+      }
+
+      if (prefix === 'fak') {
+        customIconParams.version = iconVersion;
+      }
+
       if (iconName && prefix && config.autoFetchSvg) {
-        return fetchSvg(prefix, iconName, _objectSpread({
-          headers: headers
-        }, customIconParams)).then(function (icon) {
+        return fetchSvg(prefix, iconName, _objectSpread({}, customIconParams)).then(function (icon) {
           var fetched = {};
 
           if (icon) {
