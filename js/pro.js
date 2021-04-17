@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 5.15.2 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 5.15.3 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 (function () {
@@ -1149,7 +1149,7 @@
     mark: noop$1,
     measure: noop$1
   };
-  var preamble = "FA \"5.15.2\"";
+  var preamble = "FA \"5.15.3\"";
 
   var begin = function begin(name) {
     p.mark("".concat(preamble, " ").concat(name, " begins"));

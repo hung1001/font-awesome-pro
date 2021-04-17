@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 5.15.2 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 5.15.3 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 
@@ -9911,7 +9911,7 @@ readers do not read off random characters that represent icons */
   font-display: block;
   src: url("../webfonts/pro-fa-duotone-900-5.2.0.eot");
   src: url("../webfonts/pro-fa-duotone-900-5.2.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-duotone-900-5.2.0.woff2") format("woff2"), url("../webfonts/pro-fa-duotone-900-5.2.0.woff") format("woff"), url("../webfonts/pro-fa-duotone-900-5.2.0.ttf") format("truetype"), url("../webfonts/pro-fa-duotone-900-5.2.0.svg#fontawesome") format("svg");
-  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5D1,U+F5D4-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F61E,U+F620-F621,U+F623-F62F,U+F633,U+F635-F63D,U+10F018,U+10F0E4,U+10F109,U+10F1B9,U+10F1E5,U+10F1F6,U+10F21D,U+10F276-10F277,U+10F3FD,U+10F4D7,U+10F518,U+10F5D0-10F5D1,U+10F5D4-10F5DA,U+10F5DD,U+10F5DF-10F5E5,U+10F5E8-10F5EA,U+10F5ED-10F5F0,U+10F5F2,U+10F5F4-10F5F5,U+10F5F8-10F5F9,U+10F5FB-10F600,U+10F603-10F60E,U+10F610,U+10F614,U+10F617-10F619,U+10F61C-10F61E,U+10F620-10F621,U+10F623-10F62F,U+10F633,U+10F635-10F63D;
+  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D1,U+F5D4-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F61E,U+F620-F621,U+F623-F62F,U+F633,U+F635-F63D,U+10F018,U+10F0E4,U+10F109,U+10F1B9,U+10F1E5,U+10F1F6,U+10F21D,U+10F276-10F277,U+10F3FD,U+10F4D7,U+10F518,U+10F5D1,U+10F5D4-10F5DA,U+10F5DD,U+10F5DF-10F5E5,U+10F5E8-10F5EA,U+10F5ED-10F5F0,U+10F5F2,U+10F5F4-10F5F5,U+10F5F8-10F5F9,U+10F5FB-10F600,U+10F603-10F60E,U+10F610,U+10F614,U+10F617-10F619,U+10F61C-10F61E,U+10F620-10F621,U+10F623-10F62F,U+10F633,U+10F635-10F63D;
 }
 
 @font-face {
@@ -10132,6 +10132,16 @@ readers do not read off random characters that represent icons */
   src: url("../webfonts/pro-fa-duotone-900-5.15.1.eot");
   src: url("../webfonts/pro-fa-duotone-900-5.15.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-duotone-900-5.15.1.woff2") format("woff2"), url("../webfonts/pro-fa-duotone-900-5.15.1.woff") format("woff"), url("../webfonts/pro-fa-duotone-900-5.15.1.ttf") format("truetype"), url("../webfonts/pro-fa-duotone-900-5.15.1.svg#fontawesome") format("svg");
   unicode-range: U+E085-E086,U+10E085-10E086;
+}
+
+@font-face {
+  font-family: 'Font Awesome 5 Duotone';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url("../webfonts/pro-fa-duotone-900-5.15.3.eot");
+  src: url("../webfonts/pro-fa-duotone-900-5.15.3.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-duotone-900-5.15.3.woff2") format("woff2"), url("../webfonts/pro-fa-duotone-900-5.15.3.woff") format("woff"), url("../webfonts/pro-fa-duotone-900-5.15.3.ttf") format("truetype"), url("../webfonts/pro-fa-duotone-900-5.15.3.svg#fontawesome") format("svg");
+  unicode-range: U+F5D0,U+10F5D0;
 }
 
 .fad {
@@ -17711,7 +17721,7 @@ readers do not read off random characters that represent icons */
   font-display: block;
   src: url("../webfonts/pro-fa-light-300-5.2.0.eot");
   src: url("../webfonts/pro-fa-light-300-5.2.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-light-300-5.2.0.woff2") format("woff2"), url("../webfonts/pro-fa-light-300-5.2.0.woff") format("woff"), url("../webfonts/pro-fa-light-300-5.2.0.ttf") format("truetype"), url("../webfonts/pro-fa-light-300-5.2.0.svg#fontawesome") format("svg");
-  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5D1,U+F5D4-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F61E,U+F620-F621,U+F623-F62F,U+F633,U+F635-F63D;
+  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D1,U+F5D4-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F61E,U+F620-F621,U+F623-F62F,U+F633,U+F635-F63D;
 }
 
 @font-face {
@@ -17934,6 +17944,16 @@ readers do not read off random characters that represent icons */
   unicode-range: U+E085-E086;
 }
 
+@font-face {
+  font-family: 'Font Awesome 5 Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-display: block;
+  src: url("../webfonts/pro-fa-light-300-5.15.3.eot");
+  src: url("../webfonts/pro-fa-light-300-5.15.3.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-light-300-5.15.3.woff2") format("woff2"), url("../webfonts/pro-fa-light-300-5.15.3.woff") format("woff"), url("../webfonts/pro-fa-light-300-5.15.3.ttf") format("truetype"), url("../webfonts/pro-fa-light-300-5.15.3.svg#fontawesome") format("svg");
+  unicode-range: U+F5D0;
+}
+
 .fal {
   font-family: 'Font Awesome 5 Pro';
   font-weight: 300;
@@ -18136,7 +18156,7 @@ readers do not read off random characters that represent icons */
   font-display: block;
   src: url("../webfonts/pro-fa-regular-400-5.2.0.eot");
   src: url("../webfonts/pro-fa-regular-400-5.2.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-regular-400-5.2.0.woff2") format("woff2"), url("../webfonts/pro-fa-regular-400-5.2.0.woff") format("woff"), url("../webfonts/pro-fa-regular-400-5.2.0.ttf") format("truetype"), url("../webfonts/pro-fa-regular-400-5.2.0.svg#fontawesome") format("svg");
-  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5D1,U+F5D4-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F61E,U+F620-F621,U+F623-F62F,U+F633,U+F635-F63D;
+  unicode-range: U+F018,U+F0E4,U+F109,U+F1B9,U+F1E5,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D1,U+F5D4-F5DA,U+F5DD,U+F5DF-F5E5,U+F5E8-F5EA,U+F5ED-F5F0,U+F5F2,U+F5F4-F5F5,U+F5F8-F5F9,U+F5FB-F600,U+F603-F60E,U+F610,U+F614,U+F617-F619,U+F61C-F61E,U+F620-F621,U+F623-F62F,U+F633,U+F635-F63D;
 }
 
 @font-face {
@@ -18449,6 +18469,16 @@ readers do not read off random characters that represent icons */
   unicode-range: U+E085-E086;
 }
 
+@font-face {
+  font-family: 'Font Awesome 5 Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../webfonts/pro-fa-regular-400-5.15.3.eot");
+  src: url("../webfonts/pro-fa-regular-400-5.15.3.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-regular-400-5.15.3.woff2") format("woff2"), url("../webfonts/pro-fa-regular-400-5.15.3.woff") format("woff"), url("../webfonts/pro-fa-regular-400-5.15.3.ttf") format("truetype"), url("../webfonts/pro-fa-regular-400-5.15.3.svg#fontawesome") format("svg");
+  unicode-range: U+F5D0;
+}
+
 .far {
   font-family: 'Font Awesome 5 Pro';
   font-weight: 400;
@@ -18641,7 +18671,7 @@ readers do not read off random characters that represent icons */
   font-display: block;
   src: url("../webfonts/pro-fa-solid-900-5.2.0.eot");
   src: url("../webfonts/pro-fa-solid-900-5.2.0.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-solid-900-5.2.0.woff2") format("woff2"), url("../webfonts/pro-fa-solid-900-5.2.0.woff") format("woff"), url("../webfonts/pro-fa-solid-900-5.2.0.ttf") format("truetype"), url("../webfonts/pro-fa-solid-900-5.2.0.svg#fontawesome") format("svg");
-  unicode-range: U+F018,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D0-F5D1,U+F5D7,U+F5DA,U+F5DF,U+F5E1,U+F5E4,U+F5EE,U+F5FC-F5FD,U+F604,U+F610,U+F619,U+F621,U+F62E-F62F,U+F637,U+F63B-F63C;
+  unicode-range: U+F018,U+F109,U+F1B9,U+F1E5,U+F1F6,U+F21D,U+F276-F277,U+F3FD,U+F4D7,U+F518,U+F5D1,U+F5D7,U+F5DA,U+F5DF,U+F5E1,U+F5E4,U+F5EE,U+F5FC-F5FD,U+F604,U+F610,U+F619,U+F621,U+F62E-F62F,U+F637,U+F63B-F63C;
 }
 
 @font-face {
@@ -19012,6 +19042,16 @@ readers do not read off random characters that represent icons */
   src: url("../webfonts/pro-fa-solid-900-5.15.1.eot");
   src: url("../webfonts/pro-fa-solid-900-5.15.1.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-solid-900-5.15.1.woff2") format("woff2"), url("../webfonts/pro-fa-solid-900-5.15.1.woff") format("woff"), url("../webfonts/pro-fa-solid-900-5.15.1.ttf") format("truetype"), url("../webfonts/pro-fa-solid-900-5.15.1.svg#fontawesome") format("svg");
   unicode-range: U+E085-E086;
+}
+
+@font-face {
+  font-family: 'Font Awesome 5 Pro';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url("../webfonts/pro-fa-solid-900-5.15.3.eot");
+  src: url("../webfonts/pro-fa-solid-900-5.15.3.eot?#iefix") format("embedded-opentype"), url("../webfonts/pro-fa-solid-900-5.15.3.woff2") format("woff2"), url("../webfonts/pro-fa-solid-900-5.15.3.woff") format("woff"), url("../webfonts/pro-fa-solid-900-5.15.3.ttf") format("truetype"), url("../webfonts/pro-fa-solid-900-5.15.3.svg#fontawesome") format("svg");
+  unicode-range: U+F5D0;
 }
 
 .fa,
