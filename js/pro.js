@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 5.15.3 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 (function () {
@@ -199,7 +199,7 @@
     'kit': 'fak'
   };
   var LAYERS_TEXT_CLASSNAME = 'fa-layers-text';
-  var FONT_FAMILY_PATTERN = /Font Awesome ([5 ]*)(Solid|Regular|Light|Duotone|Brands|Free|Pro|Kit).*/; // TODO: do we need to handle font-weight for kit SVG pseudo-elements?
+  var FONT_FAMILY_PATTERN = /Font Awesome ([5 ]*)(Solid|Regular|Light|Duotone|Brands|Free|Pro|Kit).*/i; // TODO: do we need to handle font-weight for kit SVG pseudo-elements?
 
   var FONT_WEIGHT_TO_PREFIX = {
     '900': 'fas',
@@ -1149,7 +1149,7 @@
     mark: noop$1,
     measure: noop$1
   };
-  var preamble = "FA \"5.15.3\"";
+  var preamble = "FA \"5.15.4\"";
 
   var begin = function begin(name) {
     p.mark("".concat(preamble, " ").concat(name, " begins"));
